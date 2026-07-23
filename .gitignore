@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PDF source files (large binaries, download separately)
+pdfs/
+
+# Extracted images from PDF conversion
+markdown/*/images/
+
+# Local editor / agent state
+.zcode/

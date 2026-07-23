@@ -1,0 +1,27 @@
+# In Gold We Trust Report 2023
+
+## Table of Contents
+
+1. [Introduction](01_introduction.md)
+2. [Status Quo of Gold](02_status_quo_of_gold.md)
+3. [Status Quo of Gold Relative to Stocks, Bonds, and Commodities](03_status_quo_of_gold_relative_to_stocks_bonds_and_commodities.md)
+4. [Status Quo of Debt Dynamics](04_status_quo_of_debt_dynamics.md)
+5. [Status Quo of the Inflation Trend](05_status_quo_of_the_inflation_trend.md)
+6. [Status Quo of Gold Demand](06_status_quo_of_gold_demand.md)
+7. [Conclusion: Status Quo](07_conclusion_status_quo.md)
+8. [The Showdown in Monetary Policy](08_the_showdown_in_monetary_policy.md)
+9. [Exclusive Interview with Zoltan Pozsar: Adapting to the New World Order](09_exclusive_interview_with_zoltan_pozsar_adapting_to_the_new_world_order.md)
+10. [De-Dollarization: The Final Showdown?](10_de_dollarization_the_final_showdown.md)
+11. [The Rise of Eastern Gold Markets: An Impending Showdown with the West](11_the_rise_of_eastern_gold_markets_an_impending_showdown_with_the_west.md)
+12. [Without State Intervention – China’s Historic Silver Standard](12_without_state_intervention_chinas_historic_silver_standard.md)
+13. [Shifting Narratives, Shifting World](13_shifting_narratives_shifting_world.md)
+14. [Crack-Up Boom – The End of a Currency Regime](14_crack_up_boom_the_end_of_a_currency_regime.md)
+15. [Silver’s Time to Shine?](15_silvers_time_to_shine.md)
+16. [The Synchronous Bull Market Indicator](16_the_synchronous_bull_market_indicator.md)
+17. [Mining Stocks – Fundamental and Technical Position](17_mining_stocks_fundamental_and_technical_position.md)
+18. [Life Cycle of a Mining Project](18_life_cycle_of_a_mining_project.md)
+19. [Responsible Gold Mining: Meeting the Growing Demand for Sustainability](19_responsible_gold_mining_meeting_the_growing_demand_for_sustainability.md)
+20. [Capex Comeback: A Raging Bull Market for Commodities Beckons](20_capex_comeback_a_raging_bull_market_for_commodities_beckons.md)
+21. [Exclusive Interview with Russell Napier: Save Like a Pessimist, Invest like an Optimist](21_exclusive_interview_with_russell_napier_save_like_a_pessimist_invest_like_an_opt.md)
+22. [Technical Analysis](22_technical_analysis.md)
+23. [Quo Vadis, Aurum?](23_quo_vadis_aurum.md)
