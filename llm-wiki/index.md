@@ -78,6 +78,7 @@ investing** → **the voices**.
 | [**Silver**](concepts/silver.md) | Silver as high-beta-to-gold; the gold/silver ratio as a monetary barometer; solar/AI demand; the structural-deficit thesis. | 8 |
 | [**ESG & responsible mining**](concepts/esg_responsible_mining.md) | ESG as a capital-allocation gatekeeper, the tension with rising gold demand, and the counter-intuitive "gold as ESG-positive" thesis. | 10 |
 | [**Technical analysis & price targets**](concepts/technical_analysis.md) | The 1970s-bull-market comparison, "Quo vadis, aurum?" price targets, the Coppock curve, and the Active Aurum Signal. | 11 |
+| [**Incrementum's proprietary models**](concepts/proprietary_models.md) | The four house models in one place: the Inflation Signal, the SEGPM (S&P+1.5oz vs M2), the Active Aurum Signal, and the Midas Touch Gold Model. | 11 |
 | [**Manipulation & intervention**](concepts/manipulation_intervention.md) | The manipulation-vs-intervention distinction, paper-vs-physical divergence, the LBMA fractional-reserve structure, and the 2016 Deutsche Bank settlements. | 7 |
 | [**Gold storage & custody**](concepts/gold_storage_custody.md) | The jurisdiction fact-checking series, allocated vs unallocated, confiscation history (1933 et al.), and the modern threat model (surveillance, capital controls). | 5 |
 | [**Tokenization & digital gold**](concepts/tokenization_digital_gold.md) | Gold tokenization — from 2019 skepticism ("not your vault, not your gold") to the 2026 "sixth vector of remonetization." The counterparty-risk tension. | 4 |
@@ -91,11 +92,6 @@ investing** → **the voices**.
 
 ### Candidate concepts (not yet compiled)
 
-- **The Incrementum proprietary models** — the Inflation Signal, the SEGPM, the
-  Active Aurum Signal, the Midas Touch model. Currently distributed across
-  [technical_analysis](concepts/technical_analysis.md),
-  [monetary_policy_inflation](concepts/monetary_policy_inflation.md), and
-  [portfolio_diversification](concepts/portfolio_diversification.md).
 - **The demand components in detail** — jewellery, ETFs, coins, industrial, central
   bank. Currently distributed across [supply_demand](concepts/supply_demand.md),
   [india_eastern_demand](concepts/india_eastern_demand.md), and

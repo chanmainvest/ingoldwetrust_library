@@ -269,3 +269,33 @@ deflation endgame (Mises vs Exter); gold-as-inflation-hedge vs transition-hedge
 work (structural-risk alarm bells vs reliable timing devices).
 
 Next: final lint + commit/push.
+
+---
+
+## [2026-07-24] ingest | Sixth wave — proprietary models page (30 total)
+
+Consolidated the four Incrementum house models into one authoritative reference
+page, pulling together material that was previously distributed across three other
+pages.
+
+- `concepts/proprietary_models.md` — 11 sources (2014, 2016, 2019, 2020, 2022 ×2,
+  2023, 2024 ×2, 2025, 2026). Covers:
+  - **Inflation Signal**: the "monetary seismograph" (gold/silver/BCOM/HUI); its
+    2024 revision after the 2023 disinflation miss.
+  - **SEGPM**: the S&P+1.5oz joint index tracking M2; the Synchronous Bull Market
+    Indicator operationalization (backtest +62,798% vs ~4,000% buy-and-hold).
+  - **Active Aurum Signal**: the mining-stock timing signal (5 anticyclical + 1
+    procyclical component; 3 levels); backtest 16,279% vs 1,477% passive; live
+    2024-26 cycle (Offensive→Neutral→Defensive).
+  - **Midas Touch Gold Model**: Grummes's multi-component discretionary table
+    (since 2016); track record (Feb 2016 buy, Feb 2023 buy; bearish tactical
+    switches near tops).
+
+**Wiki now: 30 concept pages.** Candidate list down to one (demand components in
+detail — deliberately distributed across three pages).
+
+Correction noted: the Active Aurum cycle-signal components disclosed in the reports
+are RSI/CFTC/Bollinger-on-miners-gold/TIPS/miners-vs-MA — not Coppock/gold-silver/
+gold-vs-USD (which appear in Incrementum's separate long-term technical work).
+
+Next: final lint + commit/push.
