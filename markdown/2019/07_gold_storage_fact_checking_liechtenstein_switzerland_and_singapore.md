@@ -1,590 +1,314 @@
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
 
-**177** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0177-02.png)
+**167** 
 
 
-### **The Plaza Accord of September 22, 1985, required a lot of trust, as all** 
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0167-02.png)
 
-**multilateral agreements do** . Unlike supranational organizations that have the means of legal enforcement at their disposal, multilateral agreements are characterized by the fact that the signatory states cannot ultimately be forced to fulfill their obligations by legal means. The signatories therefore have to trust that all will voluntarily comply with the agreement. Moreover, citizens trust that politicians will not sacrifice their respective domestic currency on the altar of these multilateral agreements. 
 
-_It is incumbent on every generation to pay its own debts as it goes. A principle which if acted on, would save one-half the wars of the world._ **Thomas Jefferson** 
+## **Why we should care about safe storage of precious metals** 
 
-Multilateral agreements are an acknowledgment that in certain situations cooperation based on trust is the only way of preventing the world from entering a downside spiral. The Plaza Accord was designed to prevent a downside spiral akin to that of the 1930s, when beggar-thy-neighbor policies not only triggered a wave of protectionism, but did lasting damage to the (political) trust between nations. In this respect the Plaza Accord represented an example of the multilateral cooperation between nations, which had – for all its weaknesses and imperfections – become characteristic for the era after World War II and after 1989. 
+_“History speaks only to those people who know how to interpret it.”_ 
 
-# **Regarding the events leading up to** 
+Ludwig von Mises 
 
-_“To be ignorant of what occurred before you were born is to remain always a child.”_ 
+_After all, culture is wealth. Without well-being, without wealth, there never has been culture._ **Ludwig von Mises** 
 
-Cicero 
+**The entire reasoning behind investing in and holding of physical precious metals, especially when kept outside the banking system in private high-security storage facilities, revolves around the concepts of trust, security, risk diversification and hedging against the vulnerabilities and worst-case scenarios of the current monetary system. Thus, the choice of storage location must also be largely evaluated through the same lens.** 
 
-_When the President does it, that means it's not illegal._ **Richard Nixon** 
+The main factors to be considered when choosing a jurisdiction in which to store private gold are the level of protection of individual financial freedom and of private property rights; political and economic stability; and the government’s predictability, restraint, and historical track record. According to these measures, three countries stand out from the rest: Switzerland, Liechtenstein, and Singapore. 
 
-**To understand the Plaza Accord, one has to look back to August 15, 1971** . As readers of the _In Gold We Trust_ report undoubtedly know, on this day Richard Nixon closed the gold window. This step de facto ended the Bretton Woods system, which had been created in 1944 in the New Hampshire town of the same name and was formally terminated in 1973. **The era of gold-backed** 
+## **Liechtenstein’s unique advantage s** 
 
-### **currency was well and truly over; The era of flexible exchange rates had begun.** 
+_“For hundreds of years, the Liechtenstein family has abided by the law it set itself. According to this House Law, the Prince watches over the “reputation”, esteem and welfare” of the Princely House of Liechtenstein.”_ 
 
-_Stability might not be everything, but everything is nothing without stability._ **Steve Hanke** 
+Prince Hans-Adam II 
 
-Even though it was rather rudimentary, the Bretton Woods system still provided a gold anchor for the global currency system. Only the US dollar could be redeemed for gold, and the right to demand payment in gold was confined exclusively to central banks. Just as in the classical gold standard, the gold anchor was supposed to provide stability to the global currency system. National currencies were pegged to the US dollar, but adjustments were possible in the event that fundamental imbalances emerged. Contrary to the classical gold standard, which was designed to prevent countries from acting unilaterally altogether – particularly in the fiscal realm, Bretton Woods provided some leeway for discretionary national policies.<sup>**210**</sup> 
+**As our company is based in Liechtenstein, we would like to start with this small but strong bastion of liberty and stability.** The Principality of Liechtenstein has not joined the EU but is a member of the European Economic Area and the Schengen Area. Although it became independent in 1806, it can be argued that the history and the values of today’s Liechtenstein were mainly formed after WWII. It was then that today’s reigning Prince of Liechtenstein, Prince HansAdam II, had to take over a bankrupt country and effectively managed to turn it into a highly competitive, innovative, and agile financial hub of international renown. Liechtenstein is led by one of the oldest noble families in European history, whose roots go back to the 11<sup>th</sup> century. They have a long-established history as advisors, especially during the Habsburg Monarchy. 
 
-### **However, the tie to gold was supposed to prevent the adoption of** 
+**The country’s standing as a reliable business and banking center and the princely house’s reputation for being ahead of the curve are undeniable today.** For example, Liechtenstein and members of the princely 
 
-**beggar-thy-neighbor policies,** in other words a devaluation race similar to the one that had proven to be so devastating in the interwar period. In the short term, 
+# **igwt19** 
+
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
+
+**168** 
+
+
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0168-02.png)
+
+
+family have established the European Center for Austrian Economics (ECAEF)<sup>**206**</sup> under the guidance of Prince Michael and Prince Philipp of Liechtenstein. The ruling families of Liechtenstein fully embrace the values of individual and financial freedom and recognize the importance of private property rights. Property rights are even further protected given the fact that Liechtenstein has no emergency legislation. Even in times of political or economic upheaval, an ad-hoc expropriation is thus unenforceable. 
+
+_We in the Princely House are convinced that the Liechtenstein monarchy is a partnership between the people and the Princely House, a partnership that should be voluntary and based on mutual respect._ **Prince Hans-Adam II** 
+
+The system of government is classified as a constitutional monarchy, with the decision-making power being shared by the monarch and the democratically elected parliament. The Prince retains significant political power as head of state, and also has veto power. However, there are key exceptions and limitations to the Prince’s authority, as the people have the right to abolish the monarchy if they choose to, or to launch an initiative of no-confidence against the prince, with only 1,500 signatures required to kickstart both processes. 
+
+Prince Hans-Adam II himself wrote the political treatise _The State in the Third Millennium_ (2009), in which he promotes sound money like gold and silver. In this book, which we highly recommend, he also defends the right of secession right down to the level of the municipality; and he is a fierce proponent of limited government, free trade, and free speech. 
+
+Overall, Liechtenstein remains a very solid jurisdiction candidate. It is built on a system of governance that shows great restraint and respect towards individual freedom, private property, the right to privacy, and the financial sovereignty of its people. From a military aspect, Liechtenstein is protected by the Swiss military and has strong ties with Switzerland in general, although being fully sovereign with respect to local laws and international policy. 
+
+As a clear exception to the global trend, Liechtenstein has been running budget surpluses for years, signaling not only financial prudence but also providing the country financial leeway in case of a severe economic crisis. In 2017 the budget surplus amounted to CHF 196.1mn, or 3.2% of GDP. Both the central government, the local government, and the social security funds record significant surpluses. Per December 31<sup>st</sup> , 2016, the net worth of Liechtenstein’s public assets added up to CHF 7.1bn or 116% of GDP. 
+
+_We therefore support the right of self-determination at the municipal level, in order to end the monopoly of the State over its territory._ **Prince Hans-Adam II** 
+
+### **Finally, another development that is clearly indicative of** 
+
+### **Liechtenstein’s agility, adaptability, and competitiveness is the way the principality embraced the cryptocurrency industry very early in its** 
+
+**adoption curve.** Liechtenstein made sure to provide an attractive and welcoming environment for entrepreneurs, investors, and startups in the nascent sector, at a time when many still viewed it with suspicion or even failed to understand its fundamental advantages and true potential. As result, the tiny country has evolved into a crypto hub, rivalling that of the “crypto valley” of Zug in Switzerland.<sup>**207**</sup> 
 
 — 
 
-> **210** _See_ Bordo, Michael: “ <u>The Bretton Woods International Monetary System: A Historical Overview</u> ”, _NBER Working Paper_ , No. 4033, March 1992 
+> **206** <u>www.ecaef.org</u> 
+
+> **207** Mark J. Valek conducted an interview with the current Prime Minister of the Principality of Liechtenstein, Adrian Hasler, on "Liechtenstein's Blockchain Strategy". 
 
 # **igwt19** 
 
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
 
-**178** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0178-02.png)
+**169** 
 
 
-a country can boost its export industries through devaluation and paper over internal structural problems, as a devaluation makes its goods cheaper in the global market. If the countries that lose export market share decide to devalue their currencies as well, a downward spiral threatens.<sup>**211**</sup> The economic costs often include a significant increase in price inflation. Moreover, devaluation poisons international relations, as structural problems are no longer resolved by internal reforms, but by policies implemented to the detriment of one’s neighbors.<sup>**212**</sup> 
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0169-02.png)
 
-_The dollar is our currency, but it‘s your problem._ **John Connally** 
 
-_A currency, to be perfect, should be absolutely invariable in value._ **David Ricardo** 
+## **The case for Switzerland** 
 
-Tying the currency system to the US dollar was in keeping with the new geopolitical power relations, at least in the Western world. The US had finally replaced Great Britain as the leading hegemonic power, and as a result the US dollar usurped the role once played by the British pound. The global currency Bancor, a supranational alternative proposed by Keynes, failed to gain acceptance. The formal adoption of the Bretton Woods system in 1944 finally elevated the US dollar to the status of global reserve currency, but at the same time it created various systemic problems. We have discussed these in detail in the 2017 _In Gold We Trust_ report. One of them is the problem known as the Triffin dilemma.<sup>**213**</sup> 
+_“The economy was everywhere and politics nowhere.”_ 
 
-**In March 1973 the new monetary era of flexible exchange rates began, the intellectual foundation of which was provided primarily by the work of the so-called Chicago Boys. The most prominent representative of the Chicago School was Milton Friedman. Without a gold anchor, the exchange rate of every currency pair was supposed to be driven exclusively by supply and demand.** According to this paradigm, currencies would devalue when the supply was expanded too much relative to demand, while currencies would appreciate when the supply was expanded only restrictively relative to demand. National central banks – and indirectly governments as well – were at liberty to make their own decisions, free of the tight restrictions imposed by a gold standard, but they had to bear the costs of their decisions in the form of the devaluation or appreciation of their currencies. While a gold-backed currency aims to impose discipline on nations, a system of flexible exchange rates enables national idiosyncrasies to be preserved, with the exchange rate serving as a balancing mechanism. **Milton Friedman offered an interesting** 
+### Lorenz Stucki 
 
-**comparison between the discussion over a flexible exchange rate and the discussion over daylight savings time:** 
+### **Let us continue with our neighbor Switzerland. A nation defined by its** 
 
-_“The argument for a flexible exchange rate is, strange to say, very nearly identical with the argument for daylight savings time. Isn’t it absurd to change the clock in summer when exactly the same result could be achieved by having each individual change his habits? All that is required is that everyone decide to come to his office an hour earlier, have lunch an hour earlier, etc. But obviously it is much simpler to change the clock that guides all than to have each individual separately change his pattern of reaction to the clock, even though all want to do so. The situation is exactly the same in_ 
+**own people’s will, having taken an oath not to pay taxes to foreign reeves.** Even before the enforced confederation of 1848, Switzerland was among the most industrialized countries in mainland Europe. The economy was everywhere and politics nowhere. Even under intense external pressures, Switzerland retained its sovereignty and remained an armed neutral country, resisting both world wars. Up to this day, it still has one of the most decentralized political structures in the world. Its constitution outlines the basis of its political system and its government’s limits, according to the principles of subsidiarity and direct democracy. 
 
-### — 
+_Some people think the entrepreneur is a mangy wolf to be killed. Others see him as a cow that can be milked without interruption. Only a few recognize him as the horse pulling the cart._ 
 
-> **211** For a detailed description _see_ Rickards, Jim: Currency Wars: The Making of the Next Global Crisis _._ 2012 
+### **Winston Churchill** 
 
-> **212** Should the countries with appreciating currencies come to terms with the situation, as e.g. the hard-currency countries which pegged their currencies to the Deutschmark later did, there is no danger of an economic or political escalation. 
+_We want to trust in the one highest God and never be afraid of human power._ **Rütli Oath 1291** 
 
-> **213** “ <u>Global imbalances: the root of unequal trade flows</u> ”, _In Gold We Trust_ report 2017 
+The core idea of the people being vested with meaningful decision-making power, i.e. by asking the individual voter in referenda, and of solving every important problem on the lowest possible level, i.e. the principal of subsidiarity, is part and parcel of Switzerland’s historical DNA. Under this system, whenever politicians want to change laws, the people will always have the final say. Instruments such as referendums “against the state” and initiatives “from the people” help to keep the state in check and the country as decentralized as possible. And although the last 20 years have seen political pressure put on Switzerland to follow the way paved by the EU rather than its own traditional path, the system itself remains solid. Unlike its neighbors, the Swiss government, the Federal Council or Bundesrat, still does not have the power to enforce questionable policies unchecked by the people until the next election. 
+
+**The practical impact of this key political differentiation that sets Switzerland apart from other countries, is extensive and often surprising.** As a real, direct democracy, Switzerland has time and time again gone against the grain, defying political trends set by its neighbors or the international community. Past votes with impressive outcomes include the rejection of a proposal to increase mandatory vacation to six weeks, as well as the decision not to become part of the European Union. Another loud and clear message the Swiss people sent was on the concept of the Universal Basic Income (UBI). While other countries pressed forward with UBI experiments, simply giving people money without any prerequisites, employment-seeking requirements, or any means test whatsoever, the Swiss refused to entertain the notion and voted down the initiative by a crushing majority. They simply understood that the government cannot give away what it has received as tax from someone else; and as it turned out, quite predictably, this was a wise decision, as most experiments hitherto implemented, like that in Finland, have already failed miserably. 
+
+**Switzerland’s economy also makes the case for it being an excellent location for a physical gold investor.** In stark contrast to its EU neighbors 
 
 # **igwt19** 
 
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
 
-**179** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0179-02.png)
+**170** 
 
 
-_the exchange market. It is far simpler to allow one price to change, namely, the price of foreign exchange, than to rely upon changes in the multitude of prices that together constitute the internal price structure.”_<sup>**_214_**</sup> 
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0170-02.png)
 
-However, unlike any other currency system, the system of free-floating currencies invites governments and central banks to manipulate exchange rates practically at will. Without reciprocal agreements, which can provide planning security to export-oriented companies in particular, the danger of international chaos is very high, as the system of flexible exchange rates lacks an external anchor. 
 
-_No major institution in the US has so poor a record of performance over so long a period as the Federal Reserve, yet so high a public reputation._ **Milton Friedman** 
+and the EU as a whole, the Alpine nation is much more prudent in managing its finances. In fact, according to the latest figures, Switzerland has achieved a significant budget surplus, 10 times higher than forecast. In mid-February, the Swiss government announced a surplus of the federal budget of CHF 2.9bn (EUR 2.38bn) for 2018, on the back of another similar surplus of CHF 2.8bn in 2017. The gross federal debt has now dropped below CHF 100bn for the first time since 1997; and the general government debt (confederation, cantons, municipalities, social insurance) amounts to little less than CHF 200bn, stable in absolute figures, with a declining tendency relative to GDP. 
 
-In order to prevent this chaos, a repetition of the traumatic devaluation spiral of the 1930s, and the resulting disintegration of the global economy, IMF member nations agreed in 1976 at a meeting in Kingston, Jamaica, that _“the exchange rate should be economically justified. Countries should avoid manipulating exchange rates in order to avoid the need to regulate the balance of payments or gain an unfair competitive advantage.”_<sup>**215**</sup> **And in this multilateral spirit – albeit under an US initiative that was strongly tinged by self-interest – an agreement was struck nine years later that has entered the economic history books as the Plaza Accord.** 
+### **Public Debt, in % of GDP, 2018** 
 
-In our discussion of the so-called Plaza Accord of 22 September 1985 and the Louvre Accord adopted on 22 February 1987, we want to examine the question whether a similar agreement is conceivable nowadays and, if so, whether one should expect effects similar to those experienced in the second half of the 1980s. To this end we will first trace the most important macroeconomic data in the runup to both accords, and then take a close look at the details of the accords and examine their impact. 
 
-# **<mark>Macroeconomic excesses in the 1980s?</mark>** 
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0170-05.png)
 
-**In the first half of the 1980s the US dollar appreciated significantly against the most important currencies.** In five years the dollar rose by around 150% against the French franc, almost 100% against the Deutschmark, and intermittently 34.2% against the yen (from the January 1981 low). 
+
+Source: IMF, Incrementum AG 
+
+**Overall, Switzerland’s success is largely based on the fact that is was built on economic rationality and not on politics, and thus the Swiss** 
+
+**have always been open to innovation.** An apt example of this way of thinking is the country’s warm welcome to the crypto revolution and its success in attracting a great number of leading companies from the sector, giving rise to a buzzing and vibrant business environment with great growth potential in its “crypto-valley” in the canton of Zug. 
+
+_Switzerland’s success is largely based on the fact that it was built on economic rationality and not on politics._ **Claudio Grass** 
+
+In terms of stability and security, especially from a physical gold investor’s point of view, it is clear that Switzerland has withstood the test of time. Its long-standing neutrality position, its solid noninterventionist foreign policy record, and the fact that more than 50% of households in the country are armed, create a safe environment and provide peace of mind both for its citizens and for investors. Furthermore, the strict limits placed on its government’s powers and the long track record of the government staying well within those limits, make confiscation scenarios of precious metals stored under Swiss law very improbable. Such a move would require a historic constitutional shift; the Swiss people would have the final say on it; and their voting record speaks for itself. Thus, Switzerland can certainly be relied upon as a safe haven. 
+
+# **igwt19** 
+
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
+
+**171** 
+
+
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0171-02.png)
+
+
+## **Singapore, the strongest contender in Asia** 
+
+_“Why did Singapore develop and not the others; what was missing in the others? I could only tell Valéry Giscard d’Estaing what I thought were three primary reasons: first, stability and cohesion in society; second, a cultural drive to achieve and a thrifty, hardworking people always investing in the future, with high savings for a rainy day and for the next generation; third, a great reverence for education and knowledge.”_ 
+
+### Lee Kuan Yew 
+
+**This brings us to our final candidate, Singapore,** a country that has experienced significant capital inflows over the past decades. The island lying on the equator in Southeast Asia has no capital gains taxes, no goods and services taxes (GST) on investment-grade precious metals, and a strong record of respect for private property rights. Without question a genuine and impressive success story, especially since its independence in 1965, Singapore was built and developed according to the vision and under the guidance of Lee Kuan Yew. His achievements are indeed remarkable, particularly given the time frame in which they were completed.<sup>**208**</sup> 
+
+_I’m often accused of interfering in the private lives of citizens. Yes, if I did not, had I not done that, we wouldn’t be here today._ **Lee Kuan Yew** 
+
+**The sunny island-state in Southeast Asia has been widely celebrated as an economic miracle.** It has a unique geographical advantage, being strategically located at the crossroads of key trade and shipping routes of the world, while also enjoying proximity to China. Conceptionally created as a “city state”, it has become one of the most developed economies in Asia. It boasts an ever-improving infrastructure and has emerged as global business and financial hub. It is also well recognized as one of the world’s most competitive and businessfriendly economies. Additionally, its tax regime and regulatory framework are simple and investor-friendly. In fact, the Singaporean legal system as a whole has been globally recognized for its efficiency, while the country is the least bureaucratic of the continent, indeed the globe. Business owners and investors have comparatively very little red tape to contend with, while all legal proceedings are relatively fast. What’s more, Singapore also offers a stable political environment and a robust economic background, with a rapidly and consistently rising GDP over the past decades. 
 
 — 
 
-> **214** Friedman, Milton: “The Case for Flexible Exchange Rates”, in: _Essays in Positive Economics,_ 1953, p. 173 
-
-> **215** “ <u>The Specificity of the Jamaica Monetary System</u> ”, ebrary.net; _see_ also article IV (iii) of the “ <u>Articles of Agreement of the International Monetary Fund</u> ” 
+> **208** _See_ Lee Kuan Yew: From Third World to First: The Singapore Story: 1965-2000. 2000 
 
 # **igwt19** 
 
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
 
-**180** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0180-02.png)
+**172** 
 
 
-**– USD exchange rate vs. DEM, FRF, JPY, GBP, 01/01/1980=100, 01/1980 09/1985** 
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0172-02.png)
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0180-04.png)
+### **Global GDP per capita, and Singapore GDP per capita, in USD, 2018** 
+
+
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0172-04.png)
 
 
 <!-- Start of picture text -->
-260 Plaza-Accord<br>240<br>220<br>200<br>180<br>160<br>140<br>120<br>100<br>80<br>60<br>1980 1981 1982 1983 1984 1985<br>USD/DEM USD/FRF USD/Yen USD/GBP<br><!-- End of picture text -->
+60,000<br>Average growth<br>rate: 5.1%<br>50,000<br>40,000<br>30,000<br>20,000<br>Average growth rate: 1.9%<br>10,000<br><!-- End of picture text -->
 
-<mark>Source: fxtop.com, Incrementum AG</mark> 
+Source: World Bank, Incrementum AG 
 
-The significant appreciation of the US dollar was of course reflected in the US Dollar Index, which consists of the currencies of the most important US trading partners, weighted according to their share of trade with the US. The following chart, moreover, shows exchange rates in real terms – i.e., it takes price levels into account, which can vary substantially in some cases. 
+**However, Singapore does have some key differences to both Alpine candidates.** As it was created based on a top-down approach, in an economically poor environment, and with a much more heterogenous population, such a success story would have probably not been possible within this short period of time without a strong leader such as Lee. **As a result, and quite unsurprisingly,** 
 
-**Real trade-weighted US Dollar Index, 03/1973=100, 01/1980 – 12/1989** 
+_The measure of man is what he does with power._ **Plato** 
 
+### **Singapore does not have as stellar a reputation as its aforementioned** 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0180-08.png)
-
-
-<!-- Start of picture text -->
-140 Plaza Accord Louvre Accord<br>130<br>Goal: to stabilize<br>120 the US dollar<br>110<br>100<br>90<br>80<br>1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990<br><!-- End of picture text -->
-
-<mark>Source: Federal Reserve St. Louis, Incrementum AG</mark> 
-
-From an interim low of 87.7 in July 1980, the index rose by about 50% to 131.6 by March 1985. **Not surprisingly, the US current account balance** 
-
-**deteriorated significantly in the first half of the 1980s as a result of this substantial dollar rally, as the following chart shows.** 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**181** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0181-02.png)
-
-
-**Current account balance, US, Germany, France, United Kingdom, Japan, in % of GDP, 1980 – 1989** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0181-04.png)
-
-
-<!-- Start of picture text -->
-5<br>4<br>3<br>2<br>1<br>0<br>-1<br>-2<br>-3<br>-4<br>-5<br>-6<br>1980 1981 1982 1983 1984 1985 1986 1987 1988 1989<br>USA Germany France UK Japan<br><!-- End of picture text -->
-
-<mark>Source: World Bank, Quandl, Incrementum AG</mark> 
-
-**In 1980 and 1981 the US still posted a moderate surplus, but by 1985 this surplus had turned into a deficit of 2.9%.** The trend in Germany and Japan was almost a perfect mirror image. While the two export nations had current account deficits of 1.7% and 1.0% in 1980, their current account balances turned positive in 1981 and 1982, respectively. In 1985, they already posted surpluses of 2.5% and 3.6%. Germany’s current account surplus in particular grew even further in subsequent years. 
-
-**The appreciating US dollar triggered severe turmoil, particularly in Central and South America, as almost all Latin American countries had accumulated excessive amounts of dollar-denominated debt in the 1970s.** In just a few years, foreign debt denominated in US dollars had more than quadrupled from USD 75bn (1975) to more than USD 315bn (1983). The large rise in interest rates and the appreciation of the US dollar increased debt service to such an extent that sovereign defaults were triggered in Mexico, Argentina, Brazil, and Chile. These defaults entered economic history under the moniker “Latin American debt crisis”. 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**182** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0182-02.png)
-
-
-# **<mark>The Plaza Accord</mark>** 
-
-_<mark>“History shows it is not possible to insulate yourself from the consequences of others holding money that is harder than yours.”</mark>_ 
-
-### Saifedean Ammous 
-
-Although the Reagan administration announced shortly after taking office in 1981 that intervention in foreign exchange markets would be restricted to exceptional cases, by the beginning of Reagan’s second term in 1985 the above-mentioned imbalances had simply become too large. **At that point the governments of the leading industrial nations began to regard concerted intervention in foreign exchange markets as unavoidable.** 
-
-_Never let the other fellow set the agenda._ **James Baker** 
-
-Representatives of the US, Germany, Japan, France, and Great Britain, a.k.a. the G5 countries, met in September 1985 at the Plaza Hotel in New York under the leadership of US Treasury Secretary James Baker in order to coordinate their economic policies. Their declared aim was to reduce the US current account deficit, which they planned to accomplish by weakening the overvalued US dollar. Moreover, the US urged Germany and Japan to strengthen domestic demand by expanding their budget deficits, which was supposed to give US exports a shot in the arm. 
-
-### **Ministers of Finance of the G5** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0182-10.png)
-
-
-From left to the right: Gerard Stoltenberg (DE), Pierre Bérégovoy (FR), James A. Baker III (USA), Nigel Lawson (GB), Noboru Takeshita (JP). Source: Wikipedia 
-
-**What was agreed upon at the plush hotel on Fifth Street on 22 September 1985? The key passage is fairly dry fare and contains few specifics:** 
-
-_“The Ministers and Governors agreed that exchange rates should play a role in adjusting external imbalances. In order to do this, exchange rates should better reflect fundamental economic conditions than has been the case. They believed that agreed policy actions must be implemented and reinforced to improve the fundamentals further, and that, in view of the present and prospective changes in fundamentals, some further orderly appreciation of_ 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**183** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0183-02.png)
-
-
-_the main non-dollar currencies against the dollar is desirable. They stand ready to cooperate more closely to encourage this when to do so would be helpful.”_<sup>**_216_**</sup> 
-
-**The five signatory nations, the US, France, Germany, Great Britain, and Japan, represented by their finance ministers and central bank governors, agreed in the Plaza Accord to cooperate more closely when cooperation made sense.** The criterion cited for adopting a joint approach was “deviation from fundamental economic conditions”. Interventions in the foreign exchange market were to be conducted with the aim of combating current account imbalances. In the short term the target was a 10%–12% devaluation of the US dollar relative to its level of September 1985. 
-
-_Just because you do not take an interest in politics doesn't mean politics won't take an interest in you._ **Pericles** 
-
-The Federal Reserve was slated to play an important role as well. After the two periods of high inflation in 1973–1975 and 1978–1981, the Federal Reserve under Paul Volcker had brought inflation under control by sharply hiking interest rates. After another series of rate hikes into double-digit territory in the summer of 1984, the specter of inflation was finally banished, and a looser monetary policy became feasible again. By cutting the federal funds rate repeatedly and lowering minimum reserve requirements, the Federal Reserve was able to contribute to the depreciation of the US dollar. Later it would be criticized for this easing of monetary policy because it fostered the formation of the stock market bubble which ultimately culminated in the crash of 19 October 1987 (“Black Monday”). 
-
-**The immediate outcome of the agreement was as desired. One week after the Plaza Accord had been signed, the Japanese yen gained 11.8% against the US dollar, while the German mark and the French franc gained 7.8% each, and the British pound 2.8%.** However, the speed of the adjustment in foreign exchange markets continued to be the same as before the Plaza agreement, as the following chart clearly shows. 
+**peers when it comes to individual liberties.** It is however without a doubt a leader in the Asian context, and we can be optimistic about the upholding of individual freedoms in Singapore as the city state continues to mature. A quick look at the infographic below shows that ultra-high-net-worth individuals, i.e. individuals with a net worth of at least USD 30mn in constant 2018 US dollars,<sup>**209**</sup> from around the globe continue to vote with their feet, choosing to call Singapore home. 
 
 — 
 
-> **216** <u>Announcement of the Ministers of Finance and Central Bank Governors of France, Germany, Japan, the United Kingdom, and the United States, September 22, 1985</u> 
+> **209** _See_ Wealth- X: “ <u>Ultra Wealthy Analysis: The World Ultra Wealth Report 2018</u> ”, September 5, 2018 
 
 # **igwt19** 
 
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
 
-**184** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0184-02.png)
+**173** 
 
 
-**– USD exchange rate vs. DEM, FRF, JPY, GBP, 01/01/1980=100, 01/1980 09/1985** 
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0173-02.png)
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0184-04.png)
+**Cities with the most ultra- rich residents, projected growth in UHNWI’s between 2018 and 2023** 
 
 
-<!-- Start of picture text -->
-280<br>Plaza Accord Louvre Accord<br>240<br>200<br>160<br>120<br>80<br>40<br>1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990<br>USD/DEM USD/FRF USD/Yen USD/GBP<br><!-- End of picture text -->
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0173-04.png)
 
-<mark>Source: fxtop.com, Incrementum AG</mark> 
 
-**Current account balances responded at least partly as planned** . The Japanese surplus peaked in 1986 at 4.1%, but the German surplus weakened only in 1987 and thereafter began to rise again. The US current account deficit reached its worst level of 3.3% of GDP in 1987 and two years later had contracted to 1.8%. Initially the imbalances worsened because there is usually a lag of two years before a depreciating currency impacts export prices. 
+Source: Visual Capitalist 
 
-_It's not so unusual to run out of someone else’s currency._ **Jeffrey Sachs** 
+_I learned to ignore criticism and advice from experts and quasiexperts, especially academics in the social and political sciences. They have pet theories on how a society should develop to approximate their ideal, especially how poverty should be reduced and welfare extended. I always try to be correct, not politically correct._ **Lee Kuan Yew** 
 
-Japan paid a hefty price for the concessions it had made on the international level. The decline in export momentum affected GDP growth immediately. Japan countered the looming recession with rate cuts and fiscal stimulus measures, which led to an explosive increase in the prices of stocks and real estate, until the bubble finally began to burst as 1989 ended and 1990 began. 
+It can also be argued that Singapore hasn’t passed the test of time yet, nor has it been “stress-tested” during extreme crises and conflicts, like the other candidates were during World War II. On closer inspection, this might not be totally accurate. While modern Singapore is only 50 years old, its DNA has been molded by managing and overcoming the many stresses it has had to deal with. Militarily and geopolitically, Singapore closely resembles Israel in the Middle East. Singapore is a country surrounded by larger and sometimes adversarial countries. It is a littleknown fact that Israel was the first country to recognize Singapore, back in 1965, and the young Singaporean army was even trained by Israel in the early years. 
 
-However, the charts also show quite clearly that the depreciation of the US dollar had already begun several months _before_ the official agreement was concluded in the heart of Manhattan. The Dollar Index had reached its peak in March of 1985, i.e., half a year before the Plaza Accord. Two months earlier, on January 17, 1985, the five leading industrialized nations and later signatories of the Plaza Accord already announced on occasion of a meeting in Tokyo: 
+Geopolitically, Singapore has had to face many security threats of its own. For example, there was a threat of invasion from Indonesia when it executed a pair of Indonesian sailors found guilty of detonating a bomb in 1968, killing 3 people in the process. Malaysia, Singapore’s neighbor to the north has also been active in trying to sabotage Singapore economically by often threatening to withhold the water exports that Singapore needs, to force a reunification on Malaysian terms. Singapore has withstood these tests well so far, and the nation it is today is a result of the continuous stress tests it has found itself faced with. 
 
-_“In light of recent developments in foreign exchange markets, reaffirmed their commitment made at the Williamsburg Summit [May 1983, ed] to undertake coordinated intervention in the markets as necessary.”_<sup>**_217_**</sup> 
-
-The five signatories had in essence already agreed in early 1985 on what was to be formally decided nine months later. 
-
-— 
-
-> **217** <u>Announcement by G-5 Ministers and Governors, January 17, 1985</u> 
+Lastly, as the conversation surrounding wealth taxes increases in volume in the West, capital controls are still socially and culturally not acceptable in Singapore. 
 
 # **igwt19** 
 
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
+Gold Storage: Fact Checking Liechtenstein, Switzerland, and Singapore 
 
-**185** 
+**174** 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0185-02.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0174-02.png)
 
 
-**If one looks at the moves in exchange rates, it becomes evident that public discussions have at least as much influence on the public in general and the financial markets in particular as the formal adoption of a more or less binding international agreement** . The decisive factor is the confidence market participants place in policymakers and their promises. As both oral and written multilateral agreements are scarcely legally enforceable, compliance with them depends all the more on the willingness of sovereign nations to abide by them. 
+Economic freedom is viewed as an ultimate right in Singapore, with the government acting as a guardian and arbiter of that right for its citizens. 
 
-# **The Louvre Accord** 
+_People can have a long-term life plan only if they know their private property is secure._ **Mencius** 
 
-_“As far as I know, the Plaza Accord has neither led to changes in fiscal policy, nor in trade or structural policy.”_<sup>**_218_**</sup> 
+As Europe is by all accounts going more and more down the road of centralization and as economic and social tensions are increasingly prevalent throughout the Continent, Switzerland and Liechtenstein might be seen as being right in the eye of a coming storm. By contrast, Singapore could be better off and even have a competitive advantage in this regard, not only because of its geographical distance from Europe, but also because it could provide additional diversification by being in the Asian rather than the European economic and geopolitical sphere. 
 
-Paul Volcker 
+## **Weighing the options** 
 
-**In 1987 the excessive depreciation of the US dollar once again prodded the group of the five economically strongest nations into action.** A further agreement was to prevent the too strongly depreciating dollar from losing even more ground. In other words, because the first coordinated intervention had failed, another intervention was mooted and **was ultimately adopted in Paris on February 22, 1987. The central aim of the so-called Louvre Accord was the stabilization of exchange rates:** 
+_“If you are sick, think about your life; if you are better, think about your gold.”_ 
 
-_“The Ministers and Governors agreed that the substantial exchange rate changes since the Plaza Agreement will increasingly contribute to reducing external imbalances and have now brought their currencies within ranges broadly consistent with underlying economic fundamentals, given the policy commitments summarized in this statement. Further substantial exchange rate shifts among their currencies could damage growth and adjustment prospects in their countries. In current circumstances, therefore, they agreed to cooperate closely to foster stability of exchange rates around current levels.”_<sup>**_219_**</sup> 
+### Mongolian Proverb 
 
-_The most imposing dictate of power can never effect anything in contradiction to the economic laws of value, price, and distribution; it must always be in conformity with these; it cannot invalidate them; it can merely confirm and fulfill them._ 
+_We cannot direct the wind. But we can adjust the sails._ **Aristotle** 
 
-In a never-published additional protocol, target ranges of +/-5% were allegedly agreed upon for individual currency pairs. It was decided to keep this agreement secret in order to prevent speculative attacks on the currencies concerned. In addition, the signatory states agreed on fiscal, trade, and monetary policy adjustments to stabilize exchange rates within the agreed ranges. A year later, the yen had appreciated by a further 17% against the US dollar, the British pound by 15.5%, the Deutsche mark by a little less than 10% and the French franc by 8.5%. 
+**All in all, when it comes to prudent and long-term investments in physical precious metals, one size most definitely does not fit all** . Each decision and step that forms a comprehensive and solid strategy needs to take into serious consideration the individual needs and aims of the investor. While security and strong property rights play a key role for all investors, specific circumstances and relevant technicalities might make one jurisdiction more attractive than another. 
 
-**Eugen von Böhm-Bawerk** 
+**All three jurisdictions make a convincing case for secure gold storage with regard to stability and private property rights, a case that is infinitely strengthened when we compare the risks and uncertainties that most other jurisdictions entail.** Even from a more practical perspective, it makes sense to store gold in jurisdictions with ready access to active commercial gold markets that are not bank-based, as is London, for example. Switzerland is a global leader and hub of gold refining and has extensive and vibrant commercial bullion activity. Singapore, being in Asia, also has a very well-developed commercial gold market. 
 
-— 
-
-> **218** Eichengreen, Barry: “The Plaza and Louvre Accords are not suitable models for today’s currency policy – actions rather than words”, (our translation; “ Plaza- und Louvre-Abkommen eignen sich nicht als Vorbild für heutige Währungspolitik – Taten statt Worte ”, _Finanz und Wirtschaft,_ January 19, 2005 
-
-> **219** <u>Statement of the G6 Finance Ministers and Central Bank Governors, February 22, 1987</u> 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**186** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0186-02.png)
-
-
-Thus, the Louvre accord did not even come close to achieving the desired stabilization of exchange rates. 
-
-_Exchange rates and with them the global economy can only be stabilized by decisively adjusting monetary and fiscal policies._ **Barry Eichengreen** 
-
-This outcome was also due to the fact that the differences of opinion between the US and the other G6 nations regarding the causes of the US current account deficit were simply too great. While the US believed that the strong US dollar was the main reason, the other five countries regarded the US budget deficit as the main reason. 
-
-**As is true of any multilateral agreement, neither the Plaza Accord nor the Louvre Accord could be legally enforced** . The wording in each case was for the most part so vague that it left considerable room for interpretation, and there was no supranational authority that could have enforced compliance. As a result, both accords were subject to political wrangling and could – depending on political power and diplomatic skill – be either complied with or not, at will. 
-
-And because exchange rates – at least in the medium to long term – are mainly determined by fundamentals, exchange rates can change substantially only if underlying macroeconomic conditions (real interest rate differentials, trade and current account balances, the investment climate, and budget balances) change. **Regardless of how powerful a government or how watertight an international agreement is, those who enter an agreement cannot get past this fact** . 
-
-# **Plaza Accord 2.0?** 
-
-_“Why? Because a reset — both in markets and in politics — is coming whether we like it or not. We can either prepare for the reset … we can shape the reset as best we can … or we can let the reset shape us.”_ 
-
-### Ben Hunt 
-
-_It´s very, very hard to compete when you have a strong dollar and other countries are devaluating their currency._ **Donald Trump** 
-
-Some people propose the creation of a new version of the Plaza Accord, i.e., a multilateral agreement that includes, _inter alia,_ coordinated intervention in foreign exchange markets. The proponents of a Plaza Accord 2.0 point to the appreciation of the US dollar by almost 40% (particularly in the years 2011–2016), and to the large differences between the current account balances of the leading developed countries. However, such an agreement would represent a new turning point in international currency policy. After all, in 2013 the G8 agreed to refrain from foreign exchange interventions – in a kind of Anti-Plaza Accord (Jeffrey Frankel). 
-
-The following chart illustrates the significant appreciation of the US dollar in recent years and shows that the strongest upward move in the dollar in the current decade occurred in 2015. 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**187** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0187-02.png)
-
-
-**Real trade-weighted US Dollar Index, 03/1973 = 100, 01/2011 – 04/2019** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0187-04.png)
-
-
-<!-- Start of picture text -->
-105<br>95<br>85<br>75<br>2011 2012 2013 2014 2015 2016 2017 2018 2019<br>US Dollar Index<br><!-- End of picture text -->
-
-Source: Federal Reserve St. Louis, Incrementum AG 
-
-And just as was the case thirty years ago, the US has a significant and persistent current account deficit, while Germany, Japan – and these days also China – have significant surpluses. Germany’s surplus, which intermittently reached almost 9%, is particularly striking. 
-
-**Current account balances of US, Germany, France, Great Britain, Japan, China, in % of GDP, 2010 – 2017** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0187-08.png)
-
-
-<!-- Start of picture text -->
-8<br>6<br><!-- End of picture text -->
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0187-09.png)
-
-
-<!-- Start of picture text -->
--2<br><!-- End of picture text -->
-
-<mark>Source: World Bank, Quandl, Incrementum AG</mark> 
-
-_Boy, am I good at solving debt problems? Nobody can solve it like me._ **Donald Trump** 
-
-Long before Donald Trump weighed in on the issue, the US Treasury – which is in charge of the US dollar’s external value – repeatedly stressed that the dollar was too strong, especially compared to the renminbi. Time and again the US accused China, Japan, and the eurozone of keeping their currencies at artificially low levels 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**188** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0188-02.png)
-
-
-in order to support their export industries.<sup>**220**</sup> The fact that Donald Trump used the term _manipulation_<sup>**221**</sup> in a tweet came as a bit of a surprise, as the US has not used this term officially since 1994. It is doubtful though whether Trump really wanted to provoke an escalation. After all, the current US President is not necessarily known for being _au fait_ with the subtle nuances of diplomat speak. 
-
-_Because things are the way they are, things will not stay the way they are._ **Berthold Brecht** 
-
-**The euro, the yen, and the renminbi are clearly undervalued against the US dollar if one uses the Big Mac Index**<sup>**222**</sup> **in order to calculate the required real exchange rate adjustments.** Thus the renminbi is undervalued by about 45%, the yen by 35.5% and the euro by almost 17% (as of January 2019<sup>**223**</sup> ), although it should be kept in mind that there are considerable differences within the eurozone as well. 
-
-In any case, such a significant adjustment in exchange rates would have to be implemented gradually; the risk of creating further distortions would be too great. An abrupt adjustment of rates might result in, for example, a significant increase in the pace of US inflation and/or a collapse of the export sectors of countries whose currencies would appreciate. 
-
-- Closely along the lines of the Plaza Accord blueprint, the US could conclude a multilateral agreement with the EU, China, and Japan that would encourage those countries to revalue their currencies and reduce their excessive current account surpluses with additional measures, such as stimulating domestic demand through public investment and strong wage increases.<sup>**224**</sup> However, such a multilateral solution appears highly unlikely – particularly in view of the increasingly muddled geopolitical situation. Moreover, it is also unlikely on account of Germany’s being a member of the EU and especially of the eurozone, which is placing considerable limits on its decision-making capacity. 
-
-- It is even less likely that an agreement will be reached by the G20, _and_ that such an agreement, if reached, will be complied with and achieve the desired effects. 
-
-- The US could strike bilateral deals: Talks with China are currently getting tougher, with the aim of encouraging China to increase imports from the US. In the recent past the exchange rate no longer appeared to be a major issue; but prior to that, the US frequently denounced in harsh terms the alleged artificial undervaluation of the renminbi to promote Chinese exports. It is to be expected that the exchange rate issue will be revisited. Negotiations with the EU are currently stalling, in part because the EU – primarily on account of French pressure – is refusing to negotiate about opening its internal market to US agricultural products. 
-
-### — 
-
-> **220** _See_ “U.S. tensions rise over China’s currency policy”, CNN, October 7, 2011; “ <u>U.S. declines to name China currency manipulator</u> ”, _Reuters_ , November 27, 2012 
-
-> **221** Trump, Donald: <u>Tweet, July 20, 2018</u> 
-
-- **222** Wikipedia: Big Mac Index 
-
-- **223** The data ist retrieved from here. 
-
-- **224** The current euro area account surplus of 3.2% of GDP (2017) is significantly higher than that of the EU (1.3%, 2017). This is primarily attributable to United Kingdom’s large trade deficit of 3.9% (2017). With the impending exit of Great Britain from the EU, the difference between the surpluses of the euro area and the EU-27 will therefore decrease significantly. 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**189** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0189-02.png)
-
-
-- Unilateral US intervention in the foreign exchange market is unlikely due to its limited impact. Frequent jawboning to push the dollar lower in the short-term cannot be ruled out, but this strategy cannot solve any fundamental and structural problems. Interest rate cuts as a direct instrument of trade policy are unthinkable but cannot be ruled out as an indirect instrument of trade policy to support a weakening (export) economy in a worst-case scenario. 
-
-- In any case, even in the context of a concerted effort, it would be open to question whether the financing volumes required for effective interventions could actually be raised. Since the Plaza Accord was struck in 1985, global foreign exchange trading volume has increased 10-fold to more than USD 5trn daily. 
-
-- A devaluation of the US dollar and a concomitant appreciation of euro, yen, and renminbi would provide a tailwind to US exports, hamper those of the other countries, and accordingly lead to an adjustment in trade and current account balances. Inflationary pressures would increase in the US and would be mitigated in the other countries. However, a decrease in price pressures would essentially be the very last thing on the wish lists of the ECB and the BoJ, as it would complicate monetary policy in their currency areas even further. 
-
-- A dollar devaluation would be a blessing for a world burdened with USDdenominated debt. Debt service costs in local currency terms would decrease, providing relief to the countries concerned. China, which carries a large USDdenominated debt, would be a beneficiary as well, unless an escalation in the trade war with the US were to substantially lower the proceeds from its exports to the US. 
-
-- However, bilateral or unilateral efforts would clearly contradict the spirit of the Plaza and Louvre Accords, which were decidedly multilateral agreements. 
-
-- QT and the widening interest rate differential between the US vs. the euro area and Japan are fundamental macroeconomic developments suggesting a further strengthening of the US dollar. Moreover, during the crises in Turkey and Argentina last year, the US dollar confirmed its status as a safe haven and thus its dominant position among fiat currencies. 
-
-- Lastly, as long as the US dollar functions as the global reserve and senior currency, a US current account deficit is almost inevitable, as the so-called Triffin dilemma (named after economist Robert Triffin) shows. In order to provide dollar liquidity to the world, a current account deficit is unavoidable, unless the US is prepared to accept a significant appreciation in the US dollar. However, a significant dollar appreciation is precisely what the US wants to prevent. 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**190** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0190-02.png)
-
-
-# **Conclusion** 
-
-_“Dwell on the past, lose an eye. Forget the past, lose both eyes.”_ 
-
-### Old Russian proverb 
-
-_In markets, economics, and crises; things take longer to happen than you think they will, and then they happen faster than you thought they could._ **Ritesh Jain** 
-
-James Baker, who served as Secretary of the Treasury in the second Reagan administration, led the Plaza and Louvre Accord negotiations on behalf of the US. He wanted, at all costs, to prevent the world from entering a devaluation and protectionism spiral similar to the one that beset the country in the 1930s, which could have pushed the world headlong into disaster. Cooperation with other countries was therefore very important to him. As important as the cooperation may have been from a political perspective, the economic consequences were quite modest – partly because political efforts cannot overcome economic fundamentals, at least in the medium to long term, and partly because the political agreements were concluded only after exchange rates had already moved in the desired direction for some time. 
-
-**What were the effects of these exchange rate movements and the agreements on the gold price in terms of the currencies involved?** That date is shown in the following chart, which is indexed to 100 as of September 1985, i.e., the month the Plaza Accord was signed. 
-
-**Gold price in USD, DM, FRF, GBP, JPY, 09/1985=100, 01/1980 – 12/1989** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0190-10.png)
-
-
-<!-- Start of picture text -->
-250 Plaza Louvre Accord<br>Accord<br>200<br>150<br>100<br>50<br>0<br>1980 1981 1982 1983 1984 1985 1986 1987 1988 1989<br>USD DM FRF GBP Yen<br><!-- End of picture text -->
-
-Source: World Gold Council, fxtop.com, Incrementum AG 
-
-Overall, the 1980s were not a particularly propitious decade for gold, as prices had reached levels that were simply too high after the two rallies of the inflationary 1970s. Moreover, real interest rates in the 1980s and 1990s were mostly positive, resulting in a challenging environment for gold because of high opportunity costs. Gold had, moreover, attained a record high in USD terms on 21 January 1980 that it would not regain before 2007. A closer look, nevertheless, reveals a number of noteworthy twists and turns. 
-
-# **igwt19** 
-
-History Does (not) Repeat Itself – Plaza Accord 2.0? 
-
-**191** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0191-02.png)
-
-
-**After the Plaza Accord in 1985, gold managed a trend reversal in USD terms, and in the wake of the Louvre Accord the new uptrend continued until the end of 1987. Gold once again confirmed its status as the antagonist of the US dollar** . The gold price declined in the years in which the US dollar appreciated strongly; and with the devaluation of the dollar, gold prices turned back up again. 
-
-_People can foresee the future only when it coincides with their own wishes, and the most grossly obvious facts can be ignored when they are unwelcome._ 
-
-### **George Orwell** 
-
-**The trend looked different in the remaining currencies. The downtrend in gold prices that had begun after the record high that followed the second oil price shock was only briefly interrupted in the second half of 1986 and immediately after the Louvre Accord and again during the stock market turmoil in the autumn of 1987** . After the US dollar reached its low in early 1988 – which was not undercut again before the summer of 2007 – the gold price moved more or less in sync over the rest of the decade in terms of the currencies depicted on the chart above. 
+Overall, although no one knows what the future will bring, when selecting a location to store your wealth in physical precious metals, you should look carefully at the political system as well as the government’s track record through thick and thin. It is also important to consider the country’s gold culture and relevant tradition, as in nations with a long history of widespread private gold ownership, governments face formidable obstacles and serious opposition against aggressive legislation such as ownership restrictions, seizures, or confiscation orders targeting precious metals. **Thus, overall, Switzerland and Liechtenstein could be seen to have an advantage, with Singapore being an equally strong option, especially for investors with an affinity for Asia.** 
 
 # **igwt19** 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-00.png)
-
-
-FRA **1XMA** OTCQB **XXMMF** TSXv **XIM** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-02.png)
-
-
-***BRETT EPITHERMAL GOLD PROJECT** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-04.png)
-
-
-# *** KENVILLE GOLD MINE** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-06.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-00.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-07.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-01.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-08.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-02.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-09.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-03.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-10.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-04.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-11.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-05.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-12.png)
-
-
-<!-- Start of picture text -->
-OPTION PARTNERS<br>* TREASURE MOUNTAIN SILVER PROJECT<br><!-- End of picture text -->
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-13.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-06.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-14.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-07.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-15.png)
-
-
-## **OPTION PARTNERS** 
-
-
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-17.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-08.png)
 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-18.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-09.png)
 
 
-<!-- Start of picture text -->
-TSX-V NED<br><!-- End of picture text -->
+
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-10.png)
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-19.png)
+
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-11.png)
 
 
-<!-- Start of picture text -->
-TSX.v GGX | OTCQB GGXXF | FRA 3SR2<br><!-- End of picture text -->
+
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-12.png)
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0192-20.png)
 
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0175-13.png)
 
-888 DUNSMUIR STREET / SUITE 888 VANCOUVER BC / CANADA V6C 3K4 
-
-**XimenMiningCorp.com** 
 
 **Über uns** 
 
-**193** 
+**176** 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0193-02.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0176-02.png)
 
 
-**Acceleration and the Monetary Order The Transformation of the Monetary System in the Modern Era** 
+# **History Does (not) – Repeat Itself Plaza Accord 2.0?** 
 
 
-![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0193-04.png)
+![](images/In-Gold-We-Trust-2019-Extended-Version-english.pdf-0176-04.png)
 
 
 # **igwt2019** 
