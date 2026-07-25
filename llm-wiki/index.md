@@ -49,6 +49,7 @@ investing** → **the voices**.
 | [**Supply, demand & peak gold**](concepts/supply_demand.md) | Why gold isn't a normal commodity — peak gold, the stock-to-flow inversion of supply, the "great fallacy of high gold demand," and CB/ETF dominance in the 2020s. | 10 |
 | [**The "Status Quo" framework**](concepts/status_quo_framework.md) | The recurring annual diagnostic — a multi-pillar triangulation across currencies, equities, bonds, debt, inflation, demand. The structured "situation report." | 12 |
 | [**Gold valuation & price targets**](concepts/gold_valuation.md) | How to value a no-cash-flow asset — ratio analysis, the Shadow Gold Price (monetary-base backing), the $2,300 target's history, and the 1934 revaluation precedent. | 8 |
+| [**Jastram's Golden Constant & the Austrian School**](concepts/golden_constant_austrian_school.md) | Gold's five centuries of purchasing-power stability (Jastram); "inflationary deflation"; money creation, the Cantillon effect, and deflation as cure not disease (Austrian framework). | 5 |
 
 ### The macro drivers
 
@@ -59,6 +60,8 @@ investing** → **the voices**.
 | [**Hyperinflation & the crack-up boom**](concepts/hyperinflation.md) | Hyperinflation as a distinct regime (the Cagan/Hanke 50%-monthly threshold), the Misesian crack-up boom, the Weimar/Zimbabwe/Venezuela cases — treated as a tail risk, not a forecast. | 4 |
 | [**War on cash & CBDCs**](concepts/war_on_cash_cbdc.md) | Cash as the last exit from fiat; why abolishing it is the prerequisite for deep negative rates; the "Σ 0 ∞ € ¥" money metamorphosis; gold and Bitcoin as escape valves. | 6 |
 | [**De-dollarization**](concepts/de_dollarization.md) | The structural erosion of USD reserve status and gold's re-emergence as the neutral reserve asset of a multipolar order. The 2014→2026 arc, to the 2026 inversion where the US itself ends the standard. | 10 |
+| [**Exter's Pyramid, Plaza 2.0 & the Heartland**](concepts/exter_pyramid_heartland.md) | The deflationary counter-narrative: the inverted debt pyramid, the Exter-vs-Mises tension, Plaza Accord 2.0, and Mackinder's Heartland applied monetarily. | 5 |
+| [**Petrodollar & the oil-gold nexus**](concepts/petrodollar_oil_gold.md) | The gold/oil ratio as purchasing-power gauge (~7x to 42x); petrodollar recycling; India-paying-Iran-in-gold; the signs of erosion. | 4 |
 
 ### The market & investing
 
@@ -75,6 +78,7 @@ investing** → **the voices**.
 | [**Manipulation & intervention**](concepts/manipulation_intervention.md) | The manipulation-vs-intervention distinction, paper-vs-physical divergence, the LBMA fractional-reserve structure, and the 2016 Deutsche Bank settlements. | 7 |
 | [**Gold storage & custody**](concepts/gold_storage_custody.md) | The jurisdiction fact-checking series, allocated vs unallocated, confiscation history (1933 et al.), and the modern threat model (surveillance, capital controls). | 5 |
 | [**Tokenization & digital gold**](concepts/tokenization_digital_gold.md) | Gold tokenization — from 2019 skepticism ("not your vault, not your gold") to the 2026 "sixth vector of remonetization." The counterparty-risk tension. | 4 |
+| [**Gold's image problem & psychology**](concepts/image_psychology.md) | Why gold is underallocated: aurophobia, normalcy bias, cognitive dissonance, career risk, the "barbarous relic" inheritance, and the Overton window. | 4 |
 
 ### The voices
 
@@ -84,21 +88,16 @@ investing** → **the voices**.
 
 ### Candidate concepts (not yet compiled)
 
-- **The petrodollar / oil-gold nexus** — recurs inside
-  [de_dollarization](concepts/de_dollarization.md) and the Gromen interviews; could
-  stand alone with a dedicated pass over the oil-ratio chapters (2008-2014).
 - **The Incrementum proprietary models** — the Inflation Signal, the SEGPM, the
   Active Aurum Signal, the Midas Touch model. Currently distributed across
   [technical_analysis](concepts/technical_analysis.md),
   [monetary_policy_inflation](concepts/monetary_policy_inflation.md), and
   [portfolio_diversification](concepts/portfolio_diversification.md).
-- **Gold's "image problem" & the psychology of underallocation** — touched in
-  [portfolio_diversification](concepts/portfolio_diversification.md); a focused
-  page on the 2024 "Image Problem of Gold in the West" and 2026 "Psychology Behind
-  Gold's Underallocation" chapters.
-- **Plaza Accord 2.0 & Exter's Pyramid** — the two 2019 chapters rescued during the
-  mis-extraction fix; could anchor a page on historical currency-accord precedents
-  and the deflationary-collapse (Exter) counter-narrative.
+- **Demographics & the generational handoff** — the 2021 "Global Demographics Turn
+  Inflationary" and "Toward a New Monetary System in One Generational Leap"
+  chapters (Fourth Turning, Turchin, the Millennial wealth transfer).
+- **Empire & reserve-currency history** — "When Rome Lost Its Reserve Currency"
+  (2022) and related long-arc historical analogues.
 
 > This list is not authoritative. Real concepts emerge from reading sources, not
 > from guessing upfront.

@@ -205,3 +205,36 @@ trimmed (petrodollar nexus; proprietary models; image problem; Plaza Accord &
 Exter's Pyramid remain).
 
 Next: final lint over all 22 pages.
+
+---
+
+## [2026-07-24] ingest | Fourth wave — 4 more concept pages (26 total)
+
+Read a further ~20 chapters via 4 parallel research passes (petrodollar/oil-gold,
+image/psychology, Jastram+Austrian School, Exter/Plaza/Mackinder). New pages:
+
+- `concepts/petrodollar_oil_gold.md` — 4 sources (2008-2012). The gold/oil ratio
+  (7x-42x); petrodollar recycling; India-paying-Iran-in-gold; the 2012 "silent
+  farewell."
+- `concepts/image_psychology.md` — 4 sources (2012, 2013, 2024, 2026). Aurophobia,
+  normalcy bias, cognitive dissonance, career risk, the "barbarous relic"
+  inheritance, and the Overton-window defamation thesis.
+- `concepts/golden_constant_austrian_school.md` — 5 sources (2009, 2010, 2013,
+  2014, 2024). Jastram's five-century purchasing-power proof + "inflationary
+  deflation"; the Austrian framework (money creation, Cantillon, deflation-as-cure).
+- `concepts/exter_pyramid_heartland.md` — 5 sources (2011, 2012, 2019 ×2, 2026).
+  The deflationary counter-narrative: Exter's inverted pyramid, the Exter-vs-Mises
+  tension, Plaza Accord 2.0, Mackinder's Heartland applied to the monetary order.
+
+**Wiki now: 26 concept pages.** Index updated; candidate list trimmed to three
+genuinely uncovered themes (proprietary models; demographics/generational handoff;
+empire & reserve-currency history).
+
+The corpus's two major intellectual tensions are now both documented: the
+inflation-vs-deflation endgame (Mises/monetarists vs Exter/deflationists) and the
+gold-as-inflation-hedge vs gold-as-transition-hedge debate (FOFOA vs the rest).
+See [monetary_policy_inflation](concepts/monetary_policy_inflation.md),
+[hyperinflation](concepts/hyperinflation.md), and
+[exter_pyramid_heartland](concepts/exter_pyramid_heartland.md).
+
+Next: final lint + commit/push.
