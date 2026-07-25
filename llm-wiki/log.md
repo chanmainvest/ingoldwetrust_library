@@ -238,3 +238,34 @@ See [monetary_policy_inflation](concepts/monetary_policy_inflation.md),
 [exter_pyramid_heartland](concepts/exter_pyramid_heartland.md).
 
 Next: final lint + commit/push.
+
+---
+
+## [2026-07-24] ingest | Fifth wave — 3 more concept pages (29 total)
+
+Read a further ~11 chapters via 3 parallel research passes (empire/monetary-order,
+demographics/generations, crisis-triggers/swans). New pages:
+
+- `concepts/empire_monetary_order.md` — 4 sources (2015, 2017, 2019, 2022). The
+  long-arc narrative; the Bismarck-Ruhland meta-thesis; the Rome analogy (denarius
+  debasement to 0.02% silver); the "acceleration" thesis; the zero-interest-rate
+  trap.
+- `concepts/demographics_generations.md` — 3 sources (2021 ×2, 2023). Demographics
+  turning inflationary; Strauss-Howe Fourth Turning + Turchin elite-overproduction;
+  the Millennial handoff; the capex/commodity supercycle.
+- `concepts/crisis_triggers_swans.md` — 3 sources (2016, 2017, 2018). The white/
+  gray/black-swan taxonomy; QT/China/Volmageddon triggers; the Austrian credit-
+  cycle argument; a candid retrospective on prediction accuracy (right on
+  fragility & monetary response, early on timing, wrong on mechanism — COVID was a
+  genuine black swan that validated the taxonomy while bypassing every specific
+  trigger).
+
+**Wiki now: 29 concept pages.** Candidate list trimmed to two genuinely uncovered
+themes (proprietary models; demand components in detail).
+
+The corpus's major intellectual tensions are now all documented: inflation-vs-
+deflation endgame (Mises vs Exter); gold-as-inflation-hedge vs transition-hedge
+(FOFOA vs the rest); and the timing-vs-fragility tension in the crisis-triggers
+work (structural-risk alarm bells vs reliable timing devices).
+
+Next: final lint + commit/push.

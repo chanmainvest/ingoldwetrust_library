@@ -60,8 +60,11 @@ investing** → **the voices**.
 | [**Hyperinflation & the crack-up boom**](concepts/hyperinflation.md) | Hyperinflation as a distinct regime (the Cagan/Hanke 50%-monthly threshold), the Misesian crack-up boom, the Weimar/Zimbabwe/Venezuela cases — treated as a tail risk, not a forecast. | 4 |
 | [**War on cash & CBDCs**](concepts/war_on_cash_cbdc.md) | Cash as the last exit from fiat; why abolishing it is the prerequisite for deep negative rates; the "Σ 0 ∞ € ¥" money metamorphosis; gold and Bitcoin as escape valves. | 6 |
 | [**De-dollarization**](concepts/de_dollarization.md) | The structural erosion of USD reserve status and gold's re-emergence as the neutral reserve asset of a multipolar order. The 2014→2026 arc, to the 2026 inversion where the US itself ends the standard. | 10 |
+| [**Empire & the monetary order**](concepts/empire_monetary_order.md) | The long-arc narrative (Bretton Woods → 1971 → multipolar reset), the Rome analogy, the "acceleration" thesis, and wealth in an "unsustainable system." | 4 |
 | [**Exter's Pyramid, Plaza 2.0 & the Heartland**](concepts/exter_pyramid_heartland.md) | The deflationary counter-narrative: the inverted debt pyramid, the Exter-vs-Mises tension, Plaza Accord 2.0, and Mackinder's Heartland applied monetarily. | 5 |
 | [**Petrodollar & the oil-gold nexus**](concepts/petrodollar_oil_gold.md) | The gold/oil ratio as purchasing-power gauge (~7x to 42x); petrodollar recycling; India-paying-Iran-in-gold; the signs of erosion. | 4 |
+| [**Demographics, generations & the commodity supercycle**](concepts/demographics_generations.md) | Why demographics turned inflationary; Strauss-Howe Fourth Turning + Turchin; the Millennial handoff; the capex/commodity bull. | 3 |
+| [**Crisis triggers & the swan taxonomy**](concepts/crisis_triggers_swans.md) | White/gray/black swans; QT, China, Volmageddon; the Austrian credit-cycle "trigger of the next recession" — with a candid retrospective on accuracy. | 3 |
 
 ### The market & investing
 
@@ -93,11 +96,10 @@ investing** → **the voices**.
   [technical_analysis](concepts/technical_analysis.md),
   [monetary_policy_inflation](concepts/monetary_policy_inflation.md), and
   [portfolio_diversification](concepts/portfolio_diversification.md).
-- **Demographics & the generational handoff** — the 2021 "Global Demographics Turn
-  Inflationary" and "Toward a New Monetary System in One Generational Leap"
-  chapters (Fourth Turning, Turchin, the Millennial wealth transfer).
-- **Empire & reserve-currency history** — "When Rome Lost Its Reserve Currency"
-  (2022) and related long-arc historical analogues.
+- **The demand components in detail** — jewellery, ETFs, coins, industrial, central
+  bank. Currently distributed across [supply_demand](concepts/supply_demand.md),
+  [india_eastern_demand](concepts/india_eastern_demand.md), and
+  [central_bank_gold](concepts/central_bank_gold.md).
 
 > This list is not authoritative. Real concepts emerge from reading sources, not
 > from guessing upfront.
