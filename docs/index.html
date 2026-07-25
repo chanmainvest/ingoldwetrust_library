@@ -961,12 +961,7 @@ function renderAuthors() {
       "</div>" +
       '<div class="author-quotes">' +
         '<div class="author-quotes-inner">' +
-          (expandedNow ? a.quotes.map(q =>
-            '<div class="mini-quote">' + escapeHTML(q.quote) +
-              '<span class="mini-meta">' + escapeHTML(q.year) +
-              (q.chapter ? " · " + escapeHTML(q.chapter) : "") +
-              "</span></div>"
-          ).join("") : "") +
+          (expandedNow ? authorQuotesHTML(a) : "") +
         "</div>" +
       "</div>" +
     "</div>";
@@ -984,15 +979,29 @@ function renderAuthors() {
   renderPagination();
 }
 
+function authorQuotesHTML(a) {
+  return a.quotes.map(q =>
+    '<div class="mini-quote">' + escapeHTML(q.quote) +
+      '<span class="mini-meta">' + escapeHTML(q.year) +
+      (q.chapter ? " · " + escapeHTML(q.chapter) : "") +
+      "</span></div>"
+  ).join("");
+}
+
 function toggleAuthor(row) {
   const name = row.dataset.author;
   const opening = !expanded.has(name);
   if (opening) {
     expanded.add(name);
+    // Lazy-render this author's quotes on first open.
+    const a = authorIndex.find(x => x.name === name);
+    const inner = row.querySelector(".author-quotes-inner");
+    if (a && inner && !inner.dataset.filled) {
+      inner.innerHTML = authorQuotesHTML(a);
+      inner.dataset.filled = "1";
+    }
     row.classList.add("expanded");
     row.setAttribute("aria-expanded", "true");
-    // Inner content is already rendered for all rows on the page (see
-    // renderAuthors); expanding just reveals it via CSS max-height.
   } else {
     expanded.delete(name);
     row.classList.remove("expanded");
