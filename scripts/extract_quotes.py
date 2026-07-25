@@ -78,10 +78,13 @@ def clean_quote(s: str) -> str:
 def clean_author(s: str) -> str:
     """Normalise an author span: drop markdown emphasis, keep commas/years."""
     s = clean_text(s)
+    # Strip leading markdown heading markers (``##### Name`` -> ``Name``).
+    # These leak through for H5/H6 headings used as author attributions.
+    s = re.sub(r"^\s*#{1,6}\s*", "", s)
     # Strip any leftover emphasis markers.
     s = s.replace("**", "").replace("__", "")
     # A leading comma often separates quote from author in old formats
-    # (e.g. ``_"..."_, Alan Greenspan``). Drop it.
+    # (e.g. ``_"..."``, Alan Greenspan``). Drop it.
     s = s.lstrip(",").strip()
     # Drop a trailing lone comma.
     s = s.rstrip(",").strip()
@@ -134,8 +137,9 @@ def looks_like_author(line: str) -> str | None:
     if re.fullmatch(r"\d{1,4}", s):
         return None
 
-    # H2/H3/H4 heading: ``#### Author`` or ``### **Author**``.
-    m = re.match(r"^#{2,4}\s+(.+?)\s*$", s)
+    # Markdown heading used as an attribution (``#### Author`` through
+    # ``###### Author``). H5/H6 appear in several reports.
+    m = re.match(r"^#{2,6}\s+(.+?)\s*$", s)
     if m:
         body = clean_author(m.group(1))
         if _author_plausible(body):
@@ -193,6 +197,10 @@ def _author_plausible(body: str) -> bool:
     # Long body that starts with a common prose word -> likely a sentence.
     if len(body) > 45 and body.lower().startswith(_PROSE_HINTS):
         return False
+    # Hashtag tokens (``#igwt19``, ``#A One-Two Punch``) -- social tags or
+    # in-document anchors, never author attributions.
+    if body.startswith("#"):
+        return False
     # A full sentence ending in a period with several words.
     words = body.split()
     if body.endswith(".") and len(words) > 10:
@@ -203,6 +211,18 @@ def _author_plausible(body: str) -> bool:
     # Leading underscore / quote cruft -> fragment of a larger span, not a name.
     if body.startswith("_") or body.startswith("”") or body.startswith("'"):
         return False
+    # Wrapped italic span (``_Some heading_``) -> a subsection title, not a name.
+    if body.startswith("_") and body.endswith("_") and len(body) > 10:
+        return False
+    # Sentence-like section headings: capitalised but many words with no comma
+    # (real attributions are short -- "Jim Grant", "Jim Grant, 2020"). A long
+    # un-commaed run with lowercase function words mid-phrase is prose.
+    if len(words) >= 8 and "," not in body and len(body) > 45:
+        if any(re.search(r"\b" + re.escape(w.rstrip(",")) + r"\b", body.lower())
+               for w in ("the", "and", "of", "to", "in", "is", "are", "was",
+                         "that", "this", "has", "have", "while", "since",
+                         "where", "from", "not", "but")):
+            return False
     # Figure-title / sentence-fragment openers (capitalised but descriptive).
     if re.match(r"^(The\s|There\s|Many\s|Money\s|Stock-to-flow|Many countries|Writes\s|writes\s)", body):
         return False
