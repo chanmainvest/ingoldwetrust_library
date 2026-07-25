@@ -15,7 +15,7 @@ The reports use five distinct citation layouts across the years:
   D. ``**_"quote"_** Author``                        (2026, author after ``**``)
   E. ``<mark>`` wrapping variants of A/B/C           (scattered 2015-2017)
 
-Output: ``quotes.json`` -- a single JSON array of objects::
+Output: ``docs/quotes.json`` -- a single JSON array of objects::
 
     {
       "quote": "...",
@@ -415,7 +415,7 @@ def main() -> None:
     # Sort for stable output: by year, then file, then quote.
     records.sort(key=lambda r: (r["year"], r["file"], r["quote"]))
 
-    out_path = project_root / "quotes.json"
+    out_path = project_root / "docs" / "quotes.json"
     out_path.write_text(
         json.dumps(records, ensure_ascii=False, indent=2),
         encoding="utf-8",

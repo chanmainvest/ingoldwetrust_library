@@ -29,9 +29,12 @@ ingoldwetrust_library/
 │   └── concepts/                # Cross-cutting concept pages
 ├── scripts/
 │   ├── convert_pdfs.py          # PDF → Markdown conversion (bookmarks or printed TOC)
-│   ├── extract_quotes.py        # Extract epigraph quotes → quotes.json
+│   ├── extract_quotes.py        # Extract epigraph quotes → docs/quotes.json
 │   └── fix_md_images.py         # One-off image-path fixer
-├── quotes.json                  # Extracted quotes (author + year + chapter), ~4,800 entries
+├── docs/                        # Static GitHub-Pages site
+│   ├── index.html               # Quote browser (reads quotes.json)
+│   ├── quotes.json              # Extracted quotes (author + year + chapter), ~4,800 entries
+│   └── README.md
 ├── requirements.txt             # Python dependencies
 ├── AGENTS.md                    # This file
 ├── README.md                    # Project overview
@@ -79,9 +82,9 @@ the report is written as a single `full_report.md`.
 ## Quote Extraction
 
 `scripts/extract_quotes.py` scans `markdown/` and pulls every epigraph quote
-into `quotes.json` — a single JSON array of ~4,800 records, each with the quote
-text, author, year, chapter title, and source filename. Duplicates across years
-are preserved (each occurrence carries its own provenance).
+into `docs/quotes.json` — a single JSON array of ~4,800 records, each with the
+quote text, author, year, chapter title, and source filename. Duplicates across
+years are preserved (each occurrence carries its own provenance).
 
 ```bash
 python scripts/extract_quotes.py
@@ -148,8 +151,10 @@ Full rules and conventions are in [`llm-wiki/AGENTS.md`](llm-wiki/AGENTS.md).
 
 - PDFs are **not** committed to git. They must be placed in `pdfs/` manually before running the script.
 - The `markdown/` folder **is** committed and is the primary output of this project.
-- `quotes.json` **is** committed and is a derived artifact: regenerate it with
-  `python scripts/extract_quotes.py` whenever `markdown/` changes.
+- `docs/quotes.json` **is** committed and is a derived artifact: regenerate it with
+  `python scripts/extract_quotes.py` whenever `markdown/` changes. It lives under
+  `docs/` so the static quote-browser page can fetch it as a same-folder URL on
+  GitHub Pages.
 - The `llm-wiki/` folder **is** committed and contains the thematic knowledge base
   compiled from `markdown/`. Its `concepts/` pages are written by the agent during
   the ingest loop, not pre-fabricated.
