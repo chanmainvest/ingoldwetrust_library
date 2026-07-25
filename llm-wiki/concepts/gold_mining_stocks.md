@@ -121,15 +121,20 @@ failures overwhelming the structural leverage.
   buy-and-hold investments" (2015), culminating in the proprietary Active Aurum
   Signal (active +16,279% vs passive +1,477% since 1971).
 
+## See also
+
+- [ESG & responsible mining](esg_responsible_mining.md) — the ESG capital-
+  allocation gatekeeper that shapes which miners can fund projects at all.
+
 ## Sources
 
-- [2008 — Gold Mining Shares](../markdown/2008/23_gold_mining_shares.md)
-- [2013 — Gold Stocks Close to a Trend Change](../markdown/2013/20_gold_stocks_close_to_a_trend_change.md)
-- [2015 — Gold Stocks](../markdown/2015/11_gold_stocks.md)
-- [2016 — Aspects Specific to Investment in Gold Mining Stocks](../markdown/2016/43_aspects_specific_to_investment_in_gold_mining_stocks.md)
-- [2016 — Creative Destruction in the Mining Sector](../markdown/2016/45_creative_destruction_in_the_mining_sector_is_the_sector_at_a_turning_point.md)
-- [2019 — Gold Mining Stocks After the Creative Destruction](../markdown/2019/14_gold_mining_stocks_after_the_creative_destruction_a_bull_market.md)
-- [2022 — Royalty & Streaming Companies](../markdown/2022/22_royalty_streaming_companies_an_excellent_way_of_investing_in_gold.md)
-- [2024 — The Valuation and Beta of the Gold Mining Industry](../markdown/2024/20_the_valuation_and_beta_of_the_gold_mining_industry.md)
-- [2026 — The Collapse of Commodity Beta](../markdown/2026/19_the_collapse_of_commodity_beta.md)
-- [2026 — Gold and Silver Miners: From Problem Child to Model Student](../markdown/2026/25_gold_and_silver_miners_from_problem_child_to_model_student.md)
+- [2008 — Gold Mining Shares](../../markdown/2008/23_gold_mining_shares.md)
+- [2013 — Gold Stocks Close to a Trend Change](../../markdown/2013/20_gold_stocks_close_to_a_trend_change.md)
+- [2015 — Gold Stocks](../../markdown/2015/11_gold_stocks.md)
+- [2016 — Aspects Specific to Investment in Gold Mining Stocks](../../markdown/2016/43_aspects_specific_to_investment_in_gold_mining_stocks.md)
+- [2016 — Creative Destruction in the Mining Sector](../../markdown/2016/45_creative_destruction_in_the_mining_sector_is_the_sector_at_a_turning_point.md)
+- [2019 — Gold Mining Stocks After the Creative Destruction](../../markdown/2019/14_gold_mining_stocks_after_the_creative_destruction_a_bull_market.md)
+- [2022 — Royalty & Streaming Companies](../../markdown/2022/22_royalty_streaming_companies_an_excellent_way_of_investing_in_gold.md)
+- [2024 — The Valuation and Beta of the Gold Mining Industry](../../markdown/2024/20_the_valuation_and_beta_of_the_gold_mining_industry.md)
+- [2026 — The Collapse of Commodity Beta](../../markdown/2026/19_the_collapse_of_commodity_beta.md)
+- [2026 — Gold and Silver Miners: From Problem Child to Model Student](../../markdown/2026/25_gold_and_silver_miners_from_problem_child_to_model_student.md)

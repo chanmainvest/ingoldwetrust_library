@@ -139,8 +139,8 @@ lower long-term inflation and the higher real economic growth will be."
 
 ## Sources
 
-- [2024 — Roy Jastram's The Golden Constant and Inflationary Deflation](../markdown/2024/14_roy_jastrams_the_golden_constant_and_inflationary_deflation.md)
-- [2009 — Money Supply Development According to the Austrian School](../markdown/2009/21_money_supply_development_according_to_the_austrian_school_of_economics.md)
-- [2010 — The Creation of Money from the Perspective of the Austrian School](../markdown/2010/12_excursus_the_creation_of_money_from_the_perspective_of_the_austrian_school_of_ec.md)
-- [2013 — The Cantillon Effect Describes Uneven Distribution of Newly Created Money](../markdown/2013/15_cantillon_effect_describes_uneven_distribution_of_newly_created_money.md)
-- [2014 — Deflation from the Perspective of the Austrian School](../markdown/2014/06_deflation_from_the_perspective_of_the_austrian_school_of_economics.md)
+- [2024 — Roy Jastram's The Golden Constant and Inflationary Deflation](../../markdown/2024/14_roy_jastrams_the_golden_constant_and_inflationary_deflation.md)
+- [2009 — Money Supply Development According to the Austrian School](../../markdown/2009/21_money_supply_development_according_to_the_austrian_school_of_economics.md)
+- [2010 — The Creation of Money from the Perspective of the Austrian School](../../markdown/2010/12_excursus_the_creation_of_money_from_the_perspective_of_the_austrian_school_of_ec.md)
+- [2013 — The Cantillon Effect Describes Uneven Distribution of Newly Created Money](../../markdown/2013/15_cantillon_effect_describes_uneven_distribution_of_newly_created_money.md)
+- [2014 — Deflation from the Perspective of the Austrian School](../../markdown/2014/06_deflation_from_the_perspective_of_the_austrian_school_of_economics.md)

@@ -125,11 +125,11 @@ would need to rise by roughly an order of magnitude to regain a comparable share
 
 ## Sources
 
-- [2012 — On the Search for a Fair Value for Gold](../markdown/2012/14_on_the_search_for_a_fair_value_for_gold.md)
-- [2013 — Approaches to Gold Price Valuation](../markdown/2013/19_approaches_to_gold_price_valuation.md)
-- [2014 — Revaluation of Gold](../markdown/2014/28_revaluation_of_gold.md)
-- [2014 — Relative Valuation Based on Ratio Analysis](../markdown/2014/30_relative_valuation_based_on_ratio_analysis.md)
-- [2015 — Valuations, Scenarios and Price Targets](../markdown/2015/10_valuations_scenarios_and_price_targets.md)
-- [2016 — Valuations, Scenarios and Price Targets](../markdown/2016/37_valuations_scenarios_and_price_targets.md)
-- [2016 — Gold: Comparison of Relative Prices](../markdown/2016/38_gold_comparison_of_relative_prices.md)
-- [2016 — Comparison of Market Capitalization Levels](../markdown/2016/39_comparison_of_market_capitalization_levels.md)
+- [2012 — On the Search for a Fair Value for Gold](../../markdown/2012/14_on_the_search_for_a_fair_value_for_gold.md)
+- [2013 — Approaches to Gold Price Valuation](../../markdown/2013/19_approaches_to_gold_price_valuation.md)
+- [2014 — Revaluation of Gold](../../markdown/2014/28_revaluation_of_gold.md)
+- [2014 — Relative Valuation Based on Ratio Analysis](../../markdown/2014/30_relative_valuation_based_on_ratio_analysis.md)
+- [2015 — Valuations, Scenarios and Price Targets](../../markdown/2015/10_valuations_scenarios_and_price_targets.md)
+- [2016 — Valuations, Scenarios and Price Targets](../../markdown/2016/37_valuations_scenarios_and_price_targets.md)
+- [2016 — Gold: Comparison of Relative Prices](../../markdown/2016/38_gold_comparison_of_relative_prices.md)
+- [2016 — Comparison of Market Capitalization Levels](../../markdown/2016/39_comparison_of_market_capitalization_levels.md)

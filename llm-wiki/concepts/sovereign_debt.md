@@ -132,13 +132,13 @@ then the problems must be systemic" (2011).
 
 ## Sources
 
-- [2011 — Guilt Without Atonement: Excessive Structural Debt](../markdown/2011/02_guilt_without_atonement_excessive_structural_debt_suggests_further_appreciation_.md)
-- [2013 — Structural Over-indebtedness Argues for Continued Upward Revaluation of Gold](../markdown/2013/16_structural_over_indebtedness_argues_for_continued_upward_revaluation_of_gold.md)
-- [2014 — The Consequences of Global Zero Interest Rate Policy](../markdown/2014/12_the_consequences_of_global_zero_interest_rate_policy.md)
-- [2015 — Debt and Punishment](../markdown/2015/05_debt_and_punishment.md)
-- [2016 — Financial Repression: When the Grasping Hand of the State Runs Rampant](../markdown/2016/29_financial_repression_when_the_grasping_hand_of_the_state_runs_rampant.md)
-- [2020 — Financial Repression: Economic Reasons Come to the Fore](../markdown/2020/17_financial_repression_economic_reasons_come_to_the_fore.md)
-- [2022 — Status Quo of Debt Dynamics](../markdown/2022/04_status_quo_of_debt_dynamics.md)
-- [2024 — Status Quo of Debt Dynamics](../markdown/2024/04_status_quo_of_debt_dynamics.md)
-- [2025 — The Status Quo of Debt Dynamics](../markdown/2025/03_the_status_quo_of_debt_dynamics.md)
-- [2026 — Status Quo of Debt](../markdown/2026/04_status_quo_of_debt.md)
+- [2011 — Guilt Without Atonement: Excessive Structural Debt](../../markdown/2011/02_guilt_without_atonement_excessive_structural_debt_suggests_further_appreciation_.md)
+- [2013 — Structural Over-indebtedness Argues for Continued Upward Revaluation of Gold](../../markdown/2013/16_structural_over_indebtedness_argues_for_continued_upward_revaluation_of_gold.md)
+- [2014 — The Consequences of Global Zero Interest Rate Policy](../../markdown/2014/12_the_consequences_of_global_zero_interest_rate_policy.md)
+- [2015 — Debt and Punishment](../../markdown/2015/05_debt_and_punishment.md)
+- [2016 — Financial Repression: When the Grasping Hand of the State Runs Rampant](../../markdown/2016/29_financial_repression_when_the_grasping_hand_of_the_state_runs_rampant.md)
+- [2020 — Financial Repression: Economic Reasons Come to the Fore](../../markdown/2020/17_financial_repression_economic_reasons_come_to_the_fore.md)
+- [2022 — Status Quo of Debt Dynamics](../../markdown/2022/04_status_quo_of_debt_dynamics.md)
+- [2024 — Status Quo of Debt Dynamics](../../markdown/2024/04_status_quo_of_debt_dynamics.md)
+- [2025 — The Status Quo of Debt Dynamics](../../markdown/2025/03_the_status_quo_of_debt_dynamics.md)
+- [2026 — Status Quo of Debt](../../markdown/2026/04_status_quo_of_debt.md)

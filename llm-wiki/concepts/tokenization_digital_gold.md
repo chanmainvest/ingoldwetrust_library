@@ -136,7 +136,7 @@ The treatment is deliberately **dual-track**:
 
 ## Sources
 
-- [2019 — Gold vs. Bitcoin vs. Stablecoins](../markdown/2019/12_gold_vs_bitcoin_vs_stablecoins.md)
-- [2020 — Gold-Backed Tokens in 2020: A Glimpse into the Future?](../markdown/2020/19_gold_backed_tokens_in_2020_a_glimpse_into_the_future.md)
-- [2026 — The Six Vectors of Gold Remonetization](../markdown/2026/13_the_six_vectors_of_gold_remonetization.md)
-- [2026 — Gold Goes Digital: Tokenization, Financial Infrastructure & Trust](../markdown/2026/15_gold_goes_digital_tokenization_financial_infrastructure_trust.md)
+- [2019 — Gold vs. Bitcoin vs. Stablecoins](../../markdown/2019/12_gold_vs_bitcoin_vs_stablecoins.md)
+- [2020 — Gold-Backed Tokens in 2020: A Glimpse into the Future?](../../markdown/2020/19_gold_backed_tokens_in_2020_a_glimpse_into_the_future.md)
+- [2026 — The Six Vectors of Gold Remonetization](../../markdown/2026/13_the_six_vectors_of_gold_remonetization.md)
+- [2026 — Gold Goes Digital: Tokenization, Financial Infrastructure & Trust](../../markdown/2026/15_gold_goes_digital_tokenization_financial_infrastructure_trust.md)

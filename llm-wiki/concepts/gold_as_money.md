@@ -139,13 +139,19 @@ market actors, perfected over 5,000 years.
   ultimate reference asset for value, trust, and settlement" — partly why
   tokenization becomes essential to the argument.
 
+## See also
+
+- [Gold's image problem & psychology](image_psychology.md) — why a money with
+  this theoretical case is still underallocated: aurophobia, normalcy bias, and
+  the "barbarous relic" inheritance.
+
 ## Sources
 
-- [2010 — Gold Is Money, Nothing Else](../markdown/2010/11_gold_is_money_nothing_else.md)
-- [2012 — Gold Is Money, Nothing Else](../markdown/2012/05_gold_is_money_nothing_else.md)
-- [2013 — Stock-to-Flow Ratio as the Most Important Reason for Gold's Monetary Importance](../markdown/2013/07_stock_to_flow_ratio_as_the_most_important_reason_for_golds_monetary_importance.md)
-- [2013 — The Ongoing Re-monetization of Gold](../markdown/2013/08_the_ongoing_re_monetization_of_gold_in_the_international_financial_and_monetary_.md)
-- [2013 — Origin of the Current Crisis: August 15, 1971](../markdown/2013/14_origin_of_the_current_crisis_august_15_1971.md)
-- [2021 — What Is Money?](../markdown/2021/12_what_is_money.md)
-- [2021 — Toward a New Monetary System in One Generational Leap](../markdown/2021/10_toward_a_new_monetary_system_in_one_generational_leap.md)
-- [2026 — The Six Vectors of Gold Remonetization](../markdown/2026/13_the_six_vectors_of_gold_remonetization.md)
+- [2010 — Gold Is Money, Nothing Else](../../markdown/2010/11_gold_is_money_nothing_else.md)
+- [2012 — Gold Is Money, Nothing Else](../../markdown/2012/05_gold_is_money_nothing_else.md)
+- [2013 — Stock-to-Flow Ratio as the Most Important Reason for Gold's Monetary Importance](../../markdown/2013/07_stock_to_flow_ratio_as_the_most_important_reason_for_golds_monetary_importance.md)
+- [2013 — The Ongoing Re-monetization of Gold](../../markdown/2013/08_the_ongoing_re_monetization_of_gold_in_the_international_financial_and_monetary_.md)
+- [2013 — Origin of the Current Crisis: August 15, 1971](../../markdown/2013/14_origin_of_the_current_crisis_august_15_1971.md)
+- [2021 — What Is Money?](../../markdown/2021/12_what_is_money.md)
+- [2021 — Toward a New Monetary System in One Generational Leap](../../markdown/2021/10_toward_a_new_monetary_system_in_one_generational_leap.md)
+- [2026 — The Six Vectors of Gold Remonetization](../../markdown/2026/13_the_six_vectors_of_gold_remonetization.md)

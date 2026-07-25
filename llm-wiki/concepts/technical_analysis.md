@@ -75,6 +75,9 @@ fundamental/macro work. The recurring toolkit:
 7. **The Incrementum Active Aurum Signal (2024).** A mining-stock timing signal
    (cycle + fundamental components). Backtest: average 1.5 signal changes/year
    since 1971; cumulative performance "over 7,000%" vs. passive buy-and-hold.
+   All four Incrementum house models (Inflation Signal, SEGPM, Active Aurum,
+   Midas Touch) are consolidated in
+   [proprietary models](proprietary_models.md).
 
 ## Notable data & price targets
 
@@ -111,14 +114,14 @@ notably honest about timing/short-term misses:
 
 ## Sources
 
-- [2009 — The Current vs. the Last Great Bull Market](../markdown/2009/30_the_current_vs_the_last_great_bull_market.md)
-- [2010 — Comparison: The Current Chart vs. the Last Bull Market](../markdown/2010/24_comparison_the_current_chart_vs_the_last_bull_market.md)
-- [2013 — Technical Analysis, Sentiment and COT Report Signal Bottoming Process](../markdown/2013/04_technical_analysis_sentiment_and_cot_report_signal_bottoming_process.md)
-- [2016 — Technical Analysis](../markdown/2016/46_technical_analysis.md)
-- [2019 — Technical Analysis](../markdown/2019/18_technical_analysis.md)
-- [2022 — Technical Analysis](../markdown/2022/24_technical_analysis.md)
-- [2024 — Calendar Anomalies and the Gold Market](../markdown/2024/16_calendar_anomalies_and_the_gold_market.md)
-- [2024 — Technical Analysis](../markdown/2024/24_technical_analysis.md)
-- [2024 — Quo Vadis, Aurum?](../markdown/2024/25_quo_vadis_aurum.md)
-- [2026 — Technical Analysis](../markdown/2026/26_technical_analysis.md)
-- [2026 — Quo Vadis, Aurum?](../markdown/2026/27_quo_vadis_aurum.md)
+- [2009 — The Current vs. the Last Great Bull Market](../../markdown/2009/30_the_current_vs_the_last_great_bull_market.md)
+- [2010 — Comparison: The Current Chart vs. the Last Bull Market](../../markdown/2010/24_comparison_the_current_chart_vs_the_last_bull_market.md)
+- [2013 — Technical Analysis, Sentiment and COT Report Signal Bottoming Process](../../markdown/2013/04_technical_analysis_sentiment_and_cot_report_signal_bottoming_process.md)
+- [2016 — Technical Analysis](../../markdown/2016/46_technical_analysis.md)
+- [2019 — Technical Analysis](../../markdown/2019/18_technical_analysis.md)
+- [2022 — Technical Analysis](../../markdown/2022/24_technical_analysis.md)
+- [2024 — Calendar Anomalies and the Gold Market](../../markdown/2024/16_calendar_anomalies_and_the_gold_market.md)
+- [2024 — Technical Analysis](../../markdown/2024/24_technical_analysis.md)
+- [2024 — Quo Vadis, Aurum?](../../markdown/2024/25_quo_vadis_aurum.md)
+- [2026 — Technical Analysis](../../markdown/2026/26_technical_analysis.md)
+- [2026 — Quo Vadis, Aurum?](../../markdown/2026/27_quo_vadis_aurum.md)

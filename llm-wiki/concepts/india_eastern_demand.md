@@ -126,11 +126,11 @@ Western monetary and price-discovery hegemony. Four interlocking pillars:
 
 ## Sources
 
-- [2012 — The Asian Love Affair with Gold](../markdown/2012/10_the_asian_love_affair_with_gold.md)
-- [2015 — The Golden Love Trade](../markdown/2015/09_the_golden_love_trade.md)
-- [2020 — From West to East: Gold's Flow into the Strong Hands of Asia](../markdown/2020/11_from_west_to_east_golds_flow_into_the_strong_hands_of_asia.md)
-- [2023 — The Rise of Eastern Gold Markets: An Impending Showdown with the West](../markdown/2023/11_the_rise_of_eastern_gold_markets_an_impending_showdown_with_the_west.md)
-- [2023 — Without State Intervention: China's Historic Silver Standard](../markdown/2023/12_without_state_intervention_chinas_historic_silver_standard.md)
-- [2024 — Dubai: The Golden Oasis Driving the UAE Gold Market's Growth](../markdown/2024/11_dubai_the_golden_oasis_driving_the_uae_gold_markets_growth.md)
-- [2024 — From Wedlock to Deadlock: The East-West Divorce](../markdown/2024/10_from_wedlock_to_deadlock_the_east_west_divorce.md)
-- [2026 — India: Structure, Dynamics and Future of the World's Largest Gold Ecosystem](../markdown/2026/18_india_structure_dynamics_and_future_of_the_worlds_largest_gold_ecosystem.md)
+- [2012 — The Asian Love Affair with Gold](../../markdown/2012/10_the_asian_love_affair_with_gold.md)
+- [2015 — The Golden Love Trade](../../markdown/2015/09_the_golden_love_trade.md)
+- [2020 — From West to East: Gold's Flow into the Strong Hands of Asia](../../markdown/2020/11_from_west_to_east_golds_flow_into_the_strong_hands_of_asia.md)
+- [2023 — The Rise of Eastern Gold Markets: An Impending Showdown with the West](../../markdown/2023/11_the_rise_of_eastern_gold_markets_an_impending_showdown_with_the_west.md)
+- [2023 — Without State Intervention: China's Historic Silver Standard](../../markdown/2023/12_without_state_intervention_chinas_historic_silver_standard.md)
+- [2024 — Dubai: The Golden Oasis Driving the UAE Gold Market's Growth](../../markdown/2024/11_dubai_the_golden_oasis_driving_the_uae_gold_markets_growth.md)
+- [2024 — From Wedlock to Deadlock: The East-West Divorce](../../markdown/2024/10_from_wedlock_to_deadlock_the_east_west_divorce.md)
+- [2026 — India: Structure, Dynamics and Future of the World's Largest Gold Ecosystem](../../markdown/2026/18_india_structure_dynamics_and_future_of_the_worlds_largest_gold_ecosystem.md)

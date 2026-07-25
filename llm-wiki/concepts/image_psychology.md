@@ -132,7 +132,7 @@ changed and heuristics have not yet caught up.
 
 ## Sources
 
-- [2012 — Why Is Gold Such a Highly Emotional Topic?](../markdown/2012/16_why_is_gold_such_a_highly_emotional_topic_cognitive_dissonance_and_normalcy_bias.md)
-- [2013 — Excursion: Reasons for 'Aurophobia'](../markdown/2013/09_excursion_reasons_for_aurophobia.md)
-- [2024 — The Image Problem of Gold in the West](../markdown/2024/15_the_image_problem_of_gold_in_the_west.md)
-- [2026 — The Psychology Behind Gold's Underallocation](../markdown/2026/17_the_psychology_behind_golds_underallocation.md)
+- [2012 — Why Is Gold Such a Highly Emotional Topic?](../../markdown/2012/16_why_is_gold_such_a_highly_emotional_topic_cognitive_dissonance_and_normalcy_bias.md)
+- [2013 — Excursion: Reasons for 'Aurophobia'](../../markdown/2013/09_excursion_reasons_for_aurophobia.md)
+- [2024 — The Image Problem of Gold in the West](../../markdown/2024/15_the_image_problem_of_gold_in_the_west.md)
+- [2026 — The Psychology Behind Gold's Underallocation](../../markdown/2026/17_the_psychology_behind_golds_underallocation.md)

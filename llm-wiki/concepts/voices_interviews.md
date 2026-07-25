@@ -160,11 +160,11 @@ genuine FOFOA interview, and "Exter's Pyramid" was saved as its own file
 
 ## Sources
 
-- [2019 — Highlights: 20 Years Later – a Freegold Project: Interview with FOFOA](../markdown/2019/05_highlights_20_years_later_a_freegold_project_interview_with_fofoa.md)
-- [2019 — The Enduring Relevance of Exter's Pyramid](../markdown/2019/06a_the_enduring_relevance_of_exters_pyramid.md)
-- [2021 — My View of the Nixon Shock: Interview with FOFOA](../markdown/2021/11_my_view_of_the_nixon_shock_exclusive_interview_with_fofoa.md)
-- [2022 — Stagflation and a New Gold Standard: Interview with Alasdair Macleod](../markdown/2022/09_stagflation_and_a_new_gold_standard_exclusive_interview_with_alasdair_macleod.md)
-- [2022 — Energy War Inflation: Interview with Luke Gromen](../markdown/2022/11_energy_war_inflation_exclusive_interview_with_luke_gromen.md)
-- [2023 — Adapting to the New World Order: Interview with Zoltan Pozsar](../markdown/2023/09_exclusive_interview_with_zoltan_pozsar_adapting_to_the_new_world_order.md)
-- [2023 — Save Like a Pessimist, Invest Like an Optimist: Interview with Russell Napier](../markdown/2023/21_exclusive_interview_with_russell_napier_save_like_a_pessimist_invest_like_an_opt.md)
-- [2026 — Shovels Not Spreadsheets: Luke Gromen Debates Craig Tindale](../markdown/2026/10_shovels_not_spreadsheets_luke_gromen_debates_craig_tindale.md)
+- [2019 — Highlights: 20 Years Later – a Freegold Project: Interview with FOFOA](../../markdown/2019/05_highlights_20_years_later_a_freegold_project_interview_with_fofoa.md)
+- [2019 — The Enduring Relevance of Exter's Pyramid](../../markdown/2019/06a_the_enduring_relevance_of_exters_pyramid.md)
+- [2021 — My View of the Nixon Shock: Interview with FOFOA](../../markdown/2021/11_my_view_of_the_nixon_shock_exclusive_interview_with_fofoa.md)
+- [2022 — Stagflation and a New Gold Standard: Interview with Alasdair Macleod](../../markdown/2022/09_stagflation_and_a_new_gold_standard_exclusive_interview_with_alasdair_macleod.md)
+- [2022 — Energy War Inflation: Interview with Luke Gromen](../../markdown/2022/11_energy_war_inflation_exclusive_interview_with_luke_gromen.md)
+- [2023 — Adapting to the New World Order: Interview with Zoltan Pozsar](../../markdown/2023/09_exclusive_interview_with_zoltan_pozsar_adapting_to_the_new_world_order.md)
+- [2023 — Save Like a Pessimist, Invest Like an Optimist: Interview with Russell Napier](../../markdown/2023/21_exclusive_interview_with_russell_napier_save_like_a_pessimist_invest_like_an_opt.md)
+- [2026 — Shovels Not Spreadsheets: Luke Gromen Debates Craig Tindale](../../markdown/2026/10_shovels_not_spreadsheets_luke_gromen_debates_craig_tindale.md)

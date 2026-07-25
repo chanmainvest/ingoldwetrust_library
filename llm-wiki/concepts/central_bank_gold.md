@@ -119,11 +119,11 @@ structural floor under the gold price.
 
 ## Sources
 
-- [2009 — Central Bank Gold Agreements](../markdown/2009/15_central_bank_gold_agreements.md)
-- [2011 — Central Banks on the Buyers' Side for the First Time in Two Decades](../markdown/2011/19_central_banks_on_the_buyers_side_for_the_first_time_in_two_decades.md)
-- [2012 — Renaissance of Central Bank Buying](../markdown/2012/12_renaissance_of_central_bank_buying.md)
-- [2020 — From West to East: Gold's Flow into the Strong Hands of Asia](../markdown/2020/11_from_west_to_east_golds_flow_into_the_strong_hands_of_asia.md)
-- [2024 — Status Quo of Gold Demand](../markdown/2024/06_status_quo_of_gold_demand.md)
-- [2025 — Bringing It Home: Central Bank Gold Repatriation](../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md)
-- [2026 — The Status Quo of Gold Demand and Gold Supply](../markdown/2026/06_the_status_quo_of_gold_demand_and_gold_supply.md)
-- [2026 — The Six Vectors of Gold Remonetization](../markdown/2026/13_the_six_vectors_of_gold_remonetization.md)
+- [2009 — Central Bank Gold Agreements](../../markdown/2009/15_central_bank_gold_agreements.md)
+- [2011 — Central Banks on the Buyers' Side for the First Time in Two Decades](../../markdown/2011/19_central_banks_on_the_buyers_side_for_the_first_time_in_two_decades.md)
+- [2012 — Renaissance of Central Bank Buying](../../markdown/2012/12_renaissance_of_central_bank_buying.md)
+- [2020 — From West to East: Gold's Flow into the Strong Hands of Asia](../../markdown/2020/11_from_west_to_east_golds_flow_into_the_strong_hands_of_asia.md)
+- [2024 — Status Quo of Gold Demand](../../markdown/2024/06_status_quo_of_gold_demand.md)
+- [2025 — Bringing It Home: Central Bank Gold Repatriation](../../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md)
+- [2026 — The Status Quo of Gold Demand and Gold Supply](../../markdown/2026/06_the_status_quo_of_gold_demand_and_gold_supply.md)
+- [2026 — The Six Vectors of Gold Remonetization](../../markdown/2026/13_the_six_vectors_of_gold_remonetization.md)

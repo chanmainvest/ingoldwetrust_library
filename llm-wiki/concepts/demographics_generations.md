@@ -139,6 +139,6 @@ portfolio that historically outperforms during such regime-change windows.
 
 ## Sources
 
-- [2021 — Global Demographics Turn Inflationary](../markdown/2021/04_global_demographics_turn_inflationary.md)
-- [2021 — Toward a New Monetary System in One Generational Leap](../markdown/2021/10_toward_a_new_monetary_system_in_one_generational_leap.md)
-- [2023 — Capex Comeback: A Raging Bull Market for Commodities Beckons](../markdown/2023/20_capex_comeback_a_raging_bull_market_for_commodities_beckons.md)
+- [2021 — Global Demographics Turn Inflationary](../../markdown/2021/04_global_demographics_turn_inflationary.md)
+- [2021 — Toward a New Monetary System in One Generational Leap](../../markdown/2021/10_toward_a_new_monetary_system_in_one_generational_leap.md)
+- [2023 — Capex Comeback: A Raging Bull Market for Commodities Beckons](../../markdown/2023/20_capex_comeback_a_raging_bull_market_for_commodities_beckons.md)

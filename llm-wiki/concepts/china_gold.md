@@ -130,11 +130,11 @@ underreporting — accumulating far more than its disclosed tonnage.
 
 ## Sources
 
-- [2008 — The Chinese Gold Rush](../markdown/2008/05_exkursus_the_chinese_gold_rush.md)
-- [2009 — Golden China](../markdown/2009/14_golden_china.md)
-- [2010 — Chinese Gold Awakening After a Long Slumber](../markdown/2010/10_chinese_gold_awakening_after_a_long_slumber.md)
-- [2012 — The Asian Love Affair with Gold](../markdown/2012/10_the_asian_love_affair_with_gold.md)
-- [2014 — China and the Importance of Gold](../markdown/2014/24_china_and_the_importance_of_gold.md)
-- [2019 — Gold and the Dragon: China Stabilizes Its Ascent with Gold](../markdown/2019/03_gold_and_the_dragon_china_stabilizes_its_ascent_with_gold.md)
-- [2024 — China's Economic Situation and Its Consequences for Gold Consumption](../markdown/2024/12_chinas_economic_situation_and_its_consequences_for_gold_consumption.md)
-- [2025 — Focus on System Rivalry: Where Is China Heading](../markdown/2025/09_focus_on_system_rivalry_where_is_china_heading.md)
+- [2008 — The Chinese Gold Rush](../../markdown/2008/05_exkursus_the_chinese_gold_rush.md)
+- [2009 — Golden China](../../markdown/2009/14_golden_china.md)
+- [2010 — Chinese Gold Awakening After a Long Slumber](../../markdown/2010/10_chinese_gold_awakening_after_a_long_slumber.md)
+- [2012 — The Asian Love Affair with Gold](../../markdown/2012/10_the_asian_love_affair_with_gold.md)
+- [2014 — China and the Importance of Gold](../../markdown/2014/24_china_and_the_importance_of_gold.md)
+- [2019 — Gold and the Dragon: China Stabilizes Its Ascent with Gold](../../markdown/2019/03_gold_and_the_dragon_china_stabilizes_its_ascent_with_gold.md)
+- [2024 — China's Economic Situation and Its Consequences for Gold Consumption](../../markdown/2024/12_chinas_economic_situation_and_its_consequences_for_gold_consumption.md)
+- [2025 — Focus on System Rivalry: Where Is China Heading](../../markdown/2025/09_focus_on_system_rivalry_where_is_china_heading.md)

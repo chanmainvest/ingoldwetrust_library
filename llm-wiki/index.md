@@ -82,6 +82,7 @@ investing** → **the voices**.
 | [**Manipulation & intervention**](concepts/manipulation_intervention.md) | The manipulation-vs-intervention distinction, paper-vs-physical divergence, the LBMA fractional-reserve structure, and the 2016 Deutsche Bank settlements. | 7 |
 | [**Gold storage & custody**](concepts/gold_storage_custody.md) | The jurisdiction fact-checking series, allocated vs unallocated, confiscation history (1933 et al.), and the modern threat model (surveillance, capital controls). | 5 |
 | [**Tokenization & digital gold**](concepts/tokenization_digital_gold.md) | Gold tokenization — from 2019 skepticism ("not your vault, not your gold") to the 2026 "sixth vector of remonetization." The counterparty-risk tension. | 4 |
+| [**Bitcoin vs. gold**](concepts/bitcoin_vs_gold.md) | The "digital gold" debate and Hayekian competing-currencies framing — rivalry vs. complement; the case for holding both as hedges against fiat debasement. | 9 |
 | [**Gold's image problem & psychology**](concepts/image_psychology.md) | Why gold is underallocated: aurophobia, normalcy bias, cognitive dissonance, career risk, the "barbarous relic" inheritance, and the Overton window. | 4 |
 
 ### The voices

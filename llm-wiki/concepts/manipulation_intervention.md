@@ -114,10 +114,10 @@ camp and mainstream dismissiveness, via a staged argument:
 
 ## Sources
 
-- [2009 — Is the Gold Price Subject to Manipulation?](../markdown/2009/24_is_the_gold_price_subject_to_manipulation.md)
-- [2009 — COT Indicates Massive Short Concentration](../markdown/2009/31_commitment_of_traders_cot_indicates_massive_short_concentration.md)
-- [2010 — Manipulation vs. Intervention](../markdown/2010/13_manipulation_vs_intervention.md)
-- [2010 — Paper Gold vs. Physical Gold](../markdown/2010/14_paper_gold_vs_physical_gold.md)
-- [2013 — Paper Gold versus Physical Gold](../markdown/2013/03_paper_gold_versus_physical_gold.md)
-- [2014 — There Are No Markets Anymore, Just Interventions](../markdown/2014/27_there_are_no_markets_anymore_just_interventions.md)
-- [2016 — The Fix Is In: Gold Price Manipulation Exposed](../markdown/2016/33_the_fix_is_in_gold_price_manipulation_exposed.md)
+- [2009 — Is the Gold Price Subject to Manipulation?](../../markdown/2009/24_is_the_gold_price_subject_to_manipulation.md)
+- [2009 — COT Indicates Massive Short Concentration](../../markdown/2009/31_commitment_of_traders_cot_indicates_massive_short_concentration.md)
+- [2010 — Manipulation vs. Intervention](../../markdown/2010/13_manipulation_vs_intervention.md)
+- [2010 — Paper Gold vs. Physical Gold](../../markdown/2010/14_paper_gold_vs_physical_gold.md)
+- [2013 — Paper Gold versus Physical Gold](../../markdown/2013/03_paper_gold_versus_physical_gold.md)
+- [2014 — There Are No Markets Anymore, Just Interventions](../../markdown/2014/27_there_are_no_markets_anymore_just_interventions.md)
+- [2016 — The Fix Is In: Gold Price Manipulation Exposed](../../markdown/2016/33_the_fix_is_in_gold_price_manipulation_exposed.md)

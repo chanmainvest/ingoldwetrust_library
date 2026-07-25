@@ -125,7 +125,7 @@ analytical framework, not an imminent forecast**:
 
 ## Sources
 
-- [2010 — Inflation vs. Deflation](../markdown/2010/03_inflation_vs_deflation.md)
-- [2019 — Hyperinflation: Much Talked About, Little Understood](../markdown/2019/10_hyperinflation_much_talked_about_little_understood.md)
-- [2022 — Stagflation 2.0](../markdown/2022/08_stagflation_20.md)
-- [2023 — Crack-Up Boom: The End of a Currency Regime](../markdown/2023/14_crack_up_boom_the_end_of_a_currency_regime.md)
+- [2010 — Inflation vs. Deflation](../../markdown/2010/03_inflation_vs_deflation.md)
+- [2019 — Hyperinflation: Much Talked About, Little Understood](../../markdown/2019/10_hyperinflation_much_talked_about_little_understood.md)
+- [2022 — Stagflation 2.0](../../markdown/2022/08_stagflation_20.md)
+- [2023 — Crack-Up Boom: The End of a Currency Regime](../../markdown/2023/14_crack_up_boom_the_end_of_a_currency_regime.md)

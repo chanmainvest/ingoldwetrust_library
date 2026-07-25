@@ -161,8 +161,8 @@ scoreboard.
 
 ## Sources
 
-- [2011 — Is a Gold Standard Deflationary per Se?](../markdown/2011/06_is_a_gold_standard_deflationary_per_se.md)
-- [2012 — Gold in an Environment of a Deflationary Loss of Confidence](../markdown/2012/03_gold_in_an_environment_of_a_deflationary_loss_of_confidence.md)
-- [2019 — The Enduring Relevance of Exter's Pyramid](../markdown/2019/06a_the_enduring_relevance_of_exters_pyramid.md)
-- [2019 — History Does (not) Repeat Itself: Plaza Accord 2.0?](../markdown/2019/06b_history_does_not_repeat_itself_plaza_accord_2.md)
-- [2026 — Gold and the Monetary Analogue of Mackinder's Heartland Theory](../markdown/2026/12_gold_and_the_monetary_analogue_of_mackinders_foundational_heartland_theory.md)
+- [2011 — Is a Gold Standard Deflationary per Se?](../../markdown/2011/06_is_a_gold_standard_deflationary_per_se.md)
+- [2012 — Gold in an Environment of a Deflationary Loss of Confidence](../../markdown/2012/03_gold_in_an_environment_of_a_deflationary_loss_of_confidence.md)
+- [2019 — The Enduring Relevance of Exter's Pyramid](../../markdown/2019/06a_the_enduring_relevance_of_exters_pyramid.md)
+- [2019 — History Does (not) Repeat Itself: Plaza Accord 2.0?](../../markdown/2019/06b_history_does_not_repeat_itself_plaza_accord_2.md)
+- [2026 — Gold and the Monetary Analogue of Mackinder's Heartland Theory](../../markdown/2026/12_gold_and_the_monetary_analogue_of_mackinders_foundational_heartland_theory.md)

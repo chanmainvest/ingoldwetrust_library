@@ -75,7 +75,9 @@ they later turned into live investment products.
    lived to see.
 5. **Stablecoins (and gold-backed stablecoins).** Promised to combine gold's
    stability with Bitcoin's digital advantages. The firm is skeptical: "Not your
-   vault, not your gold."
+   vault, not your gold." The full arc — from 2019 skepticism to the 2026
+   "sixth vector of remonetization" — is traced in
+   [tokenization & digital gold](tokenization_digital_gold.md).
 6. **Volatility as a feature (rebalancing bonus + option premium).** Rather than
    a drawback, the 2019 strategy monetizes volatility via rule-based rebalancing
    and covered-call writing (~10–15% annualized additional return).
@@ -86,7 +88,8 @@ they later turned into live investment products.
 8. **Adoption curve / network effects / Lindy.** S-curve framing (2022): 25% of
    US households owned Bitcoin by 2022; 90% projected ~2029. By 2026 they cite the
    USD 105 tr demographic wealth transfer (Millennials 20–25% Bitcoin ownership vs
-   <5% for over-65s).
+   <5% for over-65s) — the generational handoff underlying this is laid out in
+   [demographics, generations & the commodity supercycle](demographics_generations.md).
 
 ## Notable data & quotes
 
@@ -136,12 +139,12 @@ bury.
 
 ## Sources
 
-- [2017 — In Bitcoin We Trust?](../markdown/2017/09_in_bitcoin_we_trust.md)
-- [2018 — Competing Currencies and Digital Money: How Hayekian Are Cryptocurrencies?](../markdown/2018/11_competing_currencies_and_digital_money_how_hayekian_are_cryptocurrencies.md)
-- [2018 — Crypto: Friend or Foe?](../markdown/2018/12_crypto_friend_or_foe.md)
-- [2019 — Gold vs. Bitcoin vs. Stablecoins](../markdown/2019/12_gold_vs_bitcoin_vs_stablecoins.md)
-- [2019 — Gold and Bitcoin: Stronger Together](../markdown/2019/13_gold_and_bitcoin_stronger_together.md)
-- [2020 — The Plan B Model: The Holy Grail of Bitcoin Valuation](../markdown/2020/18_the_plan_b_model_the_holy_grail_of_bitcoin_valuation.md)
-- [2022 — Bitcoin: Bull Market in Adoption, Bear Market in Price](../markdown/2022/19_bitcoin_bull_market_in_adoption_bear_market_in_price.md)
-- [2024 — The New Playbook for Bitcoin](../markdown/2024/18_the_new_playbook_for_bitcoin.md)
-- [2026 — Bitcoin's Role in the Monetary Future](../markdown/2026/20_bitcoins_role_in_the_monetary_future.md)
+- [2017 — In Bitcoin We Trust?](../../markdown/2017/09_in_bitcoin_we_trust.md)
+- [2018 — Competing Currencies and Digital Money: How Hayekian Are Cryptocurrencies?](../../markdown/2018/11_competing_currencies_and_digital_money_how_hayekian_are_cryptocurrencies.md)
+- [2018 — Crypto: Friend or Foe?](../../markdown/2018/12_crypto_friend_or_foe.md)
+- [2019 — Gold vs. Bitcoin vs. Stablecoins](../../markdown/2019/12_gold_vs_bitcoin_vs_stablecoins.md)
+- [2019 — Gold and Bitcoin: Stronger Together](../../markdown/2019/13_gold_and_bitcoin_stronger_together.md)
+- [2020 — The Plan B Model: The Holy Grail of Bitcoin Valuation](../../markdown/2020/18_the_plan_b_model_the_holy_grail_of_bitcoin_valuation.md)
+- [2022 — Bitcoin: Bull Market in Adoption, Bear Market in Price](../../markdown/2022/19_bitcoin_bull_market_in_adoption_bear_market_in_price.md)
+- [2024 — The New Playbook for Bitcoin](../../markdown/2024/18_the_new_playbook_for_bitcoin.md)
+- [2026 — Bitcoin's Role in the Monetary Future](../../markdown/2026/20_bitcoins_role_in_the_monetary_future.md)

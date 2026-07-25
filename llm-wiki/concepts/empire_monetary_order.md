@@ -123,7 +123,7 @@ de-dollarization) is already being built.
 
 ## Sources
 
-- [2015 — Past, Present and Future of the Monetary Order](../markdown/2015/08_past_present_and_future_of_the_monetary_order.md)
-- [2017 — Sustainable Wealth Accumulation in an Unsustainable Monetary System](../markdown/2017/13_sustainable_wealth_accumulation_in_an_unsustainable_monetary_system.md)
-- [2019 — Acceleration and the Monetary Order](../markdown/2019/08_acceleration_and_the_monetary_order.md)
-- [2022 — When Rome Lost Its Reserve Currency](../markdown/2022/13_when_rome_lost_its_reserve_currency.md)
+- [2015 — Past, Present and Future of the Monetary Order](../../markdown/2015/08_past_present_and_future_of_the_monetary_order.md)
+- [2017 — Sustainable Wealth Accumulation in an Unsustainable Monetary System](../../markdown/2017/13_sustainable_wealth_accumulation_in_an_unsustainable_monetary_system.md)
+- [2019 — Acceleration and the Monetary Order](../../markdown/2019/08_acceleration_and_the_monetary_order.md)
+- [2022 — When Rome Lost Its Reserve Currency](../../markdown/2022/13_when_rome_lost_its_reserve_currency.md)

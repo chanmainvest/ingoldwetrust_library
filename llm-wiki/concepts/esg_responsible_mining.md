@@ -121,13 +121,13 @@ community part-ownership and market-based solutions over top-down ESG mandates.
 
 ## Sources
 
-- [2019 — ESG: Environment, Social, Governance](../markdown/2019/16_esg_environment_social_governance.md)
-- [2019 — Gold Mining: Disruptive Innovation at Its Core](../markdown/2019/17_gold_mining_disruptive_innovation_at_its_core.md)
-- [2020 — ESG Compliance and Financial Stability](../markdown/2020/22_esg_compliance_and_financial_stability.md)
-- [2022 — The New Low-Emissions Economy: Gold as a Savior](../markdown/2022/23_the_new_low_emissions_economy_gold_as_a_savior.md)
-- [2023 — Life Cycle of a Mining Project](../markdown/2023/18_life_cycle_of_a_mining_project.md)
-- [2023 — Responsible Gold Mining: Meeting the Growing Demand for Sustainability](../markdown/2023/19_responsible_gold_mining_meeting_the_growing_demand_for_sustainability.md)
-- [2024 — Science Fiction or the Next Wave of Innovation in the Mining Space?](../markdown/2024/21_science_fiction_or_the_next_wave_of_innovation_in_the_mining_space.md)
-- [2024 — Asteroid Mining and Deep-Sea Mining](../markdown/2024/22_asteroid_mining_and_deep_sea_mining.md)
-- [2026 — AI Is Making Its Way into the Mining Sector](../markdown/2026/22_ai_is_making_its_way_into_the_mining_sector.md)
-- [2026 — Innovate or Terminate: The Case of the Gold Mining Industry](../markdown/2026/23_innovate_or_terminate_the_case_of_the_gold_mining_industry.md)
+- [2019 — ESG: Environment, Social, Governance](../../markdown/2019/16_esg_environment_social_governance.md)
+- [2019 — Gold Mining: Disruptive Innovation at Its Core](../../markdown/2019/17_gold_mining_disruptive_innovation_at_its_core.md)
+- [2020 — ESG Compliance and Financial Stability](../../markdown/2020/22_esg_compliance_and_financial_stability.md)
+- [2022 — The New Low-Emissions Economy: Gold as a Savior](../../markdown/2022/23_the_new_low_emissions_economy_gold_as_a_savior.md)
+- [2023 — Life Cycle of a Mining Project](../../markdown/2023/18_life_cycle_of_a_mining_project.md)
+- [2023 — Responsible Gold Mining: Meeting the Growing Demand for Sustainability](../../markdown/2023/19_responsible_gold_mining_meeting_the_growing_demand_for_sustainability.md)
+- [2024 — Science Fiction or the Next Wave of Innovation in the Mining Space?](../../markdown/2024/21_science_fiction_or_the_next_wave_of_innovation_in_the_mining_space.md)
+- [2024 — Asteroid Mining and Deep-Sea Mining](../../markdown/2024/22_asteroid_mining_and_deep_sea_mining.md)
+- [2026 — AI Is Making Its Way into the Mining Sector](../../markdown/2026/22_ai_is_making_its_way_into_the_mining_sector.md)
+- [2026 — Innovate or Terminate: The Case of the Gold Mining Industry](../../markdown/2026/23_innovate_or_terminate_the_case_of_the_gold_mining_industry.md)

@@ -100,7 +100,7 @@ while the monetary-architecture thesis is the deeper driver.
 
 ## Sources
 
-- [2008 — Gold / Oil](../markdown/2008/20_gold_oil.md)
-- [2010 — Gold / Oil (Currently 13.3x)](../markdown/2010/28_gold_oil_currently_133x.md)
-- [2011 — Gold / Oil (Currently 13.6x)](../markdown/2011/29_gold_oil_currently_136x.md)
-- [2012 — Silent Farewell to the Petrodollar?](../markdown/2012/11_silent_farewell_to_the_petrodollar.md)
+- [2008 — Gold / Oil](../../markdown/2008/20_gold_oil.md)
+- [2010 — Gold / Oil (Currently 13.3x)](../../markdown/2010/28_gold_oil_currently_133x.md)
+- [2011 — Gold / Oil (Currently 13.6x)](../../markdown/2011/29_gold_oil_currently_136x.md)
+- [2012 — Silent Farewell to the Petrodollar?](../../markdown/2012/11_silent_farewell_to_the_petrodollar.md)
