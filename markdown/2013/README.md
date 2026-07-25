@@ -1,0 +1,25 @@
+# In Gold We Trust Report 2013
+
+## Table of Contents
+
+1. [1. INTRODUCTION](01_introduction.md)
+2. [2.  Assessment of the Current Correction and the Most Recent Events](02_assessment_of_the_current_correction_and_the_most_recent_events.md)
+3. [a) Paper Gold versus Physical Gold](03_paper_gold_versus_physical_gold.md)
+4. [b) Technical Analysis: Sentiment and CoT Report Signal Bottoming Process](04_technical_analysis_sentiment_and_cot_report_signal_bottoming_process.md)
+5. [3. Essential Features of Gold](05_essential_features_of_gold.md)
+6. [b) The Relative Scarcity of Gold versus Fiat Currencies](06_the_relative_scarcity_of_gold_versus_fiat_currencies.md)
+7. [c)  Stock-to-Flow Ratio as the Most Important Reason for Gold's Monetary Importance](07_stock_to_flow_ratio_as_the_most_important_reason_for_golds_monetary_importance.md)
+8. [d) The Ongoing (Re-)monetization of Gold in the International Financial and Monetary System](08_the_ongoing_re_monetization_of_gold_in_the_international_financial_and_monetary_.md)
+9. [e) Excursion: Reasons for 'Aurophobia'](09_excursion_reasons_for_aurophobia.md)
+10. [4. Gold in the Context of the Current Macroeconomic Backdrop](10_gold_in_the_context_of_the_current_macroeconomic_backdrop.md)
+11. [b) Gradually Declining Leeway for Raising Interest Rates](11_gradually_declining_leeway_for_raising_interest_rates.md)
+12. [c) Negative Real Interest Rates as the Perfect Backdrop for Gold](12_negative_real_interest_rates_as_the_perfect_backdrop_for_gold.md)
+13. [d) Excursion: Monetary Tectonics – Inflation versus Deflation](13_excursion_monetary_tectonics_inflation_versus_deflation.md)
+14. [e) Origin of the Current Crisis: August 15, 1971?](14_origin_of_the_current_crisis_august_15_1971.md)
+15. [f) Cantillon Effect Describes Uneven Distribution of Newly Created Money](15_cantillon_effect_describes_uneven_distribution_of_newly_created_money.md)
+16. [5. Structural Over-indebtedness Argues for Continued Upward Revaluation of Gold](16_structural_over_indebtedness_argues_for_continued_upward_revaluation_of_gold.md)
+17. [a) Clearly Declining Marginal Utility of Additional Debt](17_clearly_declining_marginal_utility_of_additional_debt.md)
+18. [b) Financial Repression – the Putative Solution to the Debt Crisis?](18_financial_repression_the_putative_solution_to_the_debt_crisis.md)
+19. [6. Approaches to Gold Price Valuation](19_approaches_to_gold_price_valuation.md)
+20. [7. Gold Stocks Close to a Trend Change?](20_gold_stocks_close_to_a_trend_change.md)
+21. [8. CONCLUSION](21_conclusion.md)

@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>In Gold We Trust — Quotes</title>
+<style>
+/* =========================================================================
+   Theme tokens
+   ========================================================================= */
+:root,
+[data-theme="dark"] {
+  --bg:            #0E1525;
+  --bg-elev:       #1A2238;
+  --bg-card:       #1F2940;
+  --bg-card-hover: #25314E;
+  --border:        #2C3A5A;
+  --text:          #F5EFE0;
+  --text-muted:    #9AA3B8;
+  --gold:          #D4AF37;
+  --gold-soft:     #C9A961;
+  --gold-bright:   #E8C547;
+  --gold-glow:     rgba(212, 175, 55, 0.18);
+  --shadow:        0 8px 32px rgba(0, 0, 0, 0.45);
+  --shadow-card:   0 4px 16px rgba(0, 0, 0, 0.35);
+  --hero-bg:       radial-gradient(ellipse at top, rgba(212,175,55,0.10), transparent 70%);
+}
+
+[data-theme="light"] {
+  --bg:            #FAF7F0;
+  --bg-elev:       #FFFFFF;
+  --bg-card:       #FFFFFF;
+  --bg-card-hover: #F5F0E2;
+  --border:        #E4DCC8;
+  --text:          #2A2A2A;
+  --text-muted:    #6B6557;
+  --gold:          #B8860B;
+  --gold-soft:     #A67C00;
+  --gold-bright:   #D4AF37;
+  --gold-glow:     rgba(184, 134, 11, 0.12);
+  --shadow:        0 8px 32px rgba(120, 100, 40, 0.12);
+  --shadow-card:   0 2px 12px rgba(120, 100, 40, 0.08);
+  --hero-bg:       radial-gradient(ellipse at top, rgba(184,134,11,0.08), transparent 70%);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Faint coin texture in the background */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'><circle cx='30' cy='30' r='1' fill='%23D4AF37' fill-opacity='0.04'/></svg>");
+}
+
+/* =========================================================================
+   Title bar
+   ========================================================================= */
+.titlebar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg-elev);
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 1px 0 var(--gold);
+}
+
+.titlebar-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.85rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.brand-icon { width: 34px; height: 34px; flex-shrink: 0; }
+
+.brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+
+.brand-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.brand-title .gold-text { color: var(--gold); }
+
+.brand-subtitle {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin-top: 2px;
+}
+
+.theme-toggle {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--gold);
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.theme-toggle:hover {
+  background: var(--gold-glow);
+  border-color: var(--gold);
+  transform: rotate(15deg);
+}
+
+.theme-toggle svg { width: 20px; height: 20px; }
+.theme-toggle .icon-sun  { display: none; }
+.theme-toggle .icon-moon { display: block; }
+[data-theme="light"] .theme-toggle .icon-sun  { display: block; }
+[data-theme="light"] .theme-toggle .icon-moon { display: none; }
+
+/* =========================================================================
+   Layout container
+   ========================================================================= */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+  position: relative;
+  z-index: 1;
+}
+
+/* =========================================================================
+   Controls row
+   ========================================================================= */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--shadow-card);
+}
+
+.control-group { display: flex; flex-direction: column; gap: 0.35rem; }
+
+.control-group label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.control-group select,
+.control-group input[type="number"] {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.55rem 0.75rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  min-width: 130px;
+  transition: border-color 0.2s ease;
+}
+
+.control-group select:focus,
+.control-group input[type="number"]:focus {
+  outline: none;
+  border-color: var(--gold);
+  box-shadow: 0 0 0 3px var(--gold-glow);
+}
+
+.controls-spacer { flex: 1 1 auto; }
+
+.btn {
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  padding: 0.65rem 1.4rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--gold), var(--gold-soft));
+  color: #1A1410;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-primary::after {
+  content: "";
+  position: absolute;
+  top: 0; left: -120%;
+  width: 60%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.45), transparent);
+  transform: skewX(-20deg);
+  transition: left 0.6s ease;
+}
+
+.btn-primary:hover::after { left: 140%; }
+.btn-primary:hover { transform: translateY(-1px); box-shadow: 0 6px 20px var(--gold-glow); }
+.btn-primary:active { transform: translateY(0); }
+
+.btn-ghost {
+  background: transparent;
+  color: var(--gold);
+  border: 1px solid var(--gold);
+}
+.btn-ghost:hover { background: var(--gold-glow); }
+.btn-ghost:disabled { opacity: 0.35; cursor: not-allowed; }
+.btn-ghost:disabled:hover { background: transparent; }
+
+/* =========================================================================
+   Hero quote
+   ========================================================================= */
+.hero {
+  position: relative;
+  background: var(--bg-card);
+  background-image: var(--hero-bg);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 3.5rem 2.5rem 2.5rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  text-align: center;
+}
+
+.hero-marks {
+  position: absolute;
+  top: -10px; left: 50%;
+  transform: translateX(-50%);
+  width: 180px; height: 180px;
+  color: var(--gold);
+  opacity: 0.08;
+  pointer-events: none;
+}
+
+.hero-quote {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.25rem, 3vw, 1.85rem);
+  font-style: italic;
+  line-height: 1.5;
+  color: var(--text);
+  max-width: 820px;
+  margin: 0 auto 1.5rem;
+  position: relative;
+  z-index: 1;
+}
+
+.hero-author {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--gold);
+  margin-bottom: 0.35rem;
+}
+
+.hero-meta {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+}
+
+.hero-meta .year-badge {
+  display: inline-block;
+  background: var(--gold-glow);
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  font-weight: 600;
+  margin-right: 0.4rem;
+}
+
+/* =========================================================================
+   Batch grid
+   ========================================================================= */
+.section-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 0.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.section-heading h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.section-heading .count { color: var(--text-muted); font-size: 0.9rem; }
+
+.batch-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.quote-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.1rem 1.25rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.quote-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-card);
+  border-color: var(--gold);
+}
+
+.quote-card .card-quote {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.97rem;
+  font-style: italic;
+  line-height: 1.55;
+  color: var(--text);
+  flex: 1;
+}
+
+.quote-card .card-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.quote-card .card-author {
+  font-weight: 600;
+  color: var(--gold);
+  font-size: 0.88rem;
+}
+
+.year-badge-sm {
+  background: var(--gold-glow);
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  padding: 0.05rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+/* =========================================================================
+   Authors section
+   ========================================================================= */
+.authors-list { display: flex; flex-direction: column; gap: 0.5rem; }
+
+.author-row {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color 0.2s ease;
+}
+
+.author-row:hover { border-color: var(--gold-soft); }
+
+.author-head {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 0.85rem 1.1rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.author-head:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: -2px;
+}
+
+.author-rank {
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  color: var(--text-muted);
+  width: 28px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.author-name {
+  flex: 1;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.author-count {
+  background: var(--gold-glow);
+  color: var(--gold);
+  border-radius: 999px;
+  padding: 0.15rem 0.65rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.author-chevron {
+  color: var(--text-muted);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.author-row.expanded .author-chevron { transform: rotate(90deg); }
+
+.author-quotes {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  border-top: 1px solid transparent;
+}
+
+.author-row.expanded .author-quotes {
+  max-height: 4000px;
+  border-top-color: var(--border);
+}
+
+.author-quotes-inner {
+  padding: 0.5rem 1.1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.mini-quote {
+  padding: 0.65rem 0 0.65rem 1rem;
+  border-left: 3px solid var(--gold);
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.mini-quote .mini-meta {
+  font-style: normal;
+  font-family: -apple-system, sans-serif;
+  font-size: 0.76rem;
+  color: var(--text-muted);
+  margin-top: 0.35rem;
+  display: block;
+}
+
+/* =========================================================================
+   Pagination
+   ========================================================================= */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.page-num {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  min-width: 40px;
+  height: 40px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.5rem;
+  font-family: inherit;
+}
+
+.page-num:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+
+.page-num.active {
+  background: linear-gradient(135deg, var(--gold), var(--gold-soft));
+  color: #1A1410;
+  border-color: var(--gold);
+  font-weight: 700;
+}
+
+.page-num:disabled { opacity: 0.3; cursor: not-allowed; }
+
+.page-ellipsis {
+  color: var(--text-muted);
+  padding: 0 0.25rem;
+  user-select: none;
+}
+
+.page-info {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-align: center;
+  margin-top: 0.75rem;
+}
+
+/* =========================================================================
+   Empty state
+   ========================================================================= */
+.empty-state {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.empty-state svg { width: 56px; height: 56px; opacity: 0.4; margin-bottom: 1rem; }
+
+/* =========================================================================
+   Footer
+   ========================================================================= */
+.footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  border-top: 1px solid var(--border);
+  margin-top: 3rem;
+}
+
+.footer a { color: var(--gold); text-decoration: none; }
+.footer a:hover { text-decoration: underline; }
+
+/* =========================================================================
+   Loading + error states
+   ========================================================================= */
+.loading, .error-box {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: var(--text-muted);
+}
+
+.spinner {
+  width: 42px; height: 42px;
+  border: 3px solid var(--border);
+  border-top-color: var(--gold);
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  animation: spin 0.9s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.error-box { color: #e57373; }
+.error-box code {
+  background: var(--bg-card);
+  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  border: 1px solid var(--border);
+}
+
+/* =========================================================================
+   Responsive
+   ========================================================================= */
+@media (max-width: 600px) {
+  .controls { flex-direction: column; align-items: stretch; }
+  .controls-spacer { display: none; }
+  .control-group { width: 100%; }
+  .control-group select, .control-group input { width: 100%; }
+  .btn { width: 100%; justify-content: center; }
+  .hero { padding: 2.5rem 1.25rem 1.75rem; }
+  .batch-grid { grid-template-columns: 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+</style>
+</head>
+<body>
+
+<!-- ==================== Title bar ==================== -->
+<header class="titlebar">
+  <div class="titlebar-inner">
+    <a class="brand" href="#" onclick="return false">
+      <!-- Gold ingot icon -->
+      <svg class="brand-icon" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs>
+          <linearGradient id="ingotGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#E8C547"/>
+            <stop offset="100%" stop-color="#B8860B"/>
+          </linearGradient>
+        </defs>
+        <path d="M8 24 L11 14 L29 14 L32 24 Z" fill="url(#ingotGrad)" stroke="#8B6914" stroke-width="1" stroke-linejoin="round"/>
+        <path d="M6 24 L34 24 L32 30 L8 30 Z" fill="url(#ingotGrad)" stroke="#8B6914" stroke-width="1" stroke-linejoin="round"/>
+        <path d="M11 14 L13 11 L27 11 L29 14 Z" fill="#D4AF37" stroke="#8B6914" stroke-width="1" stroke-linejoin="round"/>
+        <text x="20" y="28" font-family="Georgia,serif" font-size="7" font-weight="700" fill="#5C4500" text-anchor="middle">Au</text>
+      </svg>
+      <span class="brand-text">
+        <span class="brand-title">In <span class="gold-text">Gold</span> We Trust</span>
+        <span class="brand-subtitle">Quote Library</span>
+      </span>
+    </a>
+    <button class="theme-toggle" id="themeToggle" title="Toggle theme" aria-label="Toggle light/dark theme">
+      <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+    </button>
+  </div>
+</header>
+
+<!-- ==================== Main ==================== -->
+<main class="container" id="app">
+
+  <!-- Controls -->
+  <section class="controls" aria-label="Filters and actions">
+    <div class="control-group">
+      <label for="yearFilter">Year</label>
+      <select id="yearFilter">
+        <option value="">All years</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label for="countInput">How many quotes</label>
+      <input type="number" id="countInput" min="1" max="50" value="10">
+    </div>
+    <div class="controls-spacer"></div>
+    <button class="btn btn-primary" id="newQuotesBtn" type="button">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+      New quotes
+    </button>
+  </section>
+
+  <!-- Loading / error / content -->
+  <div id="loading" class="loading">
+    <div class="spinner"></div>
+    <p>Loading quotes…</p>
+  </div>
+
+  <div id="errorBox" class="error-box" style="display:none"></div>
+
+  <div id="content" style="display:none">
+
+    <!-- Hero quote -->
+    <section class="hero" id="heroSection" aria-label="Featured quote">
+      <svg class="hero-marks" viewBox="0 0 100 100" fill="currentColor" aria-hidden="true">
+        <text x="50" y="80" font-family="Georgia,serif" font-size="120" font-weight="700" text-anchor="middle">“</text>
+      </svg>
+      <blockquote class="hero-quote" id="heroQuote"></blockquote>
+      <div class="hero-author" id="heroAuthor"></div>
+      <div class="hero-meta" id="heroMeta"></div>
+    </section>
+
+    <!-- Batch grid -->
+    <div class="section-heading">
+      <h2>More Quotes</h2>
+      <span class="count" id="batchCount"></span>
+    </div>
+    <div class="batch-grid" id="batchGrid"></div>
+
+    <!-- Authors -->
+    <div class="section-heading">
+      <h2>Top Authors</h2>
+      <span class="count" id="authorPoolCount"></span>
+    </div>
+    <div class="authors-list" id="authorsList"></div>
+    <div class="pagination" id="pagination"></div>
+    <div class="page-info" id="pageInfo"></div>
+
+  </div>
+</main>
+
+<footer class="footer">
+  Quotes extracted from the annual <em>In Gold We Trust</em> reports by Incrementum AG
+  (<span id="totalCount">0</span> quotes · <span id="totalAuthors">0</span> authors ·
+  <span id="totalYears">0</span> years).
+</footer>
+
+<script>
+"use strict";
+
+/* =========================================================================
+   State
+   ========================================================================= */
+const QUOTES_URL = "quotes.json";
+const PER_PAGE = 10;
+const STORAGE = {
+  theme: "igwt_theme",
+  year:   "igwt_year",
+  count:  "igwt_count",
+  page:   "igwt_author_page",
+};
+
+let ALL_QUOTES = [];
+let filtered = [];
+let authorIndex = [];      // [{name, count, quotes:[...]}] sorted desc by count
+let authorPage = 0;
+let expanded = new Set();  // author names currently expanded
+
+const $ = (id) => document.getElementById(id);
+
+/* =========================================================================
+   Init
+   ========================================================================= */
+document.addEventListener("DOMContentLoaded", init);
+
+async function init() {
+  loadTheme();
+  $("themeToggle").addEventListener("click", toggleTheme);
+  $("newQuotesBtn").addEventListener("click", reroll);
+  $("countInput").addEventListener("change", onCountChange);
+  $("yearFilter").addEventListener("change", onYearChange);
+
+  // Restore persisted count.
+  const savedCount = localStorage.getItem(STORAGE.count);
+  if (savedCount) $("countInput").value = clampCount(parseInt(savedCount, 10) || 10);
+
+  try {
+    const res = await fetch(QUOTES_URL);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    ALL_QUOTES = await res.json();
+  } catch (err) {
+    showError(err);
+    return;
+  }
+
+  populateYearFilter();
+  applyFilter();
+  $("loading").style.display = "none";
+  $("content").style.display = "block";
+
+  // Footer stats.
+  $("totalCount").textContent = ALL_QUOTES.length.toLocaleString();
+  $("totalAuthors").textContent = new Set(ALL_QUOTES.map(q => q.author)).size.toLocaleString();
+  $("totalYears").textContent = new Set(ALL_QUOTES.map(q => q.year)).size.toLocaleString();
+}
+
+/* =========================================================================
+   Theme
+   ========================================================================= */
+function loadTheme() {
+  const saved = localStorage.getItem(STORAGE.theme);
+  if (saved) {
+    document.documentElement.setAttribute("data-theme", saved);
+  } else {
+    const prefer = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", prefer);
+  }
+}
+
+function toggleTheme() {
+  const cur = document.documentElement.getAttribute("data-theme");
+  const next = cur === "dark" ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", next);
+  localStorage.setItem(STORAGE.theme, next);
+}
+
+/* =========================================================================
+   Year filter
+   ========================================================================= */
+function populateYearFilter() {
+  const years = [...new Set(ALL_QUOTES.map(q => q.year))].sort();
+  const sel = $("yearFilter");
+  for (const y of years) {
+    const opt = document.createElement("option");
+    opt.value = y;
+    opt.textContent = y;
+    sel.appendChild(opt);
+  }
+  const saved = localStorage.getItem(STORAGE.year);
+  if (saved && years.includes(saved)) sel.value = saved;
+}
+
+function getActiveYear() { return $("yearFilter").value; }
+
+/* =========================================================================
+   Filtering + author index
+   ========================================================================= */
+function applyFilter() {
+  const y = getActiveYear();
+  filtered = y ? ALL_QUOTES.filter(q => q.year === y) : ALL_QUOTES.slice();
+
+  // Build author index from the filtered set.
+  const map = new Map();
+  for (const q of filtered) {
+    if (!map.has(q.author)) map.set(q.author, []);
+    map.get(q.author).push(q);
+  }
+  authorIndex = [...map.entries()]
+    .map(([name, quotes]) => ({ name, count: quotes.length, quotes }))
+    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+
+  // Clamp author page.
+  const maxPage = Math.max(0, Math.ceil(authorIndex.length / PER_PAGE) - 1);
+  const savedPage = parseInt(localStorage.getItem(STORAGE.page) || "0", 10);
+  authorPage = Math.min(savedPage, maxPage);
+
+  expanded.clear();
+  reroll();
+  renderAuthors();
+}
+
+/* =========================================================================
+   Random selection
+   ========================================================================= */
+function pickRandom(arr, n) {
+  const pool = arr.slice();
+  const out = [];
+  n = Math.min(n, pool.length);
+  for (let i = 0; i < n; i++) {
+    const idx = Math.floor(Math.random() * pool.length);
+    out.push(pool.splice(idx, 1)[0]);
+  }
+  return out;
+}
+
+function reroll() {
+  const n = clampCount(parseInt($("countInput").value, 10) || 10);
+  if (filtered.length === 0) {
+    $("heroSection").style.display = "none";
+    $("batchGrid").innerHTML = emptyStateHTML("No quotes for this year.");
+    $("batchCount").textContent = "";
+    return;
+  }
+  $("heroSection").style.display = "";
+
+  const picks = pickRandom(filtered, n);
+  renderHero(picks[0]);
+  renderBatch(picks.slice(1));
+}
+
+function clampCount(n) {
+  n = Math.max(1, Math.min(50, n | 0));
+  $("countInput").value = n;
+  return n;
+}
+
+/* =========================================================================
+   Render: hero + batch
+   ========================================================================= */
+function escapeHTML(s) {
+  return String(s)
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}
+
+function renderHero(q) {
+  $("heroQuote").textContent = q.quote;
+  $("heroAuthor").textContent = "— " + q.author;
+  $("heroMeta").innerHTML =
+    '<span class="year-badge">' + escapeHTML(q.year) + "</span>" +
+    escapeHTML(q.chapter || "");
+}
+
+function renderBatch(quotes) {
+  const grid = $("batchGrid");
+  if (quotes.length === 0) {
+    grid.innerHTML = emptyStateHTML("Roll again for more quotes.");
+    $("batchCount").textContent = "";
+    return;
+  }
+  $("batchCount").textContent = quotes.length + " quote" + (quotes.length === 1 ? "" : "s");
+  grid.innerHTML = quotes.map(q =>
+    '<article class="quote-card" tabindex="0" data-promote="' +
+      encodeURIComponent(JSON.stringify(q)) + '">' +
+      '<p class="card-quote">' + escapeHTML(q.quote) + "</p>" +
+      '<div class="card-foot">' +
+        '<span class="card-author">' + escapeHTML(q.author) + "</span>" +
+        '<span class="year-badge-sm">' + escapeHTML(q.year) + "</span>" +
+      "</div>" +
+    "</article>"
+  ).join("");
+
+  grid.querySelectorAll(".quote-card").forEach(card => {
+    const promote = () => {
+      const q = JSON.parse(decodeURIComponent(card.dataset.promote));
+      renderHero(q);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    };
+    card.addEventListener("click", promote);
+    card.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); promote(); }
+    });
+  });
+}
+
+function emptyStateHTML(msg) {
+  return '<div class="empty-state">' +
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg>' +
+    "<p>" + escapeHTML(msg) + "</p></div>";
+}
+
+/* =========================================================================
+   Render: authors + pagination
+   ========================================================================= */
+function renderAuthors() {
+  const list = $("authorsList");
+  $("authorPoolCount").textContent =
+    authorIndex.length.toLocaleString() + " author" + (authorIndex.length === 1 ? "" : "s");
+
+  if (authorIndex.length === 0) {
+    list.innerHTML = emptyStateHTML("No authors for this year.");
+    $("pagination").innerHTML = "";
+    $("pageInfo").textContent = "";
+    return;
+  }
+
+  const start = authorPage * PER_PAGE;
+  const pageAuthors = authorIndex.slice(start, start + PER_PAGE);
+  const baseRank = start;
+
+  list.innerHTML = pageAuthors.map((a, i) => {
+    const expandedNow = expanded.has(a.name);
+    return '<div class="author-row' + (expandedNow ? " expanded" : "") + '" ' +
+      'data-author="' + escapeHTML(a.name) + '" tabindex="0" role="button" ' +
+      'aria-expanded="' + expandedNow + '">' +
+      '<div class="author-head">' +
+        '<span class="author-rank">' + (baseRank + i + 1) + "</span>" +
+        '<span class="author-name">' + escapeHTML(a.name) + "</span>" +
+        '<span class="author-count">' + a.count + "</span>" +
+        '<svg class="author-chevron" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>' +
+      "</div>" +
+      '<div class="author-quotes">' +
+        '<div class="author-quotes-inner">' +
+          (expandedNow ? authorQuotesHTML(a) : "") +
+        "</div>" +
+      "</div>" +
+    "</div>";
+  }).join("");
+
+  // Wire up expand/collapse.
+  list.querySelectorAll(".author-row").forEach(row => {
+    const toggle = () => toggleAuthor(row);
+    row.querySelector(".author-head").addEventListener("click", toggle);
+    row.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+    });
+  });
+
+  renderPagination();
+}
+
+function authorQuotesHTML(a) {
+  return a.quotes.map(q =>
+    '<div class="mini-quote">' + escapeHTML(q.quote) +
+      '<span class="mini-meta">' + escapeHTML(q.year) +
+      (q.chapter ? " · " + escapeHTML(q.chapter) : "") +
+      "</span></div>"
+  ).join("");
+}
+
+function toggleAuthor(row) {
+  const name = row.dataset.author;
+  const opening = !expanded.has(name);
+  if (opening) {
+    expanded.add(name);
+    // Lazy-render this author's quotes on first open.
+    const a = authorIndex.find(x => x.name === name);
+    const inner = row.querySelector(".author-quotes-inner");
+    if (a && inner && !inner.dataset.filled) {
+      inner.innerHTML = authorQuotesHTML(a);
+      inner.dataset.filled = "1";
+    }
+    row.classList.add("expanded");
+    row.setAttribute("aria-expanded", "true");
+  } else {
+    expanded.delete(name);
+    row.classList.remove("expanded");
+    row.setAttribute("aria-expanded", "false");
+  }
+}
+
+function renderPagination() {
+  const totalPages = Math.ceil(authorIndex.length / PER_PAGE);
+  const cur = authorPage;          // 0-indexed
+  const pg = $("pagination");
+
+  // Build a compact list of page buttons with ellipses.
+  const pages = new Set([0, cur - 1, cur, cur + 1, totalPages - 1]);
+  if (cur > 2) pages.add(1);
+  if (cur < totalPages - 3) pages.add(totalPages - 2);
+  const sorted = [...pages].filter(p => p >= 0 && p < totalPages).sort((a, b) => a - b);
+
+  let html = "";
+  html += pageBtn("prev", "‹", cur === 0, cur - 1);
+
+  let prev = -1;
+  for (const p of sorted) {
+    if (p - prev > 1) html += '<span class="page-ellipsis">…</span>';
+    html += pageBtn(p, String(p + 1), false, p, p === cur);
+    prev = p;
+  }
+
+  html += pageBtn("next", "›", cur >= totalPages - 1, cur + 1);
+  pg.innerHTML = html;
+
+  pg.querySelectorAll(".page-num").forEach(btn => {
+    if (btn.disabled) return;
+    btn.addEventListener("click", () => {
+      const target = parseInt(btn.dataset.page, 10);
+      if (Number.isNaN(target)) return;
+      authorPage = Math.max(0, Math.min(totalPages - 1, target));
+      localStorage.setItem(STORAGE.page, authorPage);
+      renderAuthors();
+      // Scroll authors into view.
+      document.querySelector(".section-heading:nth-of-type(2)")
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  });
+
+  $("pageInfo").textContent = "Page " + (cur + 1) + " of " + totalPages;
+}
+
+function pageBtn(kind, label, disabled, page, active) {
+  return '<button class="page-num' + (active ? " active" : "") + '" ' +
+    'data-page="' + page + '" ' + (disabled ? "disabled" : "") + " " +
+    'aria-label="Page ' + (page + 1) + '" type="button">' + label + "</button>";
+}
+
+/* =========================================================================
+   Event handlers
+   ========================================================================= */
+function onCountChange() {
+  const n = clampCount(parseInt($("countInput").value, 10) || 10);
+  localStorage.setItem(STORAGE.count, n);
+  reroll();
+}
+
+function onYearChange() {
+  const y = getActiveYear();
+  localStorage.setItem(STORAGE.year, y);
+  localStorage.setItem(STORAGE.page, "0");
+  authorPage = 0;
+  applyFilter();
+}
+
+/* =========================================================================
+   Error
+   ========================================================================= */
+function showError(err) {
+  $("loading").style.display = "none";
+  const box = $("errorBox");
+  box.style.display = "block";
+  box.innerHTML =
+    "<h2>Could not load quotes.json</h2>" +
+    "<p style='margin:0.5rem 0 1rem'>" + escapeHTML(err.message) + "</p>" +
+    "<p>The page must be served over HTTP (not opened as <code>file://</code>). " +
+    "From the repo root, run:</p>" +
+    "<p style='margin-top:0.75rem'><code>python -m http.server</code></p>" +
+    "<p>then open <code>http://localhost:8000/docs/</code></p>";
+}
+</script>
+</body>
+</html>
