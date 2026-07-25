@@ -127,9 +127,9 @@ asset.
 
 ## Sources
 
-- [2016 — The War Against Cash](../markdown/2016/30_the_war_against_cash.md)
-- [2017 — The War Against Cash Enters the Next Round](../markdown/2017/08_the_war_against_cash_enters_the_next_round.md)
-- [2020 — Monetary Endgame Ahead: When Absurdity Becomes the New Normal](../markdown/2020/13_monetary_endgame_ahead_when_absurdity_becomes_the_new_normal.md)
-- [2020 — From Money to Gold](../markdown/2020/15_from_money_to_gold.md)
-- [2021 — How Bankers Turned Money into Σ 0 ∞ € ¥](../markdown/2021/09_how_bankers_turned_money_into_σ_0.md)
-- [2022 — Why Does Fiat Money Seemingly Work?](../markdown/2022/14_why_does_fiat_money_seemingly_work.md)
+- [2016 — The War Against Cash](../../markdown/2016/30_the_war_against_cash.md)
+- [2017 — The War Against Cash Enters the Next Round](../../markdown/2017/08_the_war_against_cash_enters_the_next_round.md)
+- [2020 — Monetary Endgame Ahead: When Absurdity Becomes the New Normal](../../markdown/2020/13_monetary_endgame_ahead_when_absurdity_becomes_the_new_normal.md)
+- [2020 — From Money to Gold](../../markdown/2020/15_from_money_to_gold.md)
+- [2021 — How Bankers Turned Money into Σ 0 ∞ € ¥](../../markdown/2021/09_how_bankers_turned_money_into_σ_0.md)
+- [2022 — Why Does Fiat Money Seemingly Work?](../../markdown/2022/14_why_does_fiat_money_seemingly_work.md)

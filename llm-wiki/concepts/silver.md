@@ -119,11 +119,11 @@ investment. Three pillars carry the bull case across the corpus:
 
 ## Sources
 
-- [2010 — Gold/Silver Currently 65x](../markdown/2010/26_gold_silver_currently_65x.md)
-- [2016 — When Inflation Strikes: Silver](../markdown/2016/40_when_inflation_strikes_silver.md)
-- [2020 — Silver's Silver Lining](../markdown/2020/20_silvers_silver_lining.md)
-- [2021 — Silver's Decade](../markdown/2021/13_silvers_decade.md)
-- [2022 — Silver's Inflation Conundrum](../markdown/2022/18_silvers_inflation_conundrum.md)
-- [2023 — Silver's Time to Shine](../markdown/2023/15_silvers_time_to_shine.md)
-- [2024 — Breakout or Fake-out: Is This Silver's Golden Moment?](../markdown/2024/19_breakout_or_fake_out_is_this_silvers_golden_moment.md)
-- [2026 — Silver After the Surge](../markdown/2026/21_silver_after_the_surge_stairway_to_heaven_or_highway_to_hell.md)
+- [2010 — Gold/Silver Currently 65x](../../markdown/2010/26_gold_silver_currently_65x.md)
+- [2016 — When Inflation Strikes: Silver](../../markdown/2016/40_when_inflation_strikes_silver.md)
+- [2020 — Silver's Silver Lining](../../markdown/2020/20_silvers_silver_lining.md)
+- [2021 — Silver's Decade](../../markdown/2021/13_silvers_decade.md)
+- [2022 — Silver's Inflation Conundrum](../../markdown/2022/18_silvers_inflation_conundrum.md)
+- [2023 — Silver's Time to Shine](../../markdown/2023/15_silvers_time_to_shine.md)
+- [2024 — Breakout or Fake-out: Is This Silver's Golden Moment?](../../markdown/2024/19_breakout_or_fake_out_is_this_silvers_golden_moment.md)
+- [2026 — Silver After the Surge](../../markdown/2026/21_silver_after_the_surge_stairway_to_heaven_or_highway_to_hell.md)

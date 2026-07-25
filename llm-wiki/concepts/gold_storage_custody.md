@@ -124,9 +124,9 @@ and the displaced "Plaza Accord" chapter was saved as its own file. See `log.md`
 
 ## Sources
 
-- [2019 — Gold Storage: Fact-Checking Liechtenstein, Switzerland and Singapore](../markdown/2019/07_gold_storage_fact_checking_liechtenstein_switzerland_and_singapore.md)
-- [2020 — Gold Storage: Fact-Checking New Zealand, Australia and Dubai](../markdown/2020/12_gold_storage_fact_checking_new_zealand_australia_and_dubai.md)
-- [2021 — Gold Storage: Fact-Checking Austria, the USA and the Cayman Islands](../markdown/2021/07_gold_storage_fact_checking_austria_the_usa_and_the_cayman_islands.md)
-- [2021 — A Brief History of Gold Confiscations](../markdown/2021/08_a_brief_history_of_gold_confiscations.md)
-- [2022 — Gold Storage: Fact-Checking Germany, Canada and the UK](../markdown/2022/15_gold_storage_fact_checking_germany_canada_and_the_uk.md)
-- [2016 — Historical Bans on Gold Ownership](../markdown/2016/32_historical_bans_on_gold_ownership.md)
+- [2019 — Gold Storage: Fact-Checking Liechtenstein, Switzerland and Singapore](../../markdown/2019/07_gold_storage_fact_checking_liechtenstein_switzerland_and_singapore.md)
+- [2020 — Gold Storage: Fact-Checking New Zealand, Australia and Dubai](../../markdown/2020/12_gold_storage_fact_checking_new_zealand_australia_and_dubai.md)
+- [2021 — Gold Storage: Fact-Checking Austria, the USA and the Cayman Islands](../../markdown/2021/07_gold_storage_fact_checking_austria_the_usa_and_the_cayman_islands.md)
+- [2021 — A Brief History of Gold Confiscations](../../markdown/2021/08_a_brief_history_of_gold_confiscations.md)
+- [2022 — Gold Storage: Fact-Checking Germany, Canada and the UK](../../markdown/2022/15_gold_storage_fact_checking_germany_canada_and_the_uk.md)
+- [2016 — Historical Bans on Gold Ownership](../../markdown/2016/32_historical_bans_on_gold_ownership.md)

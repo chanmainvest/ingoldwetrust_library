@@ -139,6 +139,6 @@ response, but systematically early on timing and wrong on mechanism.**
 
 ## Sources
 
-- [2016 — The Trigger of the Next Recession](../markdown/2016/11_the_trigger_of_the_next_recession.md)
-- [2017 — White, Gray and Black Swans](../markdown/2017/03_white_gray_and_black_swans.md)
-- [2018 — Possible Crisis Triggers and Catalysts](../markdown/2018/04_possible_crisis_triggers_and_catalysts.md)
+- [2016 — The Trigger of the Next Recession](../../markdown/2016/11_the_trigger_of_the_next_recession.md)
+- [2017 — White, Gray and Black Swans](../../markdown/2017/03_white_gray_and_black_swans.md)
+- [2018 — Possible Crisis Triggers and Catalysts](../../markdown/2018/04_possible_crisis_triggers_and_catalysts.md)

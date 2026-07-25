@@ -26,7 +26,9 @@ every relevant chapter across all 20 years, not 20 separate file reads.
 - **Concept pages** live in `concepts/<topic>.md`, e.g. `concepts/central_bank_gold.md`.
   Filenames are lowercase with underscores.
 - Each concept page opens with a one-line definition, then a **Sources** section
-  of citations: `- [Year — Chapter](../markdown/YYYY/NN_title.md)`.
+  of citations: `- [Year — Chapter](../../markdown/YYYY/NN_title.md)`. (Concept
+  pages live in `concepts/`, so reaching `markdown/` at the repo root requires
+  two `../`.)
 - Every concept page MUST cite at least two source chapters before it is created.
   Single-source "concepts" stay as notes in `log.md` until a second source appears.
 - Pages cross-link each other with relative paths: `[inflation](central_bank_gold.md)`.

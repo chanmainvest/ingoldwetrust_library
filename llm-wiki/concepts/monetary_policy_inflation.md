@@ -146,13 +146,13 @@ Yes, and this is the single most important nuance:
 
 ## Sources
 
-- [2010 — Inflation vs. Deflation](../markdown/2010/03_inflation_vs_deflation.md)
-- [2011 — Negative Real Interest Rates Provide Gold with a Perfect Environment](../markdown/2011/03_negative_real_interest_rates_continue_to_provide_gold_with_a_perfect_environment.md)
-- [2013 — Monetary Tectonics: Inflation versus Deflation](../markdown/2013/13_excursion_monetary_tectonics_inflation_versus_deflation.md)
-- [2014 — Monetary Tectonics: The Interaction between Inflation and Deflation](../markdown/2014/08_monetary_tectonics_the_interaction_between_inflation_and_deflation.md)
-- [2016 — Negative Interest Rates and Gold](../markdown/2016/27_negative_interest_rates_and_gold.md)
-- [2022 — Status Quo of the Inflation Trend](../markdown/2022/05_status_quo_of_the_inflation_trend.md)
-- [2022 — Stagflation 2.0](../markdown/2022/08_stagflation_20.md)
-- [2023 — Crack-Up Boom: The End of a Currency Regime](../markdown/2023/14_crack_up_boom_the_end_of_a_currency_regime.md)
-- [2024 — Status Quo of Inflation](../markdown/2024/05_status_quo_of_inflation.md)
-- [2025 — The Status Quo of the Inflation Trend](../markdown/2025/04_the_status_quo_of_the_inflation_trend.md)
+- [2010 — Inflation vs. Deflation](../../markdown/2010/03_inflation_vs_deflation.md)
+- [2011 — Negative Real Interest Rates Provide Gold with a Perfect Environment](../../markdown/2011/03_negative_real_interest_rates_continue_to_provide_gold_with_a_perfect_environment.md)
+- [2013 — Monetary Tectonics: Inflation versus Deflation](../../markdown/2013/13_excursion_monetary_tectonics_inflation_versus_deflation.md)
+- [2014 — Monetary Tectonics: The Interaction between Inflation and Deflation](../../markdown/2014/08_monetary_tectonics_the_interaction_between_inflation_and_deflation.md)
+- [2016 — Negative Interest Rates and Gold](../../markdown/2016/27_negative_interest_rates_and_gold.md)
+- [2022 — Status Quo of the Inflation Trend](../../markdown/2022/05_status_quo_of_the_inflation_trend.md)
+- [2022 — Stagflation 2.0](../../markdown/2022/08_stagflation_20.md)
+- [2023 — Crack-Up Boom: The End of a Currency Regime](../../markdown/2023/14_crack_up_boom_the_end_of_a_currency_regime.md)
+- [2024 — Status Quo of Inflation](../../markdown/2024/05_status_quo_of_inflation.md)
+- [2025 — The Status Quo of the Inflation Trend](../../markdown/2025/04_the_status_quo_of_the_inflation_trend.md)

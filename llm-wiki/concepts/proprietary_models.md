@@ -61,9 +61,9 @@ the entire 2024 revision as a response rather than a defense. The proprietary
 weights are withheld, so independent verification isn't possible from the reports
 alone.
 
-*Sources: [2014 — Monetary Tectonics](../markdown/2014/08_monetary_tectonics_the_interaction_between_inflation_and_deflation.md);
-[2020 — Status Quo of Inflation Dynamics](../markdown/2020/07_status_quo_of_inflation_dynamics.md);
-[2024 — Status Quo of Inflation](../markdown/2024/05_status_quo_of_inflation.md).*
+*Sources: [2014 — Monetary Tectonics](../../markdown/2014/08_monetary_tectonics_the_interaction_between_inflation_and_deflation.md);
+[2020 — Status Quo of Inflation Dynamics](../../markdown/2020/07_status_quo_of_inflation_dynamics.md);
+[2024 — Status Quo of Inflation](../../markdown/2024/05_status_quo_of_inflation.md).*
 
 ---
 
@@ -116,8 +116,8 @@ the late 1970s and 2011; the S&P boom of 1998-2001). Turning points can only be
 acknowledged as hard, so the long-run price targets are scenario-conditioned, not
 point forecasts.
 
-*Sources: [2022 — The Synchronous Equity and Gold Price Model](../markdown/2022/16_the_synchronous_equity_and_gold_price_model.md);
-[2023 — The Synchronous Bull Market Indicator](../markdown/2023/16_the_synchronous_bull_market_indicator.md).*
+*Sources: [2022 — The Synchronous Equity and Gold Price Model](../../markdown/2022/16_the_synchronous_equity_and_gold_price_model.md);
+[2023 — The Synchronous Bull Market Indicator](../../markdown/2023/16_the_synchronous_bull_market_indicator.md).*
 
 ---
 
@@ -175,9 +175,9 @@ made; the authors argue the opposite (low turnover, consistency of excess return
 The signal underpins a commercial product, which colors how aggressively the
 favorable backtest is presented.
 
-*Sources: [2024 — Mastering the New Gold Playbook](../markdown/2024/08_mastering_the_new_gold_playbook.md);
-[2025 — Bringing It Home](../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md);
-[2026 — Gold and Silver Miners: From Problem Child to Model Student](../markdown/2026/25_gold_and_silver_miners_from_problem_child_to_model_student.md).*
+*Sources: [2024 — Mastering the New Gold Playbook](../../markdown/2024/08_mastering_the_new_gold_playbook.md);
+[2025 — Bringing It Home](../../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md);
+[2026 — Gold and Silver Miners: From Problem Child to Model Student](../../markdown/2026/25_gold_and_silver_miners_from_problem_child_to_model_student.md).*
 
 ---
 
@@ -230,10 +230,10 @@ thresholds and a deterministic 100/50/0% mapping. Midas Touch primarily times th
 **gold price**; Active Aurum times **mining-stock exposure**. Midas Touch is a
 guest contribution; Active Aurum is Incrementum's own product.
 
-*Sources: [2016 — Excursus: The Midas Touch Gold Model](../markdown/2016/47_excursus_the_midas_touch_gold_model.md);
-[2019 — Technical Analysis](../markdown/2019/18_technical_analysis.md);
-[2022 — Technical Analysis](../markdown/2022/24_technical_analysis.md);
-[2025 — Bringing It Home](../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md).*
+*Sources: [2016 — Excursus: The Midas Touch Gold Model](../../markdown/2016/47_excursus_the_midas_touch_gold_model.md);
+[2019 — Technical Analysis](../../markdown/2019/18_technical_analysis.md);
+[2022 — Technical Analysis](../../markdown/2022/24_technical_analysis.md);
+[2025 — Bringing It Home](../../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md).*
 
 ---
 
@@ -256,14 +256,14 @@ SEGPM's three false signals, Midas Touch's mixed tactical record.
 
 ## Sources (consolidated)
 
-- [2014 — Monetary Tectonics: The Interaction between Inflation and Deflation](../markdown/2014/08_monetary_tectonics_the_interaction_between_inflation_and_deflation.md) *(Inflation Signal origin)*
-- [2020 — Status Quo of Inflation Dynamics](../markdown/2020/07_status_quo_of_inflation_dynamics.md) *(Inflation Signal update)*
-- [2024 — Status Quo of Inflation](../markdown/2024/05_status_quo_of_inflation.md) *(Inflation Signal 2024 revision)*
-- [2022 — The Synchronous Equity and Gold Price Model](../markdown/2022/16_the_synchronous_equity_and_gold_price_model.md) *(SEGPM origin)*
-- [2023 — The Synchronous Bull Market Indicator](../markdown/2023/16_the_synchronous_bull_market_indicator.md) *(SEGPM operationalization)*
-- [2024 — Mastering the New Gold Playbook](../markdown/2024/08_mastering_the_new_gold_playbook.md) *(Active Aurum origin)*
-- [2025 — Bringing It Home: Central Bank Gold Repatriation](../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md) *(Active Aurum + Midas Touch 2025)*
-- [2026 — Gold and Silver Miners: From Problem Child to Model Student](../markdown/2026/25_gold_and_silver_miners_from_problem_child_to_model_student.md) *(Active Aurum latest)*
-- [2016 — Excursus: The Midas Touch Gold Model](../markdown/2016/47_excursus_the_midas_touch_gold_model.md) *(Midas Touch origin)*
-- [2019 — Technical Analysis](../markdown/2019/18_technical_analysis.md) *(Midas Touch)*
-- [2022 — Technical Analysis](../markdown/2022/24_technical_analysis.md) *(Midas Touch update)*
+- [2014 — Monetary Tectonics: The Interaction between Inflation and Deflation](../../markdown/2014/08_monetary_tectonics_the_interaction_between_inflation_and_deflation.md) *(Inflation Signal origin)*
+- [2020 — Status Quo of Inflation Dynamics](../../markdown/2020/07_status_quo_of_inflation_dynamics.md) *(Inflation Signal update)*
+- [2024 — Status Quo of Inflation](../../markdown/2024/05_status_quo_of_inflation.md) *(Inflation Signal 2024 revision)*
+- [2022 — The Synchronous Equity and Gold Price Model](../../markdown/2022/16_the_synchronous_equity_and_gold_price_model.md) *(SEGPM origin)*
+- [2023 — The Synchronous Bull Market Indicator](../../markdown/2023/16_the_synchronous_bull_market_indicator.md) *(SEGPM operationalization)*
+- [2024 — Mastering the New Gold Playbook](../../markdown/2024/08_mastering_the_new_gold_playbook.md) *(Active Aurum origin)*
+- [2025 — Bringing It Home: Central Bank Gold Repatriation](../../markdown/2025/11_bringing_it_home_central_bank_gold_repatriation.md) *(Active Aurum + Midas Touch 2025)*
+- [2026 — Gold and Silver Miners: From Problem Child to Model Student](../../markdown/2026/25_gold_and_silver_miners_from_problem_child_to_model_student.md) *(Active Aurum latest)*
+- [2016 — Excursus: The Midas Touch Gold Model](../../markdown/2016/47_excursus_the_midas_touch_gold_model.md) *(Midas Touch origin)*
+- [2019 — Technical Analysis](../../markdown/2019/18_technical_analysis.md) *(Midas Touch)*
+- [2022 — Technical Analysis](../../markdown/2022/24_technical_analysis.md) *(Midas Touch update)*

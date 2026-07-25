@@ -78,7 +78,9 @@ better alternative.
 1. **Petrodollar erosion / petroyuan rise.** Oil invoicing currency determines
    reserve demand; lose oil pricing, lose the recycling loop that funds US
    deficits. Tracked 2014→2024 (Gazprom→SGE→Shanghai crude-yuan futures→Saudi
-   Aramco pledge→Xi's Riyadh speech→first India-UAE rupee oil trade).
+   Aramco pledge→Xi's Riyadh speech→first India-UAE rupee oil trade). The full
+   gold/oil-ratio and petrodollar-recycling mechanics are dissected in
+   [petrodollar & the oil-gold nexus](petrodollar_oil_gold.md).
 2. **Sanctions weaponization / reserve freezing.** The 2022 freeze of Russian
    reserves redefined "risk-free." Yellen herself conceded sanctions "could
    undermine the hegemony of the dollar" (2023).
@@ -137,13 +139,13 @@ better alternative.
 
 ## Sources
 
-- [2014 — Good Bye Exorbitant Privilege](../markdown/2014/23_good_bye_exorbitant_privilege.md)
-- [2017 — The De-dollarization: Good Bye Dollar, Hello Gold](../markdown/2017/05_the_de_dollarization_good_bye_dollar_hello_gold.md)
-- [2018 — De-dollarization: From the Dollar to Gold via the Yuan and the Euro](../markdown/2018/07_de_dollarization_from_the_dollar_to_gold_via_the_yuan_and_the_euro.md)
-- [2019 — De-dollarization: Europe Joins the Party](../markdown/2019/04_de_dollarization_europe_joins_the_party.md)
-- [2020 — De-dollarization 2020: The Endgame Has Begun](../markdown/2020/10_de_dollarization_2020_the_endgame_has_begun.md)
-- [2021 — De-dollarization 2021: Europe Buys Gold, China Opens a Digital Front](../markdown/2021/05_de_dollarization_2021_europe_buys_gold_china_opens_a_digital_front.md)
-- [2022 — A New International Order Emerges](../markdown/2022/10_a_new_international_order_emerges.md)
-- [2023 — De-dollarization: The Final Showdown](../markdown/2023/10_de_dollarization_the_final_showdown.md)
-- [2024 — Enter the Dragon: De-dollarization and the Eastern Push for Gold](../markdown/2024/09_enter_the_dragon_de_dollarization_and_the_eastern_push_for_gold.md)
-- [2026 — Gold and the End of the US Dollar Standard](../markdown/2026/11_gold_and_the_end_of_the_us_dollar_standard.md)
+- [2014 — Good Bye Exorbitant Privilege](../../markdown/2014/23_good_bye_exorbitant_privilege.md)
+- [2017 — The De-dollarization: Good Bye Dollar, Hello Gold](../../markdown/2017/05_the_de_dollarization_good_bye_dollar_hello_gold.md)
+- [2018 — De-dollarization: From the Dollar to Gold via the Yuan and the Euro](../../markdown/2018/07_de_dollarization_from_the_dollar_to_gold_via_the_yuan_and_the_euro.md)
+- [2019 — De-dollarization: Europe Joins the Party](../../markdown/2019/04_de_dollarization_europe_joins_the_party.md)
+- [2020 — De-dollarization 2020: The Endgame Has Begun](../../markdown/2020/10_de_dollarization_2020_the_endgame_has_begun.md)
+- [2021 — De-dollarization 2021: Europe Buys Gold, China Opens a Digital Front](../../markdown/2021/05_de_dollarization_2021_europe_buys_gold_china_opens_a_digital_front.md)
+- [2022 — A New International Order Emerges](../../markdown/2022/10_a_new_international_order_emerges.md)
+- [2023 — De-dollarization: The Final Showdown](../../markdown/2023/10_de_dollarization_the_final_showdown.md)
+- [2024 — Enter the Dragon: De-dollarization and the Eastern Push for Gold](../../markdown/2024/09_enter_the_dragon_de_dollarization_and_the_eastern_push_for_gold.md)
+- [2026 — Gold and the End of the US Dollar Standard](../../markdown/2026/11_gold_and_the_end_of_the_us_dollar_standard.md)

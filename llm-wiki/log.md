@@ -299,3 +299,42 @@ are RSI/CFTC/Bollinger-on-miners-gold/TIPS/miners-vs-MA — not Coppock/gold-sil
 gold-vs-USD (which appear in Incrementum's separate long-term technical work).
 
 Next: final lint + commit/push.
+
+---
+
+## [2026-07-25] lint | First full health check — path bug + orphans fixed
+
+Ran the schema's prescribed lint pass across all 30 concept pages. Found and
+fixed three classes of issue:
+
+1. **Citation path bug (235 links, all pages).** Every concept page cited
+   sources as `](../markdown/...)`, but from `concepts/` that resolves to the
+   nonexistent `llm-wiki/markdown/`. Mechanically rewrote all 235 to
+   `](../../markdown/...)` across 30 files. The schema example in `AGENTS.md`
+   had the same bug — corrected and annotated why two `../` are needed. (`index.md`
+   was already correct: it sits at `llm-wiki/`, where one `../` reaches the repo
+   root.) All 235 target files verified to exist.
+
+2. **Orphan pages (7 → 0).** Seven concept pages had no inbound links from
+   other concepts: `crisis_triggers_swans`, `demographics_generations`,
+   `esg_responsible_mining`, `image_psychology`, `petrodollar_oil_gold`,
+   `proprietary_models`, `tokenization_digital_gold`. Added one contextual
+   inbound edge to each from the topically-adjacent page
+   (e.g. `proprietary_models` ← `technical_analysis`, which discusses the same
+   Active Aurum / Midas Touch models; `petrodollar_oil_gold` ← `de_dollarization`,
+   which references the petrodollar mechanics). Two without a natural keyword
+   overlap (`esg_responsible_mining`, `image_psychology`) got a "See also"
+   section from `gold_mining_stocks` and `gold_as_money` respectively.
+
+3. **Index gap.** `bitcoin_vs_gold.md` (9 sources) existed on disk but was
+   missing from `index.md`'s catalog. Added under "The market & investing"
+   next to `tokenization_digital_gold`.
+
+Post-lint state: 0 broken citation paths, 0 missing targets, 0 orphan pages,
+0 single-citation pages, index complete (30 entries = 30 files).
+
+**Coverage note for future ingest.** 235 distinct citations cover ~42% of the
+~479-chapter corpus. Recent years (2019–2026) are well-covered (45–73%);
+the under-cited zone is 2008–2016, especially 2016 (33 of 49 chapters
+uncited), 2009 (26/33), 2011 (26/31), 2014 (25/35). The lone 2007 chapter is
+fully uncited. These are the priority targets for the next ingest wave.

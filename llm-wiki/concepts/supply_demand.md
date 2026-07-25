@@ -114,13 +114,13 @@ But the thesis survives in three softer forms:
 
 ## Sources
 
-- [2008 — Supply](../markdown/2008/02_supply.md)
-- [2008 — Primary Production: First Peak Oil, Now Peak Gold?](../markdown/2008/03_primary_production_first_peak_oil_now_peak_gold.md)
-- [2008 — Secondary Supply](../markdown/2008/06_secondary_supply.md)
-- [2008 — Demand](../markdown/2008/08_demand.md)
-- [2009 — Demand](../markdown/2009/11_demand.md)
-- [2014 — The Great Fallacy of High Gold Demand](../markdown/2014/21_the_great_fallacy_of_high_gold_demand.md)
-- [2016 — Comparison of Market Capitalization Levels](../markdown/2016/39_comparison_of_market_capitalization_levels.md)
-- [2022 — How to Understand Gold's Supply and Demand Fundamentals](../markdown/2022/17_how_to_understand_golds_supply_and_demand_fundamentals.md)
-- [2025 — The Status Quo of Gold Demand and Gold Supply](../markdown/2025/05_the_status_quo_of_gold_demand_and_gold_supply.md)
-- [2026 — The Status Quo of Gold Demand and Gold Supply](../markdown/2026/06_the_status_quo_of_gold_demand_and_gold_supply.md)
+- [2008 — Supply](../../markdown/2008/02_supply.md)
+- [2008 — Primary Production: First Peak Oil, Now Peak Gold?](../../markdown/2008/03_primary_production_first_peak_oil_now_peak_gold.md)
+- [2008 — Secondary Supply](../../markdown/2008/06_secondary_supply.md)
+- [2008 — Demand](../../markdown/2008/08_demand.md)
+- [2009 — Demand](../../markdown/2009/11_demand.md)
+- [2014 — The Great Fallacy of High Gold Demand](../../markdown/2014/21_the_great_fallacy_of_high_gold_demand.md)
+- [2016 — Comparison of Market Capitalization Levels](../../markdown/2016/39_comparison_of_market_capitalization_levels.md)
+- [2022 — How to Understand Gold's Supply and Demand Fundamentals](../../markdown/2022/17_how_to_understand_golds_supply_and_demand_fundamentals.md)
+- [2025 — The Status Quo of Gold Demand and Gold Supply](../../markdown/2025/05_the_status_quo_of_gold_demand_and_gold_supply.md)
+- [2026 — The Status Quo of Gold Demand and Gold Supply](../../markdown/2026/06_the_status_quo_of_gold_demand_and_gold_supply.md)

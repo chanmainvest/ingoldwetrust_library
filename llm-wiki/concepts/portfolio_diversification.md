@@ -108,7 +108,9 @@ deepen over time:
   explicit that "the macroeconomic coordinate system has shifted."
 - **Gold's crisis behavior is not perfectly inverse.** 2017's drawdown table
   includes the 1980-82 exception (gold fell −45.8% during an equity bear market).
-  "Gold is not a perfectly antifragile asset" (2016).
+  "Gold is not a perfectly antifragile asset" (2016). The taxonomy of which
+  crisis triggers actually matter is covered in
+  [crisis triggers & swans](crisis_triggers_swans.md).
 - **The opportunity-cost tension is resolved structurally, not dismissed.** The
   argument is that highly positive real rates are "unrealistic in the long run due
   to global debt and zombification" (2019) — so the opportunity cost stays low by
@@ -119,12 +121,12 @@ deepen over time:
 
 ## Sources
 
-- [2008 — Gold as Diversification: Low Correlation to Other Asset Classes](../markdown/2008/18_gold_as_diversification_low_correlation_to_other_asset_classes.md)
-- [2010 — Gold Is the Optimal Portfolio Insurance](../markdown/2010/08_gold_is_the_optimal_portfolio_insurance.md)
-- [2014 — The Extraordinary Portfolio Characteristics of Gold](../markdown/2014/17_the_extraordinary_portfolio_characteristics_of_gold.md)
-- [2016 — Gold in the Context of Portfolio Diversification](../markdown/2016/34_gold_in_the_context_of_portfolio_diversification.md)
-- [2016 — Anti-fragile Investing with Gold](../markdown/2016/35_anti_fragile_investing_with_gold.md)
-- [2017 — The Portfolio Characteristics of Gold](../markdown/2017/10_the_portfolio_characteristics_of_gold.md)
-- [2019 — Gold as Equity Diversifier in Recessions](../markdown/2019/06_portfolio_characteristics_gold_as_equity_diversifier_in_recessions.md)
-- [2022 — The Synchronous Equity and Gold Price Model](../markdown/2022/16_the_synchronous_equity_and_gold_price_model.md)
-- [2026 — The Renaissance of Gold Allocation](../markdown/2026/08_the_renaissance_of_gold_allocation.md)
+- [2008 — Gold as Diversification: Low Correlation to Other Asset Classes](../../markdown/2008/18_gold_as_diversification_low_correlation_to_other_asset_classes.md)
+- [2010 — Gold Is the Optimal Portfolio Insurance](../../markdown/2010/08_gold_is_the_optimal_portfolio_insurance.md)
+- [2014 — The Extraordinary Portfolio Characteristics of Gold](../../markdown/2014/17_the_extraordinary_portfolio_characteristics_of_gold.md)
+- [2016 — Gold in the Context of Portfolio Diversification](../../markdown/2016/34_gold_in_the_context_of_portfolio_diversification.md)
+- [2016 — Anti-fragile Investing with Gold](../../markdown/2016/35_anti_fragile_investing_with_gold.md)
+- [2017 — The Portfolio Characteristics of Gold](../../markdown/2017/10_the_portfolio_characteristics_of_gold.md)
+- [2019 — Gold as Equity Diversifier in Recessions](../../markdown/2019/06_portfolio_characteristics_gold_as_equity_diversifier_in_recessions.md)
+- [2022 — The Synchronous Equity and Gold Price Model](../../markdown/2022/16_the_synchronous_equity_and_gold_price_model.md)
+- [2026 — The Renaissance of Gold Allocation](../../markdown/2026/08_the_renaissance_of_gold_allocation.md)
