@@ -105,6 +105,14 @@ hyperinflation — "the easiest symptom to observe," but only one of several.
 The authors are emphatic that Western hyperinflation is **a tail risk and an
 analytical framework, not an imminent forecast**:
 
+- **The 2009 framing sets the tone.** The *Is Gold Pricing in the Coming
+  Inflation?* chapter explicitly dismisses the "media" hyperinflation discourse
+  as a "negligible counter indicator," citing the post-WWII US precedent
+  (debt at 120% of GDP reduced to 30% within 30 years "without having to
+  resort to hyperinflation"). The baseline forecast is *ordinary* inflation as
+  the central-bank actions "of historic dimensions" work through — gold as
+  beneficiary, but no Weimar-style collapse predicted. This tone persists
+  through every later chapter.
 - The crack-up boom is deployed as Mises intended — a *trajectory that can still be
   abandoned*: "throughout the early stages, the path towards a crack-up boom can
   still be abandoned by stopping all further credit expansion."
@@ -125,6 +133,7 @@ analytical framework, not an imminent forecast**:
 
 ## Sources
 
+- [2009 — Is Gold Pricing in the Coming Inflation?](../../markdown/2009/20_is_gold_pricing_in_the_coming_inflation.md)
 - [2010 — Inflation vs. Deflation](../../markdown/2010/03_inflation_vs_deflation.md)
 - [2019 — Hyperinflation: Much Talked About, Little Understood](../../markdown/2019/10_hyperinflation_much_talked_about_little_understood.md)
 - [2022 — Stagflation 2.0](../../markdown/2022/08_stagflation_20.md)

@@ -1,1 +1,7 @@
 pymupdf4llm>=0.0.17
+
+# Local LLM-Wiki inference
+torch>=2.3.0
+transformers>=4.47.0
+accelerate>=0.34.0
+pip-system-certs>=4.0

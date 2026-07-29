@@ -1,0 +1,17 @@
+# Petrodollar System
+
+The petrodollar system describes the monetary arrangement in which oil is traded in US dollars and oil-exporting countries recycle the resulting dollar proceeds into US Treasuries. In the reports’ account, this mechanism supports the dollar standard and gives the currency used in oil trade an importance extending beyond the oil market itself. The concept is significant because its durability—or weakening—bears on the foundations of the post-Bretton Woods monetary order.
+
+## How the argument evolved
+
+**2017** The report presents the petrodollar mechanism as the operating logic behind the contemporary dollar standard. It states that “The mechanism underlying today's ‘dollar standard’ is widely known”: “Oil, and consequently all other important commodities, is traded in US dollars,” while oil producers then “recycle” these “petrodollars” into US treasuries. This framing links commodity pricing and sovereign debt demand in a single system. Dollar invoicing of oil creates the petrodollars, and the recycling of those proceeds into US Treasuries describes the financial channel through which oil-export revenue returns to the United States. The report therefore treats the petrodollar not merely as a description of how oil is priced, but as a mechanism underpinning the dollar’s broader standard.
+
+**2021** The discussion sharpens the emphasis on the monetary significance of the oil trade itself. The report calls oil trade “of elemental importance to the world’s monetary operating system,” shifting attention from oil volumes or trading partners to the unit of account used in transactions. As it puts the point, “It is not so much who buys oil or how much, but with what currency they buy it.” This formulation distills the earlier explanation into a more direct argument: the strategic issue is not simply the physical oil market, but the currency architecture surrounding it. The petrodollar system is thus portrayed as a question of monetary operating power, because the denomination of oil trade shapes the role of a currency within the global system.
+
+**2023** The report places this arrangement explicitly in the historical order that followed Bretton Woods. It describes the petrodollar agreement as having “guaranteed the US the use of the US dollar as OPEC’s sole oil currency,” and states that “This petrodollar agreement is considered the cornerstone of the post-Bretton Woods monetary order.” Having earlier explained the system’s mechanics and then stressed the decisive importance of oil-trade currency, the report now frames the arrangement as a foundational agreement whose stability is no longer assured. Its conclusion is concise: “But the petrodollar is wobbling.” The evolution across the reports moves from explaining the dollar-recycling mechanism, to identifying currency denomination as the central issue, to characterizing the petrodollar’s weakening as a challenge to the monetary order it helped sustain.
+
+## Sources
+
+- [2017 — 05 The De Dollarization Good Bye Dollar Hello Gold](../../markdown/2017/05_the_de_dollarization_good_bye_dollar_hello_gold.md)
+- [2021 — 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front](../../markdown/2021/05_de_dollarization_2021_europe_buys_gold_china_opens_a_digital_front.md)
+- [2023 — 10 De Dollarization The Final Showdown](../../markdown/2023/10_de_dollarization_the_final_showdown.md)

@@ -30,6 +30,16 @@ only held.** This reframes both supply and demand in three linked moves:
 
 ## How the argument evolved
 
+- **2007 — The origin report.** The very first IGWT report is already a pure
+  flow-based structural-shortage argument: ~3,600 t annual demand vs ~2,500 t
+  mine output, the deficit "compensated by sales by central banks as well as by
+  recycling." The peak-gold intuition is already present ("mining production
+  will decline at least until 2009… the biggest, richest and most easily
+  exploited mines are mostly known"), as is the lead-time argument (7–9 years
+  from first drilling to first ounce) and the regional shift (South Africa 70%
+  of world output in 1970 → 15% in 2007; China and Russia rising). The CBGA
+  regime is treated as the swing supply source whose 2009 expiry "will
+  significantly tighten the supply on the global market."
 - **2008 — The peak-gold / structural-shortage era.** Flow-based framework. Mine
   output stagnant (~2,476 t), demand ~3,600 t, gap filled by CBGA central-bank
   sales and scrap. South Africa's collapse from 67.7% of world output (1970) to
@@ -114,6 +124,7 @@ But the thesis survives in three softer forms:
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
 - [2008 — Supply](../../markdown/2008/02_supply.md)
 - [2008 — Primary Production: First Peak Oil, Now Peak Gold?](../../markdown/2008/03_primary_production_first_peak_oil_now_peak_gold.md)
 - [2008 — Secondary Supply](../../markdown/2008/06_secondary_supply.md)

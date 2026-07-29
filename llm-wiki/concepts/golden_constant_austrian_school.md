@@ -136,9 +136,18 @@ lower long-term inflation and the higher real economic growth will be."
   crises, but their consequence — and at the same time their cure."
 - **Hülsmann (2014):** the harmfulness of price deflation is "one of the sanctified
   dogmas of today's monetary policy."
+- **Gold-standard stability data (precursor, 2009):** the 1879–1914 vs post-1971
+  comparison (0.2% avg at 2.2% volatility vs 4.6% at 2.8%) — later a Jastram-
+  adjacent staple — first appears in *Is Gold Pricing in the Coming Inflation?*
+  alongside the gold-inflation correlation (0.48 monthly 1971–2009; 0.76 in the
+  1978–1982 high-inflation window). The Roman-denarius decline (97% → 2% silver
+  over 300 years) appears in the same year's *A New Gold Standard?* as the
+  historical Exhibit A for "currency debasement = societal decay."
 
 ## Sources
 
+- [2009 — Is Gold Pricing in the Coming Inflation?](../../markdown/2009/20_is_gold_pricing_in_the_coming_inflation.md)
+- [2009 — A New Gold Standard?](../../markdown/2009/23_a_new_gold_standard.md)
 - [2024 — Roy Jastram's The Golden Constant and Inflationary Deflation](../../markdown/2024/14_roy_jastrams_the_golden_constant_and_inflationary_deflation.md)
 - [2009 — Money Supply Development According to the Austrian School](../../markdown/2009/21_money_supply_development_according_to_the_austrian_school_of_economics.md)
 - [2010 — The Creation of Money from the Perspective of the Austrian School](../../markdown/2010/12_excursus_the_creation_of_money_from_the_perspective_of_the_austrian_school_of_ec.md)

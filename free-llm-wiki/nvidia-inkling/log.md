@@ -1,0 +1,266 @@
+# Local LLM-Wiki Activity Log
+
+## [2026-07-27] build | thinkingmachines/inkling
+Processed 82 chapters -> 13 concept pages (>=2 citations), 747 single-citation candidates.
+
+### Single-citation candidates (need a 2nd source to promote):
+- 1960s Fed Policy Trade-off — only 2014 10 Future Growth And Inflation Scenarios
+- 1970s Dollar Crisis and Carter Bonds — only 2019 01 Introduction
+- 1970s Monetary Inflation Asset Performance — only 2014 11 Conclusion Inflation Vs Deflation
+- 1970s Stagflation Forgotten — only 2016 14 Inflation And Investment
+- 2008 Seasonal Pattern Confirmation — only 2008 28 Technical Analysis Of The Gold Sector
+- 5Y5Y Inflation Swaps and Break-Even Rates — only 2020 07 Status Quo Of Inflation Dynamics
+- ABCT and Asset Price Inflation — only 2020 07 Status Quo Of Inflation Dynamics
+- Abandonment of Gold Standard Enables Credit Expansion — only 2015 03 Gold And Inflation
+- Absent Self-Sustaining Recovery — only 2014 01 Introduction
+- Accelerating De-Dollarization Process — only 2020 10 De Dollarization 2020 The Endgame Has Begun
+- Africa Manufacturing Geography — only 2021 04 Global Demographics Turn Inflationary
+- Age Structure Inflation Puzzle — only 2021 04 Global Demographics Turn Inflationary
+- Alternating Inflation Cycles — only 2016 19 Cycles Of Consumer Price Inflaton Vs Asset Price Inflation
+- Alternative to Revaluation Is Contraction — only 2017 05 The De Dollarization Good Bye Dollar Hello Gold
+- Ambiguous Money Supply Quantification — only 2016 15 Misunderstood Inflation
+- Analyst Consensus Bearish — only 2012 18 Technical Analysis Of The Gold Price
+- Analyst Consensus Contrarian Signal — only 2015 12 Technical Analysis Are We Close To The Final Stages Of The Bottoming Phase
+- Analyst Consensus Targets — only 2020 23 Technical Analysis
+- Analyst Pessimism Contrarian Signal — only 2016 46 Technical Analysis
+- Asian Central Bank Diversification — only 2007 Full Report
+- Asian Consumption Demand Rising — only 2007 Full Report
+- Asset Correlation and Diversification Failure — only 2009 01 Introduction
+- Asset Price Inflation Divergence — only 2016 16 The Holy Grail Of Monetary Policy
+- Asset Prices Drive Tax Receipts — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Asset vs Consumer Inflation — only 2018 08 Inflation Vs Deflation The Big Showdown
+- Attack on Cultural Heritage of Money — only 2015 01 Introduction
+- Austrian Cycle Asset Inflation First — only 2014 08 Monetary Tectonics The Interaction Between Inflation And Deflation
+- Austrian School Credit Expansion — only 2012 02 Inflation Rising Prices Confusing Terminology With Grave Consequences
+- Austrian School Deflation View — only 2013 13 Excursion Monetary Tectonics Inflation Versus Deflation
+- BLS Inflation Model Adjustments — only 2011 16 Inflation Rising Prices
+- Backwardation Signals Trust Erosion — only 2022 17 How To Understand Golds Supply And Demand Fundamentals
+- Bank of England Brown Bottom — only 2012 12 Renaissance Of Central Bank Buying
+- Bifurcated Eastern and Western Monetary Blocs — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Bitcoin as Alternative Reserve Asset — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- Bitcoin as Digital Store of Value — only 2021 01 Introduction
+- Blockchain and Crypto for Sanctions — only 2019 01 Introduction
+- Bond Bubble and Gold Insurance — only 2016 01 Introduction
+- Bond Rally End and Asset Impact — only 2020 07 Status Quo Of Inflation Dynamics
+- Boomer Wealth And Velocity — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Break-Even Inflation Expectations — only 2020 07 Status Quo Of Inflation Dynamics
+- Bull Market Lower Volatility — only 2014 34 Technical Analysis Bottoming Phase Almost Complete
+- Bull Market Phase Transition — only 2020 23 Technical Analysis
+- CBDC State Control and Surveillance — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- CBDCs vs Decentralized Crypto — only 2021 01 Introduction
+- CBGA II Selling Decrease — only 2007 Full Report
+- CBGA Selling End — only 2007 Full Report
+- CPI Measurement Methodological Issues — only 2016 15 Misunderstood Inflation
+- CPI Peaks and Recession Lag — only 2018 08 Inflation Vs Deflation The Big Showdown
+- CPI vs Shadow Stats Divergence — only 2016 20 Criticism Of The Calculation Of Inflation
+- Cagan Hyperinflation Definition — only 2019 10 Hyperinflation Much Talked About Little Understood
+- Cantillon Effect of Monetary Expansion — only 2010 04 Criticism Against The Conceptual Definition Of Inflation
+- Capital Inflow Trade Deficit — only 2019 04 De Dollarization Europe Joins The Party
+- Carney Digital Currency Proposal — only 2020 10 De Dollarization 2020 The Endgame Has Begun
+- Cash Displacement and Negative Rates — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- Cautious Sentiment Without Euphoria — only 2011 24 Technical Analysis Of The Gold Price
+- Central Bank Action Anticipation — only 2013 01 Introduction
+- Central Bank Balance Sheet Capacity — only 2019 01 Introduction
+- Central Bank Compensation for Deleveraging — only 2013 13 Excursion Monetary Tectonics Inflation Versus Deflation
+- Central Bank Credibility Bubble — only 2015 01 Introduction
+- Central Bank Crisis Narratives — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- ... (687 more)
+
+## [2026-07-27] build | thinkingmachines/inkling
+Processed 82 chapters -> 13 concept pages (>=2 citations), 747 single-citation candidates.
+
+### Single-citation candidates (need a 2nd source to promote):
+- 1960s Fed Policy Trade-off — only 2014 10 Future Growth And Inflation Scenarios
+- 1970s Dollar Crisis and Carter Bonds — only 2019 01 Introduction
+- 1970s Monetary Inflation Asset Performance — only 2014 11 Conclusion Inflation Vs Deflation
+- 1970s Stagflation Forgotten — only 2016 14 Inflation And Investment
+- 2008 Seasonal Pattern Confirmation — only 2008 28 Technical Analysis Of The Gold Sector
+- 5Y5Y Inflation Swaps and Break-Even Rates — only 2020 07 Status Quo Of Inflation Dynamics
+- ABCT and Asset Price Inflation — only 2020 07 Status Quo Of Inflation Dynamics
+- Abandonment of Gold Standard Enables Credit Expansion — only 2015 03 Gold And Inflation
+- Absent Self-Sustaining Recovery — only 2014 01 Introduction
+- Accelerating De-Dollarization Process — only 2020 10 De Dollarization 2020 The Endgame Has Begun
+- Africa Manufacturing Geography — only 2021 04 Global Demographics Turn Inflationary
+- Age Structure Inflation Puzzle — only 2021 04 Global Demographics Turn Inflationary
+- Alternating Inflation Cycles — only 2016 19 Cycles Of Consumer Price Inflaton Vs Asset Price Inflation
+- Alternative to Revaluation Is Contraction — only 2017 05 The De Dollarization Good Bye Dollar Hello Gold
+- Ambiguous Money Supply Quantification — only 2016 15 Misunderstood Inflation
+- Analyst Consensus Bearish — only 2012 18 Technical Analysis Of The Gold Price
+- Analyst Consensus Contrarian Signal — only 2015 12 Technical Analysis Are We Close To The Final Stages Of The Bottoming Phase
+- Analyst Consensus Targets — only 2020 23 Technical Analysis
+- Analyst Pessimism Contrarian Signal — only 2016 46 Technical Analysis
+- Asian Central Bank Diversification — only 2007 Full Report
+- Asian Consumption Demand Rising — only 2007 Full Report
+- Asset Correlation and Diversification Failure — only 2009 01 Introduction
+- Asset Price Inflation Divergence — only 2016 16 The Holy Grail Of Monetary Policy
+- Asset Prices Drive Tax Receipts — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Asset vs Consumer Inflation — only 2018 08 Inflation Vs Deflation The Big Showdown
+- Attack on Cultural Heritage of Money — only 2015 01 Introduction
+- Austrian Cycle Asset Inflation First — only 2014 08 Monetary Tectonics The Interaction Between Inflation And Deflation
+- Austrian School Credit Expansion — only 2012 02 Inflation Rising Prices Confusing Terminology With Grave Consequences
+- Austrian School Deflation View — only 2013 13 Excursion Monetary Tectonics Inflation Versus Deflation
+- BLS Inflation Model Adjustments — only 2011 16 Inflation Rising Prices
+- Backwardation Signals Trust Erosion — only 2022 17 How To Understand Golds Supply And Demand Fundamentals
+- Bank of England Brown Bottom — only 2012 12 Renaissance Of Central Bank Buying
+- Bifurcated Eastern and Western Monetary Blocs — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Bitcoin as Alternative Reserve Asset — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- Bitcoin as Digital Store of Value — only 2021 01 Introduction
+- Blockchain and Crypto for Sanctions — only 2019 01 Introduction
+- Bond Bubble and Gold Insurance — only 2016 01 Introduction
+- Bond Rally End and Asset Impact — only 2020 07 Status Quo Of Inflation Dynamics
+- Boomer Wealth And Velocity — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Break-Even Inflation Expectations — only 2020 07 Status Quo Of Inflation Dynamics
+- Bull Market Lower Volatility — only 2014 34 Technical Analysis Bottoming Phase Almost Complete
+- Bull Market Phase Transition — only 2020 23 Technical Analysis
+- CBDC State Control and Surveillance — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- CBDCs vs Decentralized Crypto — only 2021 01 Introduction
+- CBGA II Selling Decrease — only 2007 Full Report
+- CBGA Selling End — only 2007 Full Report
+- CPI Measurement Methodological Issues — only 2016 15 Misunderstood Inflation
+- CPI Peaks and Recession Lag — only 2018 08 Inflation Vs Deflation The Big Showdown
+- CPI vs Shadow Stats Divergence — only 2016 20 Criticism Of The Calculation Of Inflation
+- Cagan Hyperinflation Definition — only 2019 10 Hyperinflation Much Talked About Little Understood
+- Cantillon Effect of Monetary Expansion — only 2010 04 Criticism Against The Conceptual Definition Of Inflation
+- Capital Inflow Trade Deficit — only 2019 04 De Dollarization Europe Joins The Party
+- Carney Digital Currency Proposal — only 2020 10 De Dollarization 2020 The Endgame Has Begun
+- Cash Displacement and Negative Rates — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- Cautious Sentiment Without Euphoria — only 2011 24 Technical Analysis Of The Gold Price
+- Central Bank Action Anticipation — only 2013 01 Introduction
+- Central Bank Balance Sheet Capacity — only 2019 01 Introduction
+- Central Bank Compensation for Deleveraging — only 2013 13 Excursion Monetary Tectonics Inflation Versus Deflation
+- Central Bank Credibility Bubble — only 2015 01 Introduction
+- Central Bank Crisis Narratives — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- ... (687 more)
+
+## [2026-07-27] build | thinkingmachines/inkling
+Processed 60 chapters -> 13 concept pages (>=2 citations), 747 single-citation candidates.
+
+### Single-citation candidates (need a 2nd source to promote):
+- 1960s Fed Policy Trade-off — only 2014 10 Future Growth And Inflation Scenarios
+- 1970s Dollar Crisis and Carter Bonds — only 2019 01 Introduction
+- 1970s Monetary Inflation Asset Performance — only 2014 11 Conclusion Inflation Vs Deflation
+- 1970s Stagflation Forgotten — only 2016 14 Inflation And Investment
+- 2008 Seasonal Pattern Confirmation — only 2008 28 Technical Analysis Of The Gold Sector
+- 5Y5Y Inflation Swaps and Break-Even Rates — only 2020 07 Status Quo Of Inflation Dynamics
+- ABCT and Asset Price Inflation — only 2020 07 Status Quo Of Inflation Dynamics
+- Abandonment of Gold Standard Enables Credit Expansion — only 2015 03 Gold And Inflation
+- Absent Self-Sustaining Recovery — only 2014 01 Introduction
+- Accelerating De-Dollarization Process — only 2020 10 De Dollarization 2020 The Endgame Has Begun
+- Africa Manufacturing Geography — only 2021 04 Global Demographics Turn Inflationary
+- Age Structure Inflation Puzzle — only 2021 04 Global Demographics Turn Inflationary
+- Alternating Inflation Cycles — only 2016 19 Cycles Of Consumer Price Inflaton Vs Asset Price Inflation
+- Alternative to Revaluation Is Contraction — only 2017 05 The De Dollarization Good Bye Dollar Hello Gold
+- Ambiguous Money Supply Quantification — only 2016 15 Misunderstood Inflation
+- Analyst Consensus Bearish — only 2012 18 Technical Analysis Of The Gold Price
+- Analyst Consensus Contrarian Signal — only 2015 12 Technical Analysis Are We Close To The Final Stages Of The Bottoming Phase
+- Analyst Consensus Targets — only 2020 23 Technical Analysis
+- Analyst Pessimism Contrarian Signal — only 2016 46 Technical Analysis
+- Asian Central Bank Diversification — only 2007 Full Report
+- Asian Consumption Demand Rising — only 2007 Full Report
+- Asset Correlation and Diversification Failure — only 2009 01 Introduction
+- Asset Price Inflation Divergence — only 2016 16 The Holy Grail Of Monetary Policy
+- Asset Prices Drive Tax Receipts — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Asset vs Consumer Inflation — only 2018 08 Inflation Vs Deflation The Big Showdown
+- Attack on Cultural Heritage of Money — only 2015 01 Introduction
+- Austrian Cycle Asset Inflation First — only 2014 08 Monetary Tectonics The Interaction Between Inflation And Deflation
+- Austrian School Credit Expansion — only 2012 02 Inflation Rising Prices Confusing Terminology With Grave Consequences
+- Austrian School Deflation View — only 2013 13 Excursion Monetary Tectonics Inflation Versus Deflation
+- BLS Inflation Model Adjustments — only 2011 16 Inflation Rising Prices
+- Backwardation Signals Trust Erosion — only 2022 17 How To Understand Golds Supply And Demand Fundamentals
+- Bank of England Brown Bottom — only 2012 12 Renaissance Of Central Bank Buying
+- Bifurcated Eastern and Western Monetary Blocs — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Bitcoin as Alternative Reserve Asset — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- Bitcoin as Digital Store of Value — only 2021 01 Introduction
+- Blockchain and Crypto for Sanctions — only 2019 01 Introduction
+- Bond Bubble and Gold Insurance — only 2016 01 Introduction
+- Bond Rally End and Asset Impact — only 2020 07 Status Quo Of Inflation Dynamics
+- Boomer Wealth And Velocity — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Break-Even Inflation Expectations — only 2020 07 Status Quo Of Inflation Dynamics
+- Bull Market Lower Volatility — only 2014 34 Technical Analysis Bottoming Phase Almost Complete
+- Bull Market Phase Transition — only 2020 23 Technical Analysis
+- CBDC State Control and Surveillance — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- CBDCs vs Decentralized Crypto — only 2021 01 Introduction
+- CBGA II Selling Decrease — only 2007 Full Report
+- CBGA Selling End — only 2007 Full Report
+- CPI Measurement Methodological Issues — only 2016 15 Misunderstood Inflation
+- CPI Peaks and Recession Lag — only 2018 08 Inflation Vs Deflation The Big Showdown
+- CPI vs Shadow Stats Divergence — only 2016 20 Criticism Of The Calculation Of Inflation
+- Cagan Hyperinflation Definition — only 2019 10 Hyperinflation Much Talked About Little Understood
+- Cantillon Effect of Monetary Expansion — only 2010 04 Criticism Against The Conceptual Definition Of Inflation
+- Capital Inflow Trade Deficit — only 2019 04 De Dollarization Europe Joins The Party
+- Carney Digital Currency Proposal — only 2020 10 De Dollarization 2020 The Endgame Has Begun
+- Cash Displacement and Negative Rates — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- Cautious Sentiment Without Euphoria — only 2011 24 Technical Analysis Of The Gold Price
+- Central Bank Action Anticipation — only 2013 01 Introduction
+- Central Bank Balance Sheet Capacity — only 2019 01 Introduction
+- Central Bank Compensation for Deleveraging — only 2013 13 Excursion Monetary Tectonics Inflation Versus Deflation
+- Central Bank Credibility Bubble — only 2015 01 Introduction
+- Central Bank Crisis Narratives — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- ... (687 more)
+
+## [2026-07-28] build | thinkingmachines/inkling
+Processed 82 chapters -> 18 concept pages (>=2 citations), 1010 single-citation candidates.
+
+### Single-citation candidates (need a 2nd source to promote):
+- 1933 Gold Confiscation And Mining Boom — only 2010 03 Inflation Vs Deflation
+- 1960s Fed Policy Trade-off — only 2014 10 Future Growth And Inflation Scenarios
+- 1970s Dollar Crisis and Carter Bonds — only 2019 01 Introduction
+- 1970s Inflation Wave Parallel — only 2023 05 Status Quo Of The Inflation Trend
+- 1970s Monetary Inflation Asset Performance — only 2014 11 Conclusion Inflation Vs Deflation
+- 1970s Stagflation Forgotten — only 2016 14 Inflation And Investment
+- 1980 Gold Spike Was Short-Lived — only 2010 05 Why The Inflation Adjusted High Of Usd 2300 Is Our Target Price
+- 2008 Seasonal Pattern Confirmation — only 2008 28 Technical Analysis Of The Gold Sector
+- 5Y5Y Inflation Swaps and Break-Even Rates — only 2020 07 Status Quo Of Inflation Dynamics
+- ABCT and Asset Price Inflation — only 2020 07 Status Quo Of Inflation Dynamics
+- AI and Technology Deflation — only 2023 05 Status Quo Of The Inflation Trend
+- Abandonment of Gold Standard Enables Credit Expansion — only 2015 03 Gold And Inflation
+- Absent Self-Sustaining Recovery — only 2014 01 Introduction
+- Accelerating De-Dollarization Process — only 2020 10 De Dollarization 2020 The Endgame Has Begun
+- Africa Manufacturing Geography — only 2021 04 Global Demographics Turn Inflationary
+- Age Structure Inflation Puzzle — only 2021 04 Global Demographics Turn Inflationary
+- Alternating Inflation Cycles — only 2016 19 Cycles Of Consumer Price Inflaton Vs Asset Price Inflation
+- Alternative Inflation Metrics Raise Target — only 2010 05 Why The Inflation Adjusted High Of Usd 2300 Is Our Target Price
+- Alternative to Revaluation Is Contraction — only 2017 05 The De Dollarization Good Bye Dollar Hello Gold
+- Ambiguous Money Supply Quantification — only 2016 15 Misunderstood Inflation
+- Analyst Consensus Bearish — only 2012 18 Technical Analysis Of The Gold Price
+- Analyst Consensus Contrarian Signal — only 2015 12 Technical Analysis Are We Close To The Final Stages Of The Bottoming Phase
+- Analyst Consensus Forecasts — only 2023 22 Technical Analysis
+- Analyst Consensus Sideways Expectations — only 2022 24 Technical Analysis
+- Analyst Consensus Soft Landing — only 2023 08 The Showdown In Monetary Policy
+- Analyst Consensus Targets — only 2020 23 Technical Analysis
+- Analyst Pessimism Contrarian Signal — only 2016 46 Technical Analysis
+- Asian Central Bank Diversification — only 2007 Full Report
+- Asian Consumption Demand Rising — only 2007 Full Report
+- Asian Gold Demand Surge — only 2024 09 Enter The Dragon De Dollarization And The Eastern Push For Gold
+- Asset Correlation and Diversification Failure — only 2009 01 Introduction
+- Asset Price Inflation Divergence — only 2016 16 The Holy Grail Of Monetary Policy
+- Asset Prices Drive Tax Receipts — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Asset vs Consumer Inflation — only 2018 08 Inflation Vs Deflation The Big Showdown
+- Asymmetric Monetary Policy from Over-Indebtedness — only 2024 05 Status Quo Of Inflation
+- Attack on Cultural Heritage of Money — only 2015 01 Introduction
+- Austrian Cycle Asset Inflation First — only 2014 08 Monetary Tectonics The Interaction Between Inflation And Deflation
+- Austrian School Credit Expansion — only 2012 02 Inflation Rising Prices Confusing Terminology With Grave Consequences
+- Austrian School Deflation View — only 2013 13 Excursion Monetary Tectonics Inflation Versus Deflation
+- BIS Warning on Firm US Dollar — only 2023 01 Introduction
+- BLS Inflation Model Adjustments — only 2011 16 Inflation Rising Prices
+- BRI Link to Central Bank Gold — only 2024 09 Enter The Dragon De Dollarization And The Eastern Push For Gold
+- BRI Trade and Investment Scale — only 2024 09 Enter The Dragon De Dollarization And The Eastern Push For Gold
+- BRICS Alliance Expansion — only 2024 01 Introduction
+- BRICS Alternative Financial Institutions — only 2023 10 De Dollarization The Final Showdown
+- BRICS Currency and Gold Ruble — only 2023 10 De Dollarization The Final Showdown
+- BRICS De-Dollarization and Expansion — only 2024 09 Enter The Dragon De Dollarization And The Eastern Push For Gold
+- BRICS Gold-Backed Currency Claim — only 2024 09 Enter The Dragon De Dollarization And The Eastern Push For Gold
+- BRICS+ Expansion and Geopolitics — only 2024 01 Introduction
+- Backwardation Signals Trust Erosion — only 2022 17 How To Understand Golds Supply And Demand Fundamentals
+- Bank Failures and Fragility — only 2023 01 Introduction
+- Bank of England Brown Bottom — only 2012 12 Renaissance Of Central Bank Buying
+- Barriers to Common BRICS Currency — only 2024 09 Enter The Dragon De Dollarization And The Eastern Push For Gold
+- Base Effect on Inflation — only 2009 20 Is Gold Pricing In The Coming Inflation
+- Bifurcated Eastern and Western Monetary Blocs — only 2022 11 Energy War Inflation Exclusive Interview With Luke Gromen
+- Bitcoin Competing in New Gold Playbook — only 2024 01 Introduction
+- Bitcoin as Alternative Reserve Asset — only 2021 05 De Dollarization 2021 Europe Buys Gold China Opens A Digital Front
+- Bitcoin as Digital Store of Value — only 2021 01 Introduction
+- Blockchain and Crypto for Sanctions — only 2019 01 Introduction
+- Bond Bubble and Gold Insurance — only 2016 01 Introduction
+- ... (950 more)
+

@@ -46,11 +46,41 @@ market actors, perfected over 5,000 years.
 
 ## How the argument evolved
 
+- **2007 — The origin report** establishes the baseline stance before the
+  Austrian apparatus arrives. Gold is framed as "both commodity and monetary
+  asset," with the monetary role obscured by 20 years of bear market, CBGA
+  sales, and "the end of the Bretton Woods Agreement." The historical anchor is
+  the 1944 two-tier split and the 1933–1975 US bullion-ownership prohibition.
+  The report already cites Greenspan's "Gold and Economic Freedom" argument that
+  "gold still represents the highest form of payment in the world… paper money,
+  in extremis, will not be accepted by anyone." The 2008 follow-up introduces
+  the regression-style claim that "currencies always used to be simple gold
+  derivatives," and frames the price rise as "the rediscovery of the monetary
+  aspects of gold." The 2009 report adds the gold-standard price-stability data
+  (1879–1914: 0.2% avg inflation at 2.2% volatility vs 4.6% at 2.8% post-1971)
+  and the Roman-denarius debasement precedent (97% → 2% silver over 300 years),
+  treating a formal new gold standard as politically unlikely but "no longer
+  fully excludable."
 - **2010** — Mostly definitional and historical. "Gold is money" via Aristotle/
   Rothbard; the gold standard era (1815–1914) as the "Golden Era" of stability
   and freedom; the gold standard as "poison for governments."
 - **2012** — Theoretical deepening: the regression theorem, Menger's
-  marketability, Mises's circularity resolution.
+  marketability, Mises's circularity resolution. The companion *Advantages of a
+  Gold Standard* chapter makes the affirmative (not merely diagnostic) case:
+  Howard Buffett's "silent watchdog" metaphor (the gold standard "prevented
+  unlimited public spending"); Mises's argument that the gold peg "sets up a dam
+  against any and all efforts of favouring certain social strata at the expense
+  of other strata via monetary measures"; the historical claim that England's
+  1717–1914 gold standard enabled the Industrial Revolution by attracting
+  "capital, technology, and labour from around the world." The link between gold
+  and peace is asserted directly — "without abandoning the gold standard, WWI
+  would have probably lasted only a few weeks, because nobody could have funded
+  the war." Practical remonetisation signals are catalogued: Utah recognising
+  gold/silver as legal tender (with 13 other states reviewing similar bills);
+  the "Holt unser Gold heim" German repatriation initiative; the Bundesrechnungshof
+  calling for an audit of gold held abroad. The chapter explicitly rejects the
+  "not enough gold" objection via the British Empire's 150–200 tonne reserve and
+  the "quality trumps quantity" dictum.
 - **2013** — **Stock-to-flow elevated to "the most important reason for gold's
   monetary importance"** — the signature analytical move. The remonetization
   thesis is born, anchored to OMFIF's Jan 2013 report and gold in SDRs; collateral
@@ -147,8 +177,13 @@ market actors, perfected over 5,000 years.
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2008 — Gold and its Specific Characteristics](../../markdown/2008/14_gold_and_its_specific_characteristics.md)
+- [2009 — A New Gold Standard?](../../markdown/2009/23_a_new_gold_standard.md)
+- [2009 — Is Gold Pricing in the Coming Inflation?](../../markdown/2009/20_is_gold_pricing_in_the_coming_inflation.md)
 - [2010 — Gold Is Money, Nothing Else](../../markdown/2010/11_gold_is_money_nothing_else.md)
 - [2012 — Gold Is Money, Nothing Else](../../markdown/2012/05_gold_is_money_nothing_else.md)
+- [2012 — The Advantages of a Gold Standard](../../markdown/2012/06_the_advantages_of_a_gold_standard.md)
 - [2013 — Stock-to-Flow Ratio as the Most Important Reason for Gold's Monetary Importance](../../markdown/2013/07_stock_to_flow_ratio_as_the_most_important_reason_for_golds_monetary_importance.md)
 - [2013 — The Ongoing Re-monetization of Gold](../../markdown/2013/08_the_ongoing_re_monetization_of_gold_in_the_international_financial_and_monetary_.md)
 - [2013 — Origin of the Current Crisis: August 15, 1971](../../markdown/2013/14_origin_of_the_current_crisis_august_15_1971.md)

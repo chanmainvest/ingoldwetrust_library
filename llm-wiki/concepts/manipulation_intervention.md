@@ -31,6 +31,22 @@ camp and mainstream dismissiveness, via a staged argument:
 
 ## How the argument evolved
 
+- **2007–2008 — The original seeding.** The very first IGWT report (2007) plants
+  the seed that becomes the manipulation chapter: the gold carry trade — central
+  banks lending physical gold to bullion banks, which sell it forward and invest
+  the proceeds in bonds to capture the spread — "has led to the formulation of
+  the theory of so-called gold price manipulation revealed by Dimitri Speck,"
+  who argued the Fed had intervened regularly since 5 August 1993, "as the
+  interventions always took place on the key dates: the fixings and the
+  openings." The same report flags the IMF accounting change that would force
+  central banks to disclose leased gold. The 2008 *Excursus: Gold Carry Trade
+  and Gold Lease* quantifies the overhang via GATA's estimate that 10,000–
+  15,000 t of CB gold had been leased out, warns that "any quick settlement of
+  these short positions would probably push the gold price to far higher
+  regions," and explains the structural mechanism: leasing "artificially
+  inflates" supply and the resulting derivatives "depress the price and keep it
+  artificially low." (The 5 Aug 1993 date and the Speck attribution are
+  therefore not 2014 discoveries but originate here.)
 - **2009** — Statistical circumstantial case + COT. The intraday anomaly pattern
   (gold rises in Asian hours, falls after the London fixes). COT: 3 US banks net-
   short 12.3 mn oz (>15% of global production). Quotes from Greenspan, Volcker,
@@ -114,6 +130,8 @@ camp and mainstream dismissiveness, via a staged argument:
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2008 — Excursus: Gold Carry Trade and Gold Lease](../../markdown/2008/11_exkursus_gold_carry_trade_and_gold_lease.md)
 - [2009 — Is the Gold Price Subject to Manipulation?](../../markdown/2009/24_is_the_gold_price_subject_to_manipulation.md)
 - [2009 — COT Indicates Massive Short Concentration](../../markdown/2009/31_commitment_of_traders_cot_indicates_massive_short_concentration.md)
 - [2010 — Manipulation vs. Intervention](../../markdown/2010/13_manipulation_vs_intervention.md)

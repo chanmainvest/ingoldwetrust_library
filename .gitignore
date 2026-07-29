@@ -225,3 +225,7 @@ markdown/*/images/
 
 # Local editor / agent state
 .zcode/
+
+# Free LLM-Wiki API keys (never commit)
+*.nvapi*
+local_api_keys.py

@@ -32,6 +32,21 @@ asset.
 
 ## How the argument evolved
 
+- **2015 — The earliest formulation.** The "war against cash" first appears as a
+  subsection of the financial-repression chapter, framed as the *enabling
+  condition* for deep negative interest rates. Summers (at an IMF conference)
+  "bluntly demanded the global abolition of all cash currency"; Bofinger
+  (Germany's council of economic advisors) called cash "an anachronism" and
+  argued "if there is no more cash, the zero interest boundary no longer
+  exists"; Rogoff and Buiter joined the chorus. The country-by-country rollback
+  is already documented: Greece (cash payments capped at EUR 1,500 since 2011),
+  Italy (EUR 1,000), Spain (EUR 2,500), France (EUR 1,000 from Sept 2015, plus
+  mandatory gold-purchase reporting), Denmark (abolishing the obligation to
+  accept cash). Sweden's cash share had already fallen to 2.7% of transactions
+  (2012). The theoretical rebuttal is the Austrian positive-time-preference
+  argument: the natural interest rate "can never be negative" (Hoppe), so NIRP
+  plus a cash ban is "Silvio Gesell 2.0" — a revival of the refuted *Freigeld*
+  doctrine.
 - **2016 — The foundational tactical case.** Catalogs the lobby groups
   (Better-Than-Cash-Alliance), Davos statements, and false pretexts (crime,
   germs, cost). Identifies negative interest rates as "the most important reason

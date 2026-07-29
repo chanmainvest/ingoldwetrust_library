@@ -24,6 +24,18 @@ structural floor under the gold price.
 
 ## How the argument evolved
 
+- **2007–2008 — The CBGA-selling regime and the first inflection.** The 2007
+  origin report already documents both halves of the regime: the CBGA I/II sales
+  (Switzerland's 1,300 t program, the 2,000 t aggregate cap, the bump from 400
+  to 500 t/year under CBGA II) — *and* the prediction that "the times of massive
+  selling by central banks will probably end in 2009," with Russia, China, South
+  Africa, and Argentina already buying and "at least one European central bank"
+  signaled to act as a buyer. The 2008 report frames this as the inflection
+  ("2007 was the first year where private persons owned more gold than central
+  banks in total") and seeds the "catch-up" arithmetic: to reach 15% gold
+  coverage, China would "theoretically have to buy 7,200 tonnes," Japan 6,850 t,
+  the rest of Asia 6,000 t, and OPEC 1,500 t — the conceptual seed of the 2009
+  "10% coverage / 12,799 t required" table.
 - **2009** — Still the Washington Agreement / Central Bank Gold Agreement (CBGA)
   regime: Western central banks capping *sales*. China sits at just 1.6% gold
   coverage. The thesis that emerging markets need to "catch up" to a 10% coverage
@@ -119,6 +131,8 @@ structural floor under the gold price.
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2008 — Gold as Dollar Hedge](../../markdown/2008/15_gold_as_dollar_hedge.md)
 - [2009 — Central Bank Gold Agreements](../../markdown/2009/15_central_bank_gold_agreements.md)
 - [2011 — Central Banks on the Buyers' Side for the First Time in Two Decades](../../markdown/2011/19_central_banks_on_the_buyers_side_for_the_first_time_in_two_decades.md)
 - [2012 — Renaissance of Central Bank Buying](../../markdown/2012/12_renaissance_of_central_bank_buying.md)

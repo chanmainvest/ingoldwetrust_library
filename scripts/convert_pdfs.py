@@ -21,6 +21,15 @@ from pathlib import Path
 import pymupdf          # PyMuPDF (fitz)
 import pymupdf4llm
 
+# Years whose PDFs must use pymupdf4llm's legacy "rag" path instead of the
+# default "layout" path. Layout mode (the current default) silently ignores the
+# ``image_size_limit`` kwarg, so PDFs whose pages are tiled-mosaic covers or
+# photo collages (2007's cover is 286 raster tiles of ~16x15px each) dump every
+# tile as a separate image and bury the text. The legacy path honors the limit
+# and drops sub-5% images. Add a year here only when its layout-mode output is
+# confirmed to be image-spammed.
+LEGACY_MODE_YEARS: set[str] = {"2007"}
+
 # Reconfigure stdout/stderr to use UTF-8 on Windows to avoid UnicodeEncodeErrors
 if sys.stdout.encoding != 'utf-8':
     try:
@@ -83,13 +92,20 @@ def sanitize_filename(title: str, max_length: int = 80) -> str:
 
 
 def fix_image_paths(md_text: str, abs_images_dir: str, year: str) -> str:
-    """Replace absolute and generated relative image-directory paths with a relative ``images/`` prefix."""
-    # Pattern: markdown/2026/images/ -> images/
-    md_text = md_text.replace(f"markdown/{year}/images/", "images/")
-    md_text = md_text.replace(f"markdown\\{year}\\images\\", "images/")
-    md_text = md_text.replace(f"markdown/{year}/images", "images")
-    md_text = md_text.replace(f"markdown\\{year}\\images", "images")
+    """Replace absolute and generated relative image-directory paths with a relative ``images/`` prefix.
 
+    pymupdf4llm emits image paths rooted at the ``image_path`` we pass in. When
+    that path is absolute (as it is when the converter is invoked from
+    ``main()``), the emitted reference looks like
+    ``.../ingoldwetrust_library/markdown/2026/images/foo.png``; when relative,
+    it looks like ``markdown/2026/images/foo.png``. Both must collapse to
+    ``images/foo.png``.
+
+    The absolute prefix is replaced first (most specific, longest match); the
+    bare ``markdown/{year}/images/`` substitution that follows is anchored to
+    the path-start (the ``(`` opening the Markdown image reference) so it only
+    rewrites genuinely-relative paths and never a substring of an absolute one.
+    """
     # Normalise to forward-slash for comparison
     abs_fwd = abs_images_dir.replace("\\", "/")
     # Also handle the raw Windows backslash form
@@ -99,6 +115,13 @@ def fix_image_paths(md_text: str, abs_images_dir: str, year: str) -> str:
     md_text = md_text.replace(abs_bwd + "\\", "images/")
     md_text = md_text.replace(abs_fwd, "images")
     md_text = md_text.replace(abs_bwd, "images")
+
+    # Bare relative paths: "markdown/2026/images/..." -> "images/...".
+    # Anchor to the Markdown-image opening "(" so the substitution only matches
+    # a path *start* and never a substring of a still-absolute path.
+    md_text = re.sub(r"\(markdown/" + year + r"/images/", "(images/", md_text)
+    # Match a backslash-delimited relative path; each literal "\" is "\\" in a regex.
+    md_text = re.sub(r"\(markdown\\" + year + r"\\images\\", r"(images\\", md_text)
     return md_text
 
 
@@ -402,6 +425,13 @@ def convert_pdf(pdf_path: str, output_base: str, skip_if_done: bool = False) -> 
     print(f"  Processing: {filename}  (year {year})")
     print(f"{'=' * 60}")
 
+    # Select the pymupdf4llm extraction path. Layout mode (the default) does not
+    # honor ``image_size_limit``, so years in LEGACY_MODE_YEARS fall back to the
+    # legacy rag path that does. See LEGACY_MODE_YEARS docstring for details.
+    use_legacy = year in LEGACY_MODE_YEARS
+    pymupdf4llm.use_layout(not use_legacy)
+    print(f"  Mode  : {'legacy (rag)' if use_legacy else 'layout'}")
+
     images_dir = os.path.join(year_dir, "images")
     os.makedirs(images_dir, exist_ok=True)
 
@@ -471,6 +501,7 @@ def _convert_whole(pdf_path: str, year_dir: str, images_dir: str, year: str):
         pdf_path,
         write_images=True,
         image_path=images_dir,
+        image_size_limit=0.05,
     )
     md_text = fix_image_paths(md_text, images_dir, year)
 
@@ -586,6 +617,7 @@ def _convert_by_chapter(
             pages=page_numbers,
             write_images=True,
             image_path=images_dir,
+            image_size_limit=0.05,
         )
         md_text = fix_image_paths(md_text, images_dir, year)
 

@@ -53,6 +53,21 @@ that this effectively calls billions in India and China "uncivilised."
 The diagnosis has **deepened and institutionalized but not fundamentally changed**;
 the framing layer shifts:
 
+- **2009 — The myth-busting precursor.** The 2009 *Myths* series is the first
+  systematic engagement with gold's image problem, framed as "seven of the most
+  commonly raised issues" that "are just plain wrong." The myths enumerated are
+  the prototypes of every later psychological chapter: "gold is too expensive"
+  (reframed: it is the *currency* that falls, not gold that rises), "gold does
+  not pay interest" (reframed: dollar −95% purchasing power since 1913 vs gold
+  ×50; "overcompensates the lack of interest payments by preserving the value"),
+  "gold is only a crisis investment" (reframed via the 27x-since-1971 vs Dow
+  1,400% comparison), and — explicitly — "we should have overcome Keynes' notion
+  of gold as 'barbaric relic' at this stage." The 2009 introduction also notes
+  the propaganda reversal: gold investments "had been ridiculed as 'relic for
+  cowards' until very recently," with the FT's January 2008 "Gold is the new
+  global currency" headline cited as the recantation. The corpus-wide habit of
+  rebutting the "no interest / no yield" canard with the dollar's purchasing-
+  power loss originates here.
 - **2012 (Erste Group)** — Psychological/diagnostic. Cognitive dissonance, normalcy
   bias, confirmation bias, the aurophobia label. Tone is clinical ("pathological
   fear"). Focus on the individual investor's mind.
@@ -132,6 +147,9 @@ changed and heuristics have not yet caught up.
 
 ## Sources
 
+- [2009 — The Most Common Arguments, Myths, and Points of Criticism about Gold](../../markdown/2009/02_the_most_common_arguments_myths_and_points_of_criticism_about_gold.md)
+- [2009 — Myth # 3: Gold Does Not Pay Interest](../../markdown/2009/04_myth_3_gold_does_not_pay_interest.md)
+- [2009 — Myth # 7: Gold Is Only a Crisis Investment](../../markdown/2009/06_myth_7_gold_is_only_a_crisis_investment.md)
 - [2012 — Why Is Gold Such a Highly Emotional Topic?](../../markdown/2012/16_why_is_gold_such_a_highly_emotional_topic_cognitive_dissonance_and_normalcy_bias.md)
 - [2013 — Excursion: Reasons for 'Aurophobia'](../../markdown/2013/09_excursion_reasons_for_aurophobia.md)
 - [2024 — The Image Problem of Gold in the West](../../markdown/2024/15_the_image_problem_of_gold_in_the_west.md)

@@ -29,23 +29,75 @@ then the problems must be systemic" (2011).
 
 ## How the argument evolved
 
+- **2007–2009 — The pre-history.** The 2007 origin report is essentially silent
+  on sovereign debt as a structural problem (it focuses on supply/demand and
+  the dollar). The debt framing arrives in the 2008 *Gold and its Specific
+  Characteristics* chapter via the household-debt data (private household debt
+  up from USD 10 trn in 1987 to USD 28 trn, "almost 3.5 times GDP") and the
+  negative-real-rates thesis. The 2009 *Is Gold Pricing in the Coming Inflation?*
+  chapter is the first systematic debt treatment: US budget deficit up tenfold
+  since 1980 (USD 1.3 trn → USD 13.8 trn, +946.6%), public debt up 852%
+  (USD 667 bn → USD 6.36 trn), the household-debt-to-disposable-income ratio
+  rising from 65% (mid-80s) to 133% (2007), credit-card debt USD 200 bn (1990)
+  → USD 850 bn, and the projected 2009 deficit of USD 1.84 trn / 12.9% of GDP.
+  The "excessive debt wherever you go" framing — and the intuition that
+  governments facing the "agony of choice" between tax hikes, spending cuts, or
+  the printing press "will opt for the latter solution" — is already in place
+  two years before the 2011 codification.
 - **2011** — Post-GFC. US debt $14.3 trn, debt/GDP 93%, fiscal gap $200 trn
   (14x GDP). BIS declares policy "unsustainable." The exits are growth
   (impossible), austerity (politically impossible), inflation, depreciation, or
   financial repression — and gold wins in "practically all of these scenarios."
+- **2012** — **Financial repression named as the "alleged magic formula."** By
+  method of exclusion: austerity is electorally fatal (Bridgewater: spending cuts
+  >3% of GDP trigger unrest), tax hikes counterproductive, default unthinkable —
+  leaving financial repression as the politically palatable default. The full
+  toolkit is catalogued (Basel III/Solvency II zero-risk-weighting of sovereign
+  bonds, interest caps, capital controls, nationalisations, CPI manipulation,
+  the rising private-vs-sovereign financing-cost wedge). The post-war US precedent
+  is quantified via Reinhart/Sbrancia: debt/GDP cut from 116% (1945) to 66%
+  (1955) at avg inflation 4.2% and real rates −0.8% — but the authors warn the
+  comparison is misleading because the post-war boom, favourable demographics, and
+  low household debt all *aided* that liquidation. Warsh's "Windows of opportunity
+  had hardly ever been used to… implement structural reforms" is the skeptical
+  kicker.
 - **2013** — "Structural over-indebtedness" codified. Demographics identified as
   the biggest long-term challenge; the fiscal-gap concept (explicit + implicit
-  debt) is introduced.
+  debt) is introduced. The "putative solution" chapter sharpens the financial-
+  repression critique: savers lose ~EUR 100 bn/year to negative real rates across
+  23 countries (World Bank); the "home bias" is the explicit goal; the 1945–55
+  precedent is *rejected* for today because "today a twin deleveraging would be
+  hyper-deflationary" (public + private + bank debt all elevated). Concrete
+  policy proposals then in circulation — DIW compulsory bonds, BCG wealth levies
+  — are flagged as the next stage of dispossession.
 - **2014** — ZIRP consequences. Zombie banks/companies, asset bubbles, Cantillon
   redistribution, erosion of thrift. Central banks are "prisoners of the policy
   of over-indebtedness."
 - **2015** — Globalization of debt. McKinsey: global debt +$57 trn since 2007;
   deleveraging is a myth — governments accelerated borrowing (+9.3%/yr). China's
-  debt quadrupled ($7 trn → $28 trn).
+  debt quadrupled ($7 trn → $28 trn). The *Financial Repression: Escape Route
+  from Over-indebtedness?* chapter quantifies the cost: Swiss Re estimates US
+  savers alone lost USD 470 bn in interest income 2008–2013; US/EU insurers lost
+  a further EUR 360 bn — an annual "repression tax" of ~0.8% on all financial
+  assets. The "war against cash" is identified as financial repression's newest
+  pillar (Summers, Rogoff, Buiter, Bofinger publicly calling for cash abolition
+  to enable deep negative rates). Negative interest rates are framed as "Silvio
+  Gesell 2.0" — a revival of the *Freigeld* "dwindling money" doctrine that the
+  Austrian School had refuted: velocity of circulation does not create
+  prosperity, and the natural interest rate cannot be negative.
 - **2016** — **Financial repression codified.** The two pillars named: (1)
   artificially low/negative rates, (2) regulatory preference for government bonds
   (Basel III, Solvency II zero-capital treatment). The "creeping expropriation"
-  framing.
+  framing. The *Debt Haircut Ahead?* chapter weighs default vs inflation as the
+  exit: for sovereigns indebted in their own currency (US, Japan), inflation is
+  the near-certain choice (Japan would need a 5% primary surplus for 137 years to
+  repay — "as realistic as Fiji winning the World Cup"). For the eurozone — no
+  common fiscal authority, majority-rule ECB council, debt denominated in a
+  currency no single state controls — debt haircuts (à la Greece) are
+  "significantly more likely." Historical precedent reaches back to Mesopotamian
+  "jubilees" (30-year debt cancellations). The conclusion: "the only politically
+  palatable way is a flight forward: an aggressive reflation via rising nominal
+  prices."
 - **2020** — Covid as accelerant. The Fed balance sheet grew +$1.5 trn in three
   weeks ("$1 mn/second"). The IMF's proposals for deep negative rates: "the zero
   lower bound is not a law of nature; it is a policy choice."
@@ -109,6 +161,26 @@ then the problems must be systemic" (2011).
   1940s); restoring 51% implies ~$75,000/oz.
 - **2011:** "We expect gold to benefit in practically all of these scenarios."
 - **2024:** Q4 2023 — $1 of GDP growth bought with $2.50 of new debt.
+- **Post-war US debt liquidation (2012, Reinhart/Sbrancia):** US debt/GDP 116%
+  (1945) → 66% (1955); avg inflation 4.2%, real rates −0.8%; the "income from
+  financial repression" averaged 6.3% of GDP/yr. Australia's debt fell from
+  143.8% to 66.3% over the same window.
+- **Saver losses (2015, Swiss Re):** US savers lost USD 470 bn in interest income
+  2008–2013; US/EU insurers/beneficiaries lost EUR 360 bn more = ~0.8% annual
+  "repression tax" on all financial assets. EIOPA: 24% of insurers fail solvency
+  in a prolonged low-rate scenario.
+- **Japan's debt arithmetic (2014):** 17 years of ZIRP; debt service already 25%
+  of tax revenue; a 3-pp refinancing-cost rise would consume 100% of tax revenue.
+- **Debt-to-tax-revenue (2016):** US 340%, Germany 179%, Japan 685%. Japan would
+  need a 5% primary surplus for 137 years to repay.
+- **Warsh (2012):** "Windows of opportunity had hardly ever been used to decide
+  on, and implement, structural reforms." Every 1-pp of higher rates = +USD 1,000
+  bn to US debt service over 10 years.
+- **Somary (2012 epigraph):** "National bankruptcy is a one-off surgical
+  procedure, whereas inflation is an ongoing poisoning of the blood."
+- **Tilden (2016 epigraph):** "The natural remedies, if the credit-sickness be
+  far advanced, will always include a redistribution of wealth… the magnitude of
+  the bankruptcy will be proportionate to the magnitude of the debt debauch."
 
 ## Nuance
 
@@ -132,11 +204,18 @@ then the problems must be systemic" (2011).
 
 ## Sources
 
+- [2008 — Gold and its Specific Characteristics](../../markdown/2008/14_gold_and_its_specific_characteristics.md)
+- [2009 — Is Gold Pricing in the Coming Inflation?](../../markdown/2009/20_is_gold_pricing_in_the_coming_inflation.md)
 - [2011 — Guilt Without Atonement: Excessive Structural Debt](../../markdown/2011/02_guilt_without_atonement_excessive_structural_debt_suggests_further_appreciation_.md)
+- [2012 — Financial Repression: The Alleged Magic Formula](../../markdown/2012/08_financial_repression_the_alleged_magic_formula.md)
 - [2013 — Structural Over-indebtedness Argues for Continued Upward Revaluation of Gold](../../markdown/2013/16_structural_over_indebtedness_argues_for_continued_upward_revaluation_of_gold.md)
+- [2013 — Financial Repression: The Putative Solution to the Debt Crisis](../../markdown/2013/18_financial_repression_the_putative_solution_to_the_debt_crisis.md)
 - [2014 — The Consequences of Global Zero Interest Rate Policy](../../markdown/2014/12_the_consequences_of_global_zero_interest_rate_policy.md)
 - [2015 — Debt and Punishment](../../markdown/2015/05_debt_and_punishment.md)
+- [2015 — From Risk-Free Returns to Return-Free Risk](../../markdown/2015/04_from_risk_free_returns_to_return_free_risk.md)
+- [2015 — Financial Repression: Escape Route from Over-indebtedness?](../../markdown/2015/06_financial_repression_escape_route_from_over_indebtedness.md)
 - [2016 — Financial Repression: When the Grasping Hand of the State Runs Rampant](../../markdown/2016/29_financial_repression_when_the_grasping_hand_of_the_state_runs_rampant.md)
+- [2016 — Debt Haircut Ahead?](../../markdown/2016/31_debt_haircut_ahead.md)
 - [2020 — Financial Repression: Economic Reasons Come to the Fore](../../markdown/2020/17_financial_repression_economic_reasons_come_to_the_fore.md)
 - [2022 — Status Quo of Debt Dynamics](../../markdown/2022/04_status_quo_of_debt_dynamics.md)
 - [2024 — Status Quo of Debt Dynamics](../../markdown/2024/04_status_quo_of_debt_dynamics.md)

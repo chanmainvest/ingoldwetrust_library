@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "1176de4505dcf472",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1aaf64c1495d3d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2698781845bee69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "free-llm-wiki/nvidia-laguna/concepts/negative_real_interest_rates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "negative_real_interest_rates"
+            }
+          },
+          {
+            "id": "13ec58d0884c7adf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1a51108e5ee1e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "572fe7387e3a2ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e71042abaa2025",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b29132c2632079b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ec2ba495971f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ac565238b0277a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52a6b72ce38d49f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73203d0c60b5908b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8ca1cb1fc5a9bad0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "879fbbee9f5d344d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62bcb82b2f7a23f1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "438d2435961eb10e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "13ec58d0884c7adf",
+  "lastOpenFiles": [
+    "free-llm-wiki/nvidia-laguna/concepts/negative_real_interest_rates.md",
+    "free-llm-wiki/nvidia-laguna/log.md",
+    "free-llm-wiki/nvidia-laguna/index.md",
+    "free-llm-wiki/nvidia-laguna/concepts/us_dollar_reserve_currency_decline.md",
+    "free-llm-wiki/nvidia-laguna/concepts/triffin_dilemma.md",
+    "free-llm-wiki/nvidia-laguna/concepts/technical_analysis_as_investment_tool.md",
+    "free-llm-wiki/nvidia-laguna/concepts/tanzis_law_of_budget_deficits.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/wage_price_spiral_dynamics.md",
+    "free-llm-wiki/nvidia-laguna/concepts/stagflation_definition.md",
+    "free-llm-wiki/nvidia-laguna/concepts/seasonal_election_year_patterns.md",
+    "free-llm-wiki/nvidia-laguna/concepts/russias_de_dollarization_strategy.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/us_dollar_reserve_currency_status.md",
+    "free-llm-wiki/nvidia-laguna/concepts/price_increase_supply_shrinkage_spiral.md",
+    "free-llm-wiki/nvidia-laguna/concepts/optix_sentiment_indicator.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/triffin_dilemma.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/technical_analysis_as_investment_tool.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/survey_based_inflation_expectations_michigan.md",
+    "free-llm-wiki/nvidia-laguna/concepts/optix_index_sentiment_indicator.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/support_and_resistance_levels.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/stagflation_risk.md",
+    "free-llm-wiki/nvidia-laguna/concepts/negative_money_supply_growth.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/shadow_stats_alternative_inflation_measure.md",
+    "frontier-llm-wiki/anthropic-sonnet-5/concepts/second_inflation_wave_risk.md",
+    "free-llm-wiki/nvidia-laguna/concepts/multipolar_currency_system.md",
+    "free-llm-wiki/nvidia-laguna/concepts/monetary_tectonics.md",
+    "free-llm-wiki/nvidia-laguna/concepts/midas_touch_gold_model_signals.md",
+    "scripts/build_local_wiki.py.tmp.34976.a0c8e9cd0d4a",
+    "scripts/build_api_wiki.py.tmp.34976.ac5f1c60649d",
+    "scripts/build_local_wiki.py.tmp.34976.5eebdcf883a8",
+    "scripts/build_local_wiki.py.tmp.34976.b026819847de",
+    "scripts/build_local_wiki.py.tmp.34976.ad892ff18cf5",
+    "scripts/build_api_wiki.py.tmp.34976.bd2c22104741"
+  ]
+}

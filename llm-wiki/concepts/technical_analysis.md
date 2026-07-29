@@ -32,6 +32,18 @@ fundamental/macro work. The recurring toolkit:
 
 ## How the analysis evolved
 
+- **2007–2008 (Erste Group, origin reports)** — The 2007 origin report carries
+  the first dedicated technical section: an "intact upward trend since 2002,"
+  the gold-price history from the USD 875 all-time-high (Jan 27, 1980) through
+  the USD 255 low (2001), the immediate targets **USD 730** (prior year's high)
+  and **USD 875** (1980 nominal ATH), and the first inflation-adjusted chart
+  showing gold "still almost 160% from its highs of the beginning of the 1980s."
+  The 2008 follow-up retains the $2,300 inflation-adjusted anchor as the long-
+  run target with **USD 1,200** as the first intermediate target; the 2009
+  conclusion lifts the near-term target to **USD 1,300** while reaffirming
+  USD 2,300 as the end-of-cycle anchor. These Erste-era targets are the lineage
+  the later $4,800-by-2030 Incrementum call descends from (see
+  [gold_valuation](gold_valuation.md)).
 - **2009-2010 (Erste Group)** — The "current vs. last great bull market"
   comparison: the 1970s rally was a speculative blow-off (+2,000% in 10 years);
   the 2000s rally is a "lasting paradigm shift" — stepwise, "we have not seen the

@@ -49,6 +49,16 @@ The US monetary base has been "fully covered by US gold reserves twice in histor
 The SGP more than doubles across the period because of QE-driven base expansion.
 SGP snapshots: 1971 = $232; 1980 = $507; 2008 = $3,598; 2012 = $10,062.
 
+**First appearance (2011).** The SGP is introduced to the corpus in the 2011
+"Possible Targets" chapter with its full Bretton-Woods-lineage spelled out ("the
+way the exchange rate between paper and money was calculated during the Bretton
+Woods Agreement"), the 40%-coverage table (Federal Reserve Act of 1914 reference),
+and the "fully covered twice in history" chart — making 2011 the technical
+ground-zero for the model used in every later year. The 2011 chapter also stages
+the gold-as-debt-solution argument directly: "less than 2.6% of US government debt
+is covered by gold, which is clearly below the long-term median of 5%"; full
+coverage would require ~$57,000/oz.
+
 ### (b) Ratio analysis (relative valuation)
 Gold is always the numerator (a rising ratio = gold's relative strength). The
 explicit conclusion each year: gold is undervalued vs. financial assets and
@@ -69,13 +79,21 @@ ratio; gold/M3 → $8,300.
 The **1980 nominal peak of $850** is the anchor. Its inflation-adjusted value: the
 CPI-adjusted peak = **$2,481** (2016); the ShadowStats-adjusted (alternative
 inflation) peak = **~$13,177** (2016). The long-standing $2,300 target was first
-set in 2007 against this anchor.
+set in 2008 against this anchor; its **first published derivation** appears in the
+2010 chapter "Why the inflation-adjusted high of USD 2,300 is our target price,"
+which walks through the official-CPI ($2,300), ShadowStats ($7,494), and MZM
+(~$10,000) variants side by side, and notes the 1980 number was a "short-lived
+spike" (the January 1980 average of $675 would only require $1,897 today).
 
 ## Price targets over time
 
 | Year | Published target | Notes |
 |------|------------------|-------|
-| 2007 | **$2,300** (inflation-adjusted 1980 high) first set | Reaffirmed every year |
+| 2007 | First explicit target: **$730** (prior year's high), then $875 (1980 nominal ATH) | Origin report: targets *below* the 1980 nominal high; the inflation-adjusted gap ("160% from its highs") is introduced as context, not yet a target |
+| 2008 | **$1,200** first target, $2,300 inflation-adjusted ATH as long-run anchor | The $2,300 number is *born* here, derived from the 1980 $850 CPI-adjusted to today |
+| 2009 | **$1,300** first target; $2,300 reaffirmed as end-of-cycle target | "This would make our price target of USD 2,300 at the end of the cycle appear more realistic than ever" |
+| 2010 | **$1,600** (12-month); $2,300 long-term reaffirmed | The $2,300 is anchored to the inflation-adjusted 1980 high; $6,000 implied if gold matched the 1970s' 24x; the **parabolic-phase framing** enters here ("we expect the gold price to reach our long-term target price of USD 2,300 at the end of the cycle") |
+| 2011 | **$2,000** (12-month); $2,300 long-term; Shadow Gold Price ~$10,000 introduced | "We continue to expect the gold price to rise at least to the inflation-adjusted all-time-high of USD 2,300/ounce… Some historical comparisons suggest even higher spheres." 2011 is also where the authors first float $7,000-10,000 as the MZM/M1-coverage target |
 | 2012 | **$2,300**; cites $5,000-10,000 as "realistic"; a Pareto model yields a theoretical $8,300 by spring 2015 | "Prices between USD 5,000 and 10,000 seem realistic" |
 | 2013 | Probability-weighted scenario model → **$2,230** | First quantitative scenario model |
 | 2015 | **$2,300, with an explicit 3-year horizon (~mid-2018)** | First time a deadline was attached |
@@ -125,6 +143,13 @@ would need to rise by roughly an order of magnitude to regain a comparable share
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2008 — Conclusion and Outlook](../../markdown/2008/33_conclusion_and_outlook.md)
+- [2009 — Conclusion](../../markdown/2009/32_conclusion.md)
+- [2010 — Why the Inflation-Adjusted High of USD 2,300 Is Our Target Price](../../markdown/2010/05_why_the_inflation_adjusted_high_of_usd_2300_is_our_target_price.md)
+- [2010 — In What Phase of the Bull Market Are We?](../../markdown/2010/06_in_what_phase_of_the_bull_market_are_we.md)
+- [2011 — Possible Targets for the Gold Price](../../markdown/2011/10_possible_targets_for_the_gold_price.md)
+- [2011 — Why Gold Is (Still) No Bubble](../../markdown/2011/11_why_gold_is_still_no_bubble.md)
 - [2012 — On the Search for a Fair Value for Gold](../../markdown/2012/14_on_the_search_for_a_fair_value_for_gold.md)
 - [2013 — Approaches to Gold Price Valuation](../../markdown/2013/19_approaches_to_gold_price_valuation.md)
 - [2014 — Revaluation of Gold](../../markdown/2014/28_revaluation_of_gold.md)

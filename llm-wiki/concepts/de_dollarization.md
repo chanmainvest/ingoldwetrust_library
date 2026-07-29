@@ -31,6 +31,49 @@ better alternative.
 
 ## How the argument evolved
 
+- **2007–2009 — The pre-history.** The 2007 origin report already documents the
+  core driver — Asian current-account-surplus countries holding most reserves in
+  USD "are successively increasing the share of gold in their portfolios," with
+  China's PM Wen Jiabao publicly confirming gold would be bought "to hedge the
+  existing USD assets." The 2008 *Gold as Dollar Hedge* chapter is the first
+  dedicated treatment: oil producers and Islamic nations "criticise the US
+  dollar as world currency," Malaysia's gold-dinar project, Russia's gold-backed
+  rouble agitation, the dollar-index break of the 80 support ("heading towards
+  70"), and the first published "catch-up arithmetic" — to reach 15% gold
+  coverage China would need 7,200 t, Japan 6,850 t, the rest of Asia 6,000 t,
+  OPEC 1,500 t. The 2008 conclusion explicitly links the petrodollar dynamic:
+  "even if only a small percentage of the (petro) dollars gets funnelled into
+  gold investments, this will trigger another price leap." The 2009 *Gold Will
+  Continue to Benefit from Dollar Diversification* and *A New Gold Standard?*
+  chapters consolidate this — but a *dedicated* de-dollarization thread does not
+  yet exist; it remains a sub-theme of supply/demand and the dollar-hedge
+  argument until 2014.
+- **2010 (first dedicated chapter)** — "Gold in the Context of a New Global Lead
+  Currency." The earliest standalone treatment of dollar erosion as its own
+  subject. USD share of FX reserves had already fallen from 70% (1999) to 63%, with
+  a Reuters survey projecting ~48% in 20 years. The full catalogue of erosion
+  signals is assembled in one place: the *Economist's* 1988 "Phoenix" cover
+  predicting a world currency by 2018; the *Independent*'s report that China,
+  Russia, Japan and the Gulf states were planning a currency basket (yuan, yen,
+  rouble, euro, gold, commodities) for oil trade by 2018; the Iranian oil exchange
+  accepting everything except USD; Saudi Arabia withdrawing oil futures from NYMEX;
+  the Latin American currency union (Venezuela, Cuba, Nicaragua et al.); the Gulf
+  "Gulfo" plan (40% of global oil reserves, USD 1.2 trn GDP); China buying only
+  USD 62 bn of Treasuries in 2009; and the canary-in-the-coalmine credit signal —
+  2Y Treasuries yielding more than Berkshire Hathaway, P&G and Johnson & Johnson
+  paper. Already framed as "slow yet steady" diversification.
+- **2011 ("Adieu Exorbitant Privilege")** — The phrase **"exorbitant privilege"**
+  enters the corpus here (footnoted to Giscard d'Estaing's 1960s coinage). US GDP
+  has fallen to 25% of world output while the dollar still accounts for >60% of
+  reserves; the UN calls for SDRs to replace USD (dismissed as "derivatives on
+  derivatives"). Dominique Strauss-Kahn, Tim Geithner (briefly), Hu Jintao ("the
+  international currency system is a product of the past"), and Bernanke (blaming
+  China's currency policy) all weigh in. The Beijing-Moscow axis: the renminbi
+  listed on MICEX (Dec 2010, first RMB listing outside China/HK); the Shanghai
+  Cooperation Organization (which "accounts for a significant share of global gold
+  production") named as the institutional vehicle. This is the conceptual seed
+  later harvested by the 2014 "Good Bye Exorbitant Privilege" chapter and the 2026
+  "exorbitant burden" reframe.
 - **2014** — A side theme. Russia sells Treasuries; Gazprom Neft switches to
   euros; Putin calls the dollar "parasitic." Framed as gradual, multi-decade.
 - **2017** — First dedicated chapter; the systematic framework. Introduces the
@@ -139,6 +182,10 @@ better alternative.
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2008 — Gold as Dollar Hedge](../../markdown/2008/15_gold_as_dollar_hedge.md)
+- [2010 — Gold in the Context of a New Global Lead Currency](../../markdown/2010/09_gold_in_the_context_of_a_new_global_lead_currency.md)
+- [2011 — Adieu "Exorbitant Privilege"](../../markdown/2011/13_adieu_exorbitant_privilege.md)
 - [2014 — Good Bye Exorbitant Privilege](../../markdown/2014/23_good_bye_exorbitant_privilege.md)
 - [2017 — The De-dollarization: Good Bye Dollar, Hello Gold](../../markdown/2017/05_the_de_dollarization_good_bye_dollar_hello_gold.md)
 - [2018 — De-dollarization: From the Dollar to Gold via the Yuan and the Euro](../../markdown/2018/07_de_dollarization_from_the_dollar_to_gold_via_the_yuan_and_the_euro.md)

@@ -24,6 +24,16 @@ underreporting — accumulating far more than its disclosed tonnage.
 
 ## How the argument evolved
 
+- **2007 — The origin report.** The first IGWT report already flags China as
+  ascendant: ranked #4 in world mine production (224.1 t, behind only South
+  Africa, Australia, and the US), with output "increasing particularly
+  impressively" alongside Russia. The private-ownership liberalisation is
+  noted ("Private purchases of gold have recently become legal in China"),
+  with the prediction that this plus "the high savings ratio of the Chinese
+  population will probably also have an effect on demand and the gold price."
+  Premier Wen Jiabao's Sept 2006 FT interview confirming gold would be bought
+  to "hedge the existing USD assets" is also cited here, seeding the
+  reserve-diversification thesis that becomes central later.
 - **2008** — Almost entirely supply-side. China overtakes South Africa as the
   world's largest gold miner (276 t vs 272 t in 2007). The SGE (founded 2002) is
   a deregulation milestone; private ownership was illegal 1949–1982. Key claim:
@@ -130,6 +140,7 @@ underreporting — accumulating far more than its disclosed tonnage.
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
 - [2008 — The Chinese Gold Rush](../../markdown/2008/05_exkursus_the_chinese_gold_rush.md)
 - [2009 — Golden China](../../markdown/2009/14_golden_china.md)
 - [2010 — Chinese Gold Awakening After a Long Slumber](../../markdown/2010/10_chinese_gold_awakening_after_a_long_slumber.md)

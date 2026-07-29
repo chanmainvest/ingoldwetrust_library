@@ -32,6 +32,15 @@ deepen over time:
 
 ## How the argument evolved
 
+- **2007 — The origin report seeds the case.** The 2007 report frames gold as
+  "a natural hedge against inflationary tendencies" and "safe haven investment
+  instrument," and recommends avoiding large mining-share positions in favour of
+  physical/ETF exposure because "mining shares are about three times as volatile
+  as the spot price of gold." The 2009 *Myth #7: Gold Is Only a Crisis
+  Investment* chapter is the first systematic rebuttal of the diversification-
+  skeptic case, deploying the gold-vs-S&P-500-since-1971 chart (gold +27x vs
+  Dow +1,400%) and the 10Y correlation table positioning gold between cash and
+  US bonds as the low-correlation asset.
 - **2008 — Low-correlation argument established.** Gold/MSCI World = 0.022; "in
   crises an inverse relationship."
 - **2010 — "Gold is the optimal portfolio insurance."** Adds the event-hedge
@@ -121,6 +130,8 @@ deepen over time:
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2009 — Myth # 7: Gold Is Only a Crisis Investment](../../markdown/2009/06_myth_7_gold_is_only_a_crisis_investment.md)
 - [2008 — Gold as Diversification: Low Correlation to Other Asset Classes](../../markdown/2008/18_gold_as_diversification_low_correlation_to_other_asset_classes.md)
 - [2010 — Gold Is the Optimal Portfolio Insurance](../../markdown/2010/08_gold_is_the_optimal_portfolio_insurance.md)
 - [2014 — The Extraordinary Portfolio Characteristics of Gold](../../markdown/2014/17_the_extraordinary_portfolio_characteristics_of_gold.md)
