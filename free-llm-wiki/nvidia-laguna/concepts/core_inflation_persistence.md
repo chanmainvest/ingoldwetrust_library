@@ -1,18 +1,20 @@
 # Core Inflation Persistence
 
-Core inflation persistence refers to the tendency of underlying inflation pressures—stripped of volatile food and energy components—to remain elevated and resistant to central bank interventions. This phenomenon is significant because it signals that price pressures are deeply embedded in the economy, particularly within services sectors, challenging the effectiveness of conventional monetary policy and reshaping the investment case for assets like gold that historically perform well during periods of sustained inflationary stress.
+Core inflation persistence refers to the sustained elevation of inflation rates that exclude volatile food and energy prices, signaling underlying economic weakness that central banks struggle to tame. This concept has become a critical focus in recent investment analysis, as policymakers grapple with inflation that refuses to settle despite aggressive monetary tightening. The persistence of core measures suggests deeper structural issues in the economy that go beyond temporary supply chain disruptions or energy price shocks.
 
 ## How the argument evolved
 
-**2023** — The 2023 report highlighted a critical shift in inflation dynamics, noting that "core inflation, is now higher than the headline inflation rate." This observation marked a turning point in the analysis, as it revealed that while headline inflation might be moderating, the underlying price pressures were actually intensifying. The report further observed that "core inflation...shows a slight upward trend in the eurozone," suggesting that the foundational drivers of price increases were not only persistent but gaining momentum. This development underscored the limitations of policy responses that focused solely on headline figures, as core measures painted a more concerning picture of economic resilience.
+**2023** marked a pivotal shift in inflation analysis when the reports began highlighting that "core inflation, is now higher than the headline inflation rate." This observation signaled that while headline inflation might be moderating, the underlying price pressures were actually intensifying. The reports noted that core inflation "shows a slight upward trend in the eurozone," indicating that the fundamental drivers of price increases were gaining momentum rather than dissipating. This development suggested that central banks needed to look beyond headline figures to understand the true state of price stability.
 
-**2024** — By 2024, the narrative had evolved to emphasize the structural nature of elevated core inflation. The report confirmed that "core inflation remains above the 3% mark," indicating that central banks were grappling with inflation that had moved beyond transient shocks. A key insight from this year was the identification of the services sector as a primary source of stubbornness, with the report pointing to "stubbornly high inflation in the services sector" as a major obstacle to achieving price stability. This continuity from 2023 to 2024 reinforced the view that core inflation was not merely a temporary blip but a persistent feature of the economic landscape, demanding more sustained and targeted policy responses.
+**2024** continued this narrative by emphasizing that "core inflation remains above the 3% mark," even as headline inflation declined. The reports identified "stubbornly high inflation in the services sector" as the primary culprit behind this persistence. This evolution in the analysis revealed that the services sector had become the new epicenter of inflationary pressure, with wage growth and pricing power in services creating a self-reinforcing cycle that was difficult to break. The distinction between headline and core inflation became increasingly important as policymakers recognized that the services component was proving more resistant to monetary tightening than other sectors.
+
+The progression from 2023 to 2024 shows how the analysis of core inflation evolved from simply noting its higher level than headline inflation to identifying specific sectoral pressures that were driving persistent price increases. This evolution underscores the complexity of modern inflation dynamics and the need for more nuanced policy responses.
 
 ## See also
 
+- Central Bank Gold Accumulation
 - Gold as Inflation Hedge
 - Negative Real Interest Rates
-- Monetary Policy and Inflation Risk
 - Gold-Inflation Correlation
 - Base Effect on Inflation
 

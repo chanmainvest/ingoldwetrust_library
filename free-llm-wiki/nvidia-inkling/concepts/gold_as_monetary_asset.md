@@ -1,22 +1,20 @@
 # Gold As Monetary Asset
 
-Gold as a monetary asset is the analytical lens through which the *In Gold We Trust* reports examine the metal, deliberately separating it from industrial-commodity classifications. Rather than measuring gold by manufacturing or jewelry demand, the reports treat it as a form of money, a framing that underpins the holistic sector analysis presented each year. This distinction is not incidental; it defines the report’s methodology and shapes how readers are expected to interpret price dynamics, central-bank behavior, and macroeconomic risk.
+Gold occupies a unique position in economic analysis when it is treated not as an industrial input but as a core monetary asset, a distinction that lies at the heart of the *In Gold We Trust* report series. Rather than measuring gold through the lens of manufacturing consumption or commodity cycles, the reports construct a holistic sector analysis that evaluates its monetary properties—reserve status, currency dynamics, and systemic-risk characteristics. This framing is significant because it redirects the reader away from conventional supply-demand commodity metrics and toward a framework in which gold functions as a financial anchor. By insisting on this boundary, the reports establish an interpretive foundation that shapes every subsequent evaluation of market conditions and sector performance.
 
 ## How the argument evolved
 
-**2014** marked the eighth installment of the series, and the authors used the introduction to restate their foundational premise. "In our eighth “In Gold We Trust” report, we want to once again take a sober look," they wrote, signaling continuity with prior editions. That continuity was explicit: "As readers of our annual report know, we analyze gold primarily as a monetary asset" "and not as an industrial commodity." By anchoring the analysis in this monetary framing, the report offered holistic sector analysis that looked past commodity-market mechanics and toward gold’s role within the broader financial architecture.
+In **2014**, the report entered its eighth year with a clear reaffirmation of this methodological stance. The authors reminded their audience that "As readers of our annual report know, we analyze gold primarily as a monetary asset" and immediately qualified this by stating "and not as an industrial commodity." This pairing was not incidental; it defined the analytical perimeter for the entire volume. The introduction further noted that "In our eighth “In Gold We Trust” report, we want to once again take a sober look," signaling continuity with prior editions while reinforcing that the sober assessment would be conducted through a monetary, rather than commodity, lens. The holistic sector analysis promised in this opening was therefore explicitly decoupled from industrial-use narratives, establishing gold's monetary identity as the report's organizing principle.
 
-By **2015**, the framing had become even more deliberate. The introduction no longer merely reminded readers of the report’s habit; it explicitly declared the analytical boundary. "Readers of our annual report know that we analyze gold primarily" as a monetary asset, and the text sharpened the distinction by stating that "we analyze gold primarily as a monetary asset and not as a commodity." The shift from reminder to explicit framing shows the concept hardening into a formal methodological rule—one that insists gold be evaluated through a monetary lens rather than through the supply-and-demand logic typical of industrial raw materials.
-
-That progression—from restating a long-held view in **2014** to codifying it as an explicit analytical mandate in **2015**—demonstrates how the reports have consistently defended gold’s monetary identity. The repetition across editions reinforces that this is not a passing theme but the central organizing principle of the corpus.
+The following year, **2015**, saw this framing sharpened into an unambiguous declaration. The report opened by stating that "we analyze gold primarily as a monetary asset and not as a commodity," removing any residual ambiguity about the analytical category in play. The authors again invoked institutional memory—"Readers of our annual report know that we analyze gold primarily"—suggesting that the monetary-asset thesis had become a defining signature of the publication rather than a provisional assumption. Where 2014 had introduced the distinction as part of a broader sector overview, 2015 presented it as the explicit foundation upon which the report's logic rested. Together, these years trace a progression from reaffirmation to crystallization: the monetary-asset concept evolved from a familiar methodological reminder into the central, explicit framework governing the report's holistic analysis.
 
 ## See also
 
 - Central Bank Gold Accumulation
 - Monetary vs Price Inflation
 - Austrian Business Cycle Theory
-- Rothbard's Three Inflation Phases
 - Incrementum Inflation Signal
+- Gold Bull Market Performance
 
 ## Sources
 

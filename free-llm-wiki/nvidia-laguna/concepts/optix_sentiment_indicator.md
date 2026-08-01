@@ -1,26 +1,24 @@
 # Optix Sentiment Indicator
 
-The Optix Sentiment Indicator is a proprietary metric used by the In Gold We Trust report to gauge market sentiment toward gold investments. By tracking the collective mood of investors and market participants, the indicator serves as a contrarian tool—rising optimism can signal caution, while neutral readings may suggest opportunity. Its significance lies in providing a systematic way to anticipate shifts in gold's price trajectory by identifying when public opinion becomes overly bullish or bearish.
+The Optix Sentiment Indicator is a proprietary metric used within the In Gold We Trust reports to gauge market sentiment toward gold through the analysis of media coverage, news flows, and public discourse. By tracking the balance between bullish and bearish commentary on gold, the indicator serves as a contrarian tool—when sentiment reaches extreme levels, it often signals a potential reversal. Its significance lies in its ability to capture the emotional pulse of the market, offering investors insight into whether public opinion is forming a consensus that could act as a counter-indicator to price movements.
 
 ## How the argument evolved
 
-**2019** marked the initial documentation of the Optix Sentiment Index within the report's technical analysis framework. At that time, the index was observed at 46, which the authors described as "a neutral level of market sentiment." The report emphasized that "if public opinion forms a strong consensus, this broad consensus is a good counter-indicator," establishing the foundational premise that extreme sentiment readings should be approached with caution.
+**2019** marked the initial documentation of the Optix Sentiment Index in the In Gold We Trust corpus, where it was introduced as a key gauge of market psychology. At that time, the index stood at 46, which the report described as "a neutral level of market sentiment." The authors noted that "If public opinion forms a strong consensus, this broad consensus is a good counter-indicator," highlighting the contrarian nature of the tool. This early presentation established the Optix as a barometer of collective market mood rather than a traditional technical indicator.
 
-In **2020**, the indicator showed markedly different behavior, climbing to 60. The report noted that "currently, the Optix is trading at 60 and thus in optimistic territory," suggesting growing bullish sentiment toward gold. However, the authors maintained their contrarian stance, warning that "if the Optix Index rises above the red dotted line at 75 points, it is time to be more cautious." This year demonstrated the indicator's utility in identifying when optimism was approaching dangerous levels.
+By **2020**, the Optix Index had climbed to 60, reflecting a shift toward more optimistic sentiment surrounding gold. The report observed that "Currently, the Optix is trading at 60 and thus in optimistic territory," while also cautioning that the index approached a critical threshold at 75 points. The authors warned, "If the Optix Index rises above the red dotted line at 75 points, it is time to be more cautious," introducing a clear warning mechanism for investors monitoring sentiment extremes.
 
-The **2021** iteration revealed the index at 70, firmly in "optimistic territory" according to the report's assessment. The same cautionary threshold was reiterated: "if the Optix Index rises above the red dotted line at 75 points, it is time to become more cautious." This consistency in methodology across years reinforced the indicator's reliability as a sentiment gauge, while the proximity to the 75-point danger zone suggested that market exuberance might be reaching unsustainable heights.
+In **2021**, the Optix Index reached 70, maintaining its position in the optimistic zone but still just below the caution level. The report reiterated the earlier warning: "If the Optix Index rises above the red dotted line at 75 points, it is time to become more cautious," while noting that "Currently, the Optix Index stands at 70 and is thus in optimistic territory." This continuity in messaging underscored the consistency of the indicator’s framework and its role in tracking evolving market psychology over time.
 
-By **2024**, the Optix indicator had retreated to 64, which the report characterized as "still in neutral territory." This represented a significant shift from the previous year's elevated optimism, illustrating the indicator's capacity to capture changing market dynamics. The observation that it was "therefore still in neutral territory" highlighted how the metric could signal a return to balanced sentiment after periods of extreme positioning.
-
-Throughout these years, the Optix Sentiment Indicator evolved from a simple gauge of market mood to a sophisticated contrarian tool that helps investors navigate the psychological currents that drive gold prices.
+The most recent iteration in **2024** saw the Optix indicator at 64, which the report characterized as "still in neutral territory." The statement, "The monthly Optix currently stands at 64," paired with the observation that it remains neutral, suggests a period of consolidation in sentiment. This return to a middle ground after years of fluctuation highlights the dynamic nature of the indicator and its responsiveness to changing macroeconomic narratives.
 
 ## See also
 
-- Negative Real Interest Rates
-- Gold as Inflation Hedge
-- Gold Price Technical Analysis
 - Gold as Safe Haven Asset
+- Negative Real Interest Rates
+- Gold Price Technical Analysis
 - Gold vs Other Asset Classes
+- Monetary Policy and Inflation Risk
 
 ## Sources
 

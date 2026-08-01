@@ -1,18 +1,18 @@
 # Gold/Silver Ratio Analysis
 
-The Gold/Silver ratio is a technical indicator that measures how many ounces of silver it takes to buy one ounce of gold, serving as a key gauge of relative value and market sentiment between the two precious metals. Its significance lies in revealing whether silver is undervalued or overvalued compared to gold, and whether the broader precious metals market is experiencing bullish or bearish momentum. By tracking deviations from historical norms, investors can identify potential entry or exit points and gauge the health of the metals complex.
+The Gold/Silver ratio is a key technical indicator that measures how many ounces of silver it takes to buy one ounce of gold, serving as a barometer for relative strength between the two precious metals. This analysis examines how the In Gold We Trust reports have interpreted the ratio's movements across multiple market cycles, revealing its evolving role as both a contrarian signal and a gauge of broader monetary and inflation dynamics.
 
 ## How the argument evolved
 
-**2012** marked the beginning of a measured assessment, with the report noting that the Gold/Silver ratio stood at 56x, "marginally above the median of 55x," suggesting that "over a historical 40-year time horizon silver is fairly valued." This baseline established the ratio as a tool for evaluating relative strength, with expectations that "silver to show clear relative strength" in the coming period.
+**2012** marked the beginning of a nuanced understanding of the ratio's significance, with the report noting that "At the moment, the ratio is about 56x and thus only marginally above the median of 55x." This positioning suggested that silver was "fairly valued" over a historical 40-year horizon, while the authors maintained that "silver is fairly valued" and expected it to "show clear relative strength." The 2012 analysis established the ratio as a mean-reverting indicator, with deviations from the 55x median signaling potential opportunities.
 
-By **2018**, the analysis had evolved to emphasize the ratio's role as a directional signal. The report articulated that "a sustainable increase in the gold price is unlikely to happen in tandem with an increase in the gold/silver ratio," and that "a falling gold/silver ratio significantly increases the probability of a bull market in gold." This marked a shift toward viewing the ratio not just as a valuation metric but as a predictor of broader market trends, with a falling ratio indicating "a positive outlook for gold, and on the other hand rising inflation momentum."
+By **2018**, the framework had evolved to emphasize the ratio's predictive power for broader market conditions. The report articulated that "a sustainable increase in the gold price is unlikely to happen in tandem with an increase in the gold/silver ratio," establishing a clear inverse relationship between the ratio's movement and gold's bullish trajectory. Most significantly, it stated that "A falling gold/silver ratio significantly increases the probability of a bull market in gold," while also linking ratio declines to "rising inflation momentum." This year crystallized the ratio as a dual signal: bullish for gold while indicating strengthening inflationary pressures.
 
-In **2019**, the focus turned to extreme readings, as the ratio climbed to "historically extreme levels around 87." The analysis highlighted that "the ratio of 88 clearly shows that sentiment in the precious metals space is currently at rock bottom," and noted the possibility that "it seems that the ratio wants to test the highs from 2008 at around 87." This period underscored the ratio's ability to signal when market pessimism had reached its nadir.
+The **2019** edition introduced the concept of extreme readings as contrarian indicators, observing that the ratio had reached "historically extreme levels around 87." The analysis suggested that "The ratio of 88 clearly shows that sentiment in the precious metals space is currently at rock bottom," positioning the extreme reading as a potential buying opportunity for silver. The report noted the ratio's desire "to test the highs from 2008 at around 87," framing these extremes as sentiment-driven mispricings rather than fundamental valuations.
 
-**2020** brought a new development with the ratio reaching "a new all-time high," which the report interpreted as providing "a clear buy signal for silver." The analysis cautioned that "reversal of this bullish signal would only occur if there were a further strong rise," framing the ratio as both a trigger for action and a dynamic threshold for market conviction.
+In **2020**, the ratio's all-time high became a focal point, with the report documenting that "gold/silver ratio (GSR) reached a new all-time high" and explicitly stating that "GSR has provided a clear buy signal for silver." This marked a transition from theoretical analysis to actionable trading signals, with the reversal condition clearly defined: "reversal of this bullish signal would only occur if there were a further strong rise." The 2020 analysis demonstrated increasing confidence in using the ratio as a tactical indicator.
 
-By **2026**, the narrative had circled back to mean reversion, with the ratio turning at 43.57, described as indicating "a weak silver performance and potential consolidation toward 82." The report suggested this could "theoretically push the ratio back toward 82," completing a full cycle from overvaluation to undervaluation and back toward historical equilibrium, reinforcing the ratio's enduring utility as a long-term analytical framework.
+The **2026** perspective introduced a more complex dynamic, noting that "The gold/silver ratio turned precisely at 43.57" and interpreting this as indicating "a weak silver performance and potential consolidation." Unlike previous years that focused on extreme highs, this analysis addressed the lower end of the spectrum, suggesting that "a move that will take considerably more time" could "theoretically push the ratio back toward 82." This represents an evolution toward recognizing that both extreme highs and lows can signal different market phases, with the ratio potentially oscillating across its historical range for extended periods.
 
 ## See also
 
@@ -20,7 +20,6 @@ By **2026**, the narrative had circled back to mean reversion, with the ratio tu
 - Negative Real Interest Rates
 - Gold Price Technical Analysis
 - Gold vs Other Asset Classes
-- Gold as Safe Haven Asset
 
 ## Sources
 

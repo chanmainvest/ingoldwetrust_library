@@ -1,29 +1,29 @@
 # Incrementum Inflation Signal
 
-The Incrementum Inflation Signal is a proprietary market-based indicator designed to measure how monetary inflation transmits to the real economy. Developed by Incrementum, it aggregates various quantitative factors—including the Gold-Silver Ratio—to create what the reports describe as a "monetary seismograph." This tool serves as a critical guide for investment allocations, particularly in inflation-sensitive assets, and has evolved significantly since its introduction in 2014 as analysts track shifting economic dynamics across multiple years.
+The Incrementum Inflation Signal is a proprietary market-based indicator designed to measure the transmission of monetary inflation into the real economy. Developed by Incrementum, it aggregates various quantitative factors—including the Gold-Silver Ratio—to create what the reports describe as a "monetary seismograph." This tool serves as a critical guide for investment allocations, particularly in inflation-sensitive assets, and has evolved significantly over time to reflect changing economic conditions and the authors' growing emphasis on gold's role as an inflation hedge.
 
 ## How the argument evolved
 
-**2014** marked the inception of the Incrementum Inflation Signal as a "proprietary market-based seismograph" to measure "how much monetary inflation actually reaches the real economy." The methodology combined "a number of market-based indicators" including the Gold-Silver Ratio, resulting in a "proprietary signal" that functioned like a "monetary seismograph."
+**2014** marked the conceptual foundation with the introduction of a "monetary seismograph" to gauge how monetary inflation reaches the real economy. The report emphasized using "a number of market-based indicators" and specifically mentioned the Gold-Silver Ratio as part of the measurement framework.
 
-By **2015**, the framework matured into a "proprietary measure combining market-based indicators to track monetary inflation reaching the real economy," with the measurement result explicitly named the "Incrementum Inflation Signal." At that time, analysts noted "the risk/reward ratio for investments in inflation-sensitive assets is especially attractive at present."
+By **2015**, the concept was formalized as the "Incrementum Inflation Signal," described as "a proprietary measure combining market-based indicators to track monetary inflation reaching the real economy." The authors noted that "the risk/reward ratio for investments in inflation-sensitive assets is especially attractive at present."
 
-**2016** saw the signal provide actionable insights, indicating "for the first time in 24 months the Incrementum Inflation Signal indicates that a full-fledged inflation trend is underway." This represented a significant shift, as the team had "developed a proprietary inflation signal which we use as a guide for investment allocations."
+**2016** saw the signal provide its first significant indication of a full-fledged inflation trend: "For the first time in 24 months the Incrementum Inflation Signal indicates that a full-fledged inflation trend is underway." This represented a key milestone in the signal's evolution as a predictive tool.
 
-In **2018**, the focus expanded to include gold, silver, and commodity markets, with the team explaining they "monitor special indicators on the financial markets from which we distill the Incrementum Inflation Signal." At that time, the signal showed "a rising inflation tendency at a signal strength of 50%."
+In **2018**, the signal was refined to monitor "special indicators on the financial markets" with a current reading of "50%" indicating "a rising inflation tendency." The authors stressed its importance for determining whether an inflationary environment had emerged.
 
-**2020** refined the approach further, developing a "proprietary inflation signal with which we analyse the current inflation trend." The report noted that "inflation-sensitive investments such as gold, silver, commodities, and gold mining stocks had a strong 2019," validating the signal's predictive value.
+**2020** expanded the analytical framework to include "gold, silver, commodities, and gold mining stocks," with the signal serving as a guide for assessing "the current inflation trend." The report highlighted that "inflation-sensitive investments such as gold, silver, commodities, and gold mining stocks had a strong 2019."
 
-**2022** emphasized the signal's role in strategic planning, describing it as "a key input factor for our inflation-protection strategies." The analysis suggested "the turnaround in inflationary movement probably took place during the course of the Covid-19 crisis," marking a significant inflection point.
+**2022** identified a significant shift during the "Covid-19 crisis," noting that "the turnaround in inflationary movement probably took place during the course of the Covid-19 crisis." The signal became "a key input factor for our inflation-protection strategies."
 
-By **2026**, the signal demonstrated renewed activity, with "the Incrementum Inflation Signal has recently jumped from neutral to offensive." This "first offensive signal reading in around a year" indicated "indications are increasing that inflationary tendencies are once again gaining relevance."
+By **2026**, the signal had moved from neutral to offensive, indicating "renewed inflationary tendencies" and marking "the first offensive signal reading in around a year," suggesting that "inflationary tendencies are once again gaining relevance."
 
 ## See also
 
 - Gold as Inflation Hedge
 - Negative Real Interest Rates
-- Gold-Inflation Correlation
-- Monetary Policy and Inflation Risk
+- Gold Price Technical Analysis
+- Gold vs Other Asset Classes
 
 ## Sources
 

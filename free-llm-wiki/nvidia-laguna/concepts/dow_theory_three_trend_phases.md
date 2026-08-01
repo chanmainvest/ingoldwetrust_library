@@ -4,17 +4,14 @@ The Dow Theory identifies three distinct phases that markets pass through during
 
 ## How the argument evolved
 
-**2019** introduced the foundational structure of the theory, noting that "Dow divided each trend into 3 different phases." The report detailed the first phase as the "Accumulation phase: In this first phase, the most informed, astute, and contrarian investors buy." This phase is characterized by informed investors quietly building positions while prices remain relatively stable. The second phase, termed "Public participation phase," is described as a period where "Prices are starting to rise slowly," marking the transition from institutional accumulation to broader market involvement.
+**2019** marked the initial articulation of the theory within the report corpus, where the text explicitly noted that "Dow divided each trend into 3 different phases." The first phase, accumulation, was characterized as a period where "the most informed, astute, and contrarian investors buy." This was followed by the public participation phase, described as a time when "Prices are starting to rise slowly." The 2019 analysis established the foundational structure of how market trends unfold through these distinct behavioral stages.
 
-**2020** reinforced and refined this understanding, explicitly naming the framework as "three trend phases that were formulated by Charles Dow theory." The report maintained consistency in defining the accumulation phase, again highlighting that "In this first phase, the most informed, astute, and contrarian investors buy." The participation phase was similarly characterized by the observation that "Prices are starting to rise slowly," emphasizing the gradual market-wide engagement that follows initial institutional accumulation. While the core framework remained unchanged, the 2020 treatment provided additional clarity by explicitly attributing the phases to Charles Dow's original formulation, strengthening the theoretical foundation for readers.
+**2020** revisited and reinforced this framework, referring to the concept as "three trend phases that were formulated by Charles Dow theory." The report maintained consistency in its description of the accumulation phase, again emphasizing that it involves "the most informed, astute, and contrarian investors buy." The participation phase was similarly characterized, with the text noting that "Prices are starting to rise slowly." While the core structure remained unchanged, the 2020 treatment appeared to solidify the terminology and perhaps integrate it more fully into the broader technical analysis discussion.
 
 ## See also
 
-- Gold as Safe Haven Asset
 - Gold Price Technical Analysis
-- Negative Real Interest Rates
-- Gold vs Other Asset Classes
-- Monetary Policy and Inflation Risk
+- Gold as Safe Haven Asset
 
 ## Sources
 

@@ -71,17 +71,23 @@ def flush_cuda(py: str):
 
 
 def run_model(py: str, model_id: str, out: str, chapters: str,
-              resume: bool) -> int:
+              resume: bool, agent_loop: bool = False,
+              max_refinements: int = 5, min_rating: str = "GOOD") -> int:
     print("\n" + "=" * 72)
     print(f"BUILDING  {model_id}")
-    print(f"  -> {out}  (chapters={chapters}, resume={resume})")
+    print(f"  -> {out}  (chapters={chapters}, resume={resume}, "
+          f"agent_loop={agent_loop})")
     print("=" * 72, flush=True)
     cmd = [py, "-u", "scripts/build_local_wiki.py",
            "--model-id", model_id,
            "--output-dir", out,
-           "--chapters", chapters]
+           "--chapters", chapters,
+           "--synthesize"]
     if resume:
         cmd.append("--resume")
+    if agent_loop:
+        cmd += ["--agent-loop", "--max-refinements", str(max_refinements),
+                "--min-rating", min_rating]
     env = os.environ.copy()
     env["PYTHONUNBUFFERED"] = "1"
     t0 = time.time()
@@ -123,6 +129,22 @@ def gather_stats(out_dir: str) -> dict:
     if jsonl.exists():
         n_chapters = sum(1 for line in jsonl.read_text(encoding="utf-8").splitlines()
                          if line.strip())
+    # convergence stats from the agent loop (synthesis_meta.jsonl)
+    meta_path = p / "synthesis_meta.jsonl"
+    mean_iters = converged = n_meta = 0
+    if meta_path.exists():
+        import json as _json
+        rows = []
+        for line in meta_path.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                try:
+                    rows.append(_json.loads(line))
+                except Exception:
+                    pass
+        n_meta = len(rows)
+        if n_meta:
+            mean_iters = sum(r.get("iterations", 0) for r in rows) / n_meta
+            converged = sum(1 for r in rows if r.get("converged"))
     return {
         "out": out_dir,
         "chapters": n_chapters,
@@ -131,6 +153,9 @@ def gather_stats(out_dir: str) -> dict:
         "years_covered": len(years),
         "chars": total_chars,
         "avg_chars": total_chars // max(n_concepts, 1),
+        "mean_iters": mean_iters,
+        "converged": converged,
+        "n_meta": n_meta,
     }
 
 
@@ -153,6 +178,17 @@ def print_comparison(stats_by_slug: dict):
         for slug in stats_by_slug:
             row += f"  {stats_by_slug[slug][key]:>12,d}"
         print(row)
+    # convergence rows (only meaningful for agent-loop runs)
+    if any(s.get("n_meta") for s in stats_by_slug.values()):
+        print("-" * len(hdr))
+        for key, label, fmt in [("mean_iters", "mean refine iters", ".2f"),
+                                ("converged", "pages reached min_rating", "d"),
+                                ("n_meta", "pages in agent loop", "d")]:
+            row = f"{label:28s}"
+            for slug in stats_by_slug:
+                v = stats_by_slug[slug].get(key, 0)
+                row += f"  {v:>12{('.' + fmt) if '.' in fmt else ''}}"
+            print(row)
     print("\nSee local-llm-wiki/<model>/index.md for each model's catalog.")
 
 
@@ -167,6 +203,12 @@ def main():
                     help="Run only one model (default: both, E4B then E2B).")
     ap.add_argument("--fresh", action="store_true",
                     help="Wipe the model's output dir before building.")
+    ap.add_argument("--agent-loop", action="store_true",
+                    help="Use the evaluator-optimizer agent loop for pass-3 "
+                         "(synthesize -> evaluate -> refine).")
+    ap.add_argument("--max-refinements", type=int, default=5)
+    ap.add_argument("--min-rating", choices=["EXCELLENT", "GOOD", "FAIR"],
+                    default="GOOD")
     args = ap.parse_args()
 
     targets = [m for m in MODELS if not args.model or m["slug"] == args.model]
@@ -181,7 +223,10 @@ def main():
                 shutil.rmtree(out)
         if i > 0:
             flush_cuda(py)
-        run_model(py, m["model_id"], m["out"], args.chapters, args.resume)
+        run_model(py, m["model_id"], m["out"], args.chapters, args.resume,
+                  agent_loop=args.agent_loop,
+                  max_refinements=args.max_refinements,
+                  min_rating=args.min_rating)
 
     stats = {m["slug"]: gather_stats(m["out"]) for m in targets}
     print_comparison(stats)

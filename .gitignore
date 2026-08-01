@@ -229,3 +229,8 @@ markdown/*/images/
 # Free LLM-Wiki API keys (never commit)
 *.nvapi*
 local_api_keys.py
+
+# fast-agent runtime (contains keys in config, transient session logs)
+fastagent.config.yaml
+fast-agent.config.yaml
+.fast-agent/

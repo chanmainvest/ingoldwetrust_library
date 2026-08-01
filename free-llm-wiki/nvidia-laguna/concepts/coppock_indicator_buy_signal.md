@@ -1,21 +1,21 @@
 # Coppock Indicator Buy Signal
 
-The Coppock indicator is a momentum oscillator used in technical analysis to identify long-term buy signals for stocks and other assets. Originally developed by Edwin Coppock in 1956, it calculates a weighted sum of price momentum over a 14- and 28-month period, plus a 3-month rate of change. When the indicator transitions from negative to positive territory, it signals a potential bull market onset. In the context of gold investing, the Coppock indicator has been closely watched as a contrarian tool that can help time major market turning points, particularly during prolonged bear markets.
+The Coppock indicator is a momentum oscillator used in technical analysis to identify long-term buy signals for stocks and other financial assets. Originally developed by Edwin Coppock in 1909, it calculates a weighted sum of price momentum over a 14- and 28-month period, smoothed with a 10-month moving average. In the context of gold investing, the Coppock indicator has been closely watched as a contrarian tool that signals the end of bear markets and the beginning of new bull runs. Its significance lies in its ability to capture long-term market psychology, making it a valuable complement to fundamental analysis of gold's role as both a monetary metal and an inflation hedge.
 
 ## How the argument evolved
 
-**2021** marked a significant milestone in the report's treatment of the Coppock indicator, noting that "The Coppock indicator generated a longterm buy signal at the end of 2015." This early signal was presented as a bullish sign, with the report emphasizing that "conditions for the continuation of the new bull market seem excellent from a technical perspective." The 2021 analysis positioned the Coppock buy signal as a reliable predictor of sustained upward momentum in gold prices, aligning with broader technical analysis frameworks that were gaining traction among institutional investors.
+**2021** marked a pivotal moment in the report's treatment of the Coppock indicator, as it highlighted that the tool had generated a long-term buy signal at the end of 2015. The report emphasized that "conditions for the continuation of the new bull market seem excellent from a technical perspective," positioning the Coppock signal as validation for the ongoing gold bull market that began in the aftermath of the 2015 oil crash and subsequent monetary easing. This early analysis framed the indicator not merely as a timing tool but as a confirmation mechanism for broader macroeconomic trends affecting gold's attractiveness.
 
-By **2023**, the report's perspective had evolved to incorporate a more nuanced interpretation of the indicator's signals. While acknowledging that "The Coppock indicator is still on buy," the analysis introduced the concept of divergence as a cautionary factor. The report noted that "The Coppock indicator is still on buy but has formed a small divergence with the price," suggesting that while the fundamental signal remained intact, the technical relationship between the indicator and price action warranted closer attention. This represented a maturation in the report's analytical approach, moving from simple signal confirmation to more sophisticated pattern recognition.
+By **2023**, the report's analysis had evolved to acknowledge a more nuanced picture. While the Coppock indicator remained on buy signal, it had "formed a small divergence with the price," introducing a note of caution into the otherwise bullish technical framework. The report reminded readers that "A buy signal is triggered when the indicator changes from negative to positive terrain," but the persistence of divergence suggested that momentum might be losing steam despite the still-positive reading. This represented a maturation in the report's approach—moving from pure signal confirmation to incorporating warning signs that could precede a trend reversal.
 
-In **2026**, the analysis continued to track the Coppock indicator's persistent buy signal status, but with increased emphasis on the divergence pattern. The report stated that "The Coppock indicator remains at a buy signal," while also noting "though it has formed a divergence from the price." This evolution shows how the report's treatment of the indicator has become more sophisticated over time, recognizing that a buy signal alone is insufficient without considering the broader technical context and potential warning signs embedded in divergence patterns.
+In **2026**, the analysis continued to track the Coppock indicator's persistent buy signal status, yet again noting that it "has formed a divergence from the price." This repetition across multiple years underscored a critical insight: the Coppock indicator's buy signal, while still active, had become less reliable as a standalone predictor. The consistent mention of divergence suggested that the report's authors were increasingly viewing the indicator as part of a broader technical mosaic rather than a definitive oracle, reflecting a more sophisticated understanding of how technical tools interact with evolving market dynamics.
 
 ## See also
 
 - Gold Price Technical Analysis
 - Negative Real Interest Rates
 - Gold as Inflation Hedge
-- Gold Price Seasonality
+- Central Bank Gold Accumulation
 
 ## Sources
 

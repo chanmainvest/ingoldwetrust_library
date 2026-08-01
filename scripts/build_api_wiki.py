@@ -295,6 +295,16 @@ def main():
     ap.add_argument("--synthesize", action="store_true",
                     help="After pass-2, run pass-3: rewrite each concept page "
                          "as a synthesized narrative via the API model.")
+    ap.add_argument("--agent-loop", action="store_true",
+                    help="Manual evaluator-optimizer loop (same contract as "
+                         "the local builder) for pass-3. Comparable metric.")
+    ap.add_argument("--fast-agent", action="store_true",
+                    help="Use fast-agent's native evaluator_optimizer "
+                         "workflow for pass-3 (API models only). Mutually "
+                         "exclusive with --agent-loop.")
+    ap.add_argument("--max-refinements", type=int, default=5)
+    ap.add_argument("--min-rating", choices=["EXCELLENT", "GOOD", "FAIR"],
+                    default="GOOD")
     args = ap.parse_args()
 
     if args.model:
@@ -344,12 +354,117 @@ def main():
                     promoted[slug] = cl
             if not promoted:
                 print("[pass3] no promoted concepts to synthesize", flush=True)
+            elif args.fast_agent:
+                # Native fast-agent evaluator-optimizer workflow (API only).
+                run_pass3_fastagent(args.output_dir, promoted, args.provider,
+                                    model, args.max_refinements, args.min_rating)
+            elif args.agent_loop:
+                # Manual loop with the SAME contract as the local builder, so
+                # the convergence metric is comparable across all models.
+                def gen_fn(system, user):
+                    return chat_complete(client, model, system, user,
+                                         provider=provider)
+                def eval_fn(system, user):
+                    return chat_complete(client, model, system, user,
+                                         provider=provider)
+                print(f"[pass3-loop] fast-agent OFF; manual loop "
+                      f"max_refinements={args.max_refinements} "
+                      f"min_rating={args.min_rating}", flush=True)
+                bl.run_pass3_agent_loop(
+                    args.output_dir, promoted, gen_fn, eval_fn,
+                    max_refinements=args.max_refinements,
+                    min_rating=args.min_rating,
+                    batch_label=f"{provider}/{model}")
             else:
                 def call_fn(system, user):
                     return chat_complete(client, model, system, user,
                                          provider=provider)
                 bl.run_pass3_synthesize(args.output_dir, promoted, call_fn,
                                         batch_label=f"{provider}/{model}")
+
+
+def run_pass3_fastagent(out_dir, promoted, provider, model, max_refinements,
+                        min_rating):
+    """Native fast-agent evaluator-optimizer workflow (API models only).
+
+    Builds a FastAgent app with a synthesizer + evaluator agent wired to the
+    configured provider/model, then runs evaluator_optimizer per cluster.
+    fast-agent returns only the final synthesized string, so we re-score once
+    at the end to capture the rating for the convergence metric. Writes the
+    same synthesis_meta.jsonl as the manual loop path.
+    """
+    import asyncio
+    import json as _json
+    from fast_agent import FastAgent
+
+    out = Path(out_dir)
+    concepts_dir = out / "concepts"
+    meta_path = out / "synthesis_meta.jsonl"
+    # Map provider -> fast-agent model namespace (anthropic.X / openai.X)
+    ns = {"anthropic": "anthropic", "openai": "openai", "nvidia": "openai"}[provider]
+    fa_model = f"{ns}.{model}"
+    print(f"[pass3-fastagent] model={fa_model} max_refinements={max_refinements} "
+          f"min_rating={min_rating}", flush=True)
+
+    fast = FastAgent("wiki-synth-loop")
+
+    @fast.agent(name="synthesizer", instruction=bl.SYNTH_SYSTEM, model=fa_model)
+    async def synthesizer():
+        ...
+
+    @fast.agent(name="evaluator", instruction=bl.EVAL_SYSTEM, model=fa_model)
+    async def evaluator():
+        ...
+
+    @fast.evaluator_optimizer(
+        name="synth_loop", generator="synthesizer", evaluator="evaluator",
+        min_rating=min_rating, max_refinements=max_refinements,
+    )
+    async def synth_loop():
+        ...
+
+    async def _run():
+        async with fast.run() as agent:
+            with open(meta_path, "w", encoding="utf-8") as fmeta:
+                n = len(promoted)
+                for i, (slug, cluster) in enumerate(sorted(promoted.items()), 1):
+                    title = cluster["title"]
+                    siblings = [cl["title"] for cl in promoted.values()
+                                if cl["title"] != title][:12]
+                    prompt = bl.build_synth_prompt(cluster, siblings)
+                    try:
+                        md = await agent.synth_loop.send(prompt)
+                    except Exception as e:
+                        print(f"  [fa {i}/{n}] {title}: FAILED ({e})",
+                              flush=True)
+                        rec = {"slug": slug, "title": title, "iterations": max_refinements,
+                               "final_rating": None, "reason": str(e)[:200],
+                               "converged": False}
+                        fmeta.write(_json.dumps(rec, ensure_ascii=False) + "\n")
+                        fmeta.flush(); continue
+                    # re-score to capture the rating (fast-agent hides it)
+                    try:
+                        ev = await agent.evaluator.send(
+                            bl.build_eval_prompt(cluster, md))
+                    except Exception:
+                        ev = ""
+                    rating, reason = bl.parse_rating(ev)
+                    ok = (f"# {title}" in md and "## Sources" in md)
+                    if ok:
+                        (concepts_dir / f"{slug}.md").write_text(
+                            md.strip() + "\n", encoding="utf-8")
+                    min_level = bl.RATING_ORDER.get(min_rating.upper(), 2)
+                    converged = bool(rating and bl.RATING_ORDER[rating] >= min_level)
+                    rec = {"slug": slug, "title": title,
+                           "iterations": max_refinements,  # fast-agent hides actual count
+                           "final_rating": rating, "reason": reason,
+                           "converged": converged}
+                    fmeta.write(_json.dumps(rec, ensure_ascii=False) + "\n")
+                    fmeta.flush()
+                    print(f"  [fa {i}/{n}] {title}: rating={rating} "
+                          f"converged={converged}", flush=True)
+
+    asyncio.run(_run())
 
 
 if __name__ == "__main__":

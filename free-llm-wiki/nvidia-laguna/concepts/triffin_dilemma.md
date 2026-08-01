@@ -1,22 +1,22 @@
 # Triffin Dilemma
 
-The Triffin Dilemma articulates a fundamental contradiction faced by nations issuing global reserve currencies: balancing domestic economic stability with the international obligation to supply sufficient foreign exchange reserves. This structural tension, identified by economist Robert Triffin in the 1960s, arises because a reserve currency issuer must run persistent current account deficits to meet global demand for its currency, yet such deficits undermine confidence in the currency's long-term value. The dilemma became a cornerstone argument in understanding the eventual collapse of the Bretton Woods system and continues to shape analysis of dollar dominance and de-dollarization efforts today.
+The Triffin Dilemma describes the inherent conflict faced by nations issuing global reserve currencies, where domestic economic stability clashes with the international community's need for adequate supply of the reserve currency. This paradox creates systemic instability, as the issuing nation must run persistent current account deficits to supply foreign demand for its currency, undermining confidence in its long-term viability. The concept, articulated by economist Robert Triffin in the 1960s, remains central to understanding the vulnerabilities of dollar dominance and the ongoing shift toward de-dollarization.
 
 ## How the argument evolved
 
-**2016** established the foundational framework of the dilemma, emphasizing the inherent conflict between domestic and international objectives for reserve currency issuers. The report explained that "a nation that issues a global reserve currency is subject to a conflict of interests," noting that "Stability: a currency is only stable if the issuer's current account is in balance" while simultaneously requiring "Provision of a sufficient supply of the reserve currency to the world: In order to supply the international demand for the reserve currency, the issuing nation has to have a current account deficit." This tension between needing deficits for international supply yet requiring surpluses for stability formed the core structural problem.
+**2016** — The report first articulated the core tension, noting that "a nation that issues a global reserve currency is subject to a conflict of interests." It explained that "Stability: a currency is only stable if the issuer's current account is in balance," while simultaneously requiring "a nation that issues a global reserve currency... has to have a current account deficit" to meet international demand. This set the stage for understanding why reserve currency issuers face structural contradictions.
 
-**2020** revisited this dilemma in the context of de-dollarization, highlighting how Triffin's warning had manifested in practice. The report documented that "Robert Triffin appeared before the US Congress and warned that there were already more US dollars in circulation abroad than were covered by US gold reserves," illustrating the practical consequences of the dilemma. It argued that "the national interests of the country printing the reserve currency would eventually conflict with the interests of the international community using the reserve currency," leading to the conclusion that "Robert Triffin was right. So, in 1971, US President Richard Nixon simply suspended the gold convertibility of the US dollar." This marked the historical resolution of the gold standard dilemma through dollar detachment.
+**2020** — The analysis deepened by connecting Triffin's warning to concrete historical outcomes. It recounted how "Robert Triffin appeared before the US Congress and warned that there were already more US dollars in circulation abroad than were covered by US gold reserves," highlighting the unsustainable nature of the system. The report concluded that "the national interests of the country printing the reserve currency would eventually conflict with the interests of the international community using the reserve currency," leading to the 1971 decision where "US President Richard Nixon simply suspended the gold convertibility of the US dollar."
 
-**2021** reframed the dilemma for the modern era, suggesting that the "exorbitant privilege" of dollar dominance would eventually become a burden, as Triffin had predicted. The report connected this enduring structural problem to contemporary developments like Europe's increased gold purchases and China's digital currency initiatives, positioning these as responses to the same fundamental tension that has plagued reserve currency systems throughout the post-war period.
+**2021** — The discussion shifted to contemporary implications, framing the dilemma as an inevitable burden. It stated plainly: "We know from Robert Triffin that the 'exorbitant privilege' will eventually become a burden," linking the historical insight to current de-dollarization trends as Europe increases gold purchases and China advances digital currency initiatives.
 
 ## See also
 
 - Central Bank Gold Accumulation
 - Gold as Inflation Hedge
 - Negative Real Interest Rates
-- Gold Price Technical Analysis
-- Gold vs Other Asset Classes
+- Gold as Safe Haven Asset
+- Monetary Policy and Inflation Risk
 
 ## Sources
 

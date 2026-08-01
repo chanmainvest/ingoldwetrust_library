@@ -699,6 +699,158 @@ def run_pass3_synthesize(out_dir, promoted, call_fn, batch_label=""):
 
 
 # ----------------------------------------------------------------------------
+# Pass 3 (agent-loop variant): synthesize -> evaluate -> refine, with a
+# quality gate and an iteration cap. The loop contract is shared: it takes a
+# generator_fn and an evaluator_fn (both (system, user) -> str). The local
+# builder supplies them by closing over `generate()`; build_api_wiki.py can
+# either close over chat_complete() (manual loop) or drive fast-agent's native
+# evaluator_optimizer and feed results into this same logging/metadata path.
+# ----------------------------------------------------------------------------
+
+EVAL_SYSTEM = (
+    "You are a strict wiki-page evaluator for the 'In Gold We Trust' "
+    "knowledge base. You judge a synthesized concept page against a rubric "
+    "and return ONLY a compact JSON verdict. You never fabricate quotes."
+)
+
+EVAL_USER_TMPL = """Evaluate the synthesized wiki page below for the concept "{title}".
+
+RUBRIC — the page is EXCELLENT if it meets ALL of these, GOOD if it meets most with minor gaps, FAIR if partially done, POOR if largely missing:
+1. Opens with a thesis paragraph defining the concept.
+2. Has a `## How the argument evolved` section walking the years chronologically.
+3. Embeds at least 2 SHORT verbatim phrases quoted from the source notes (these must appear, character-for-character, in the supplied notes — flag any fabricated quote).
+4. Has a `## See also` section (may be empty if no siblings fit).
+5. Has a `## Sources` section listing EXACTLY these links, one per line, unchanged:
+{expected_sources}
+6. No invented facts, numbers, or quotes beyond the notes.
+7. Coherent, synthesized prose (NOT a bullet list of per-chapter notes).
+
+SOURCE NOTES available to the page (the only legitimate evidence):
+{notes}
+
+PAGE TO EVALUATE:
+\"\"\"
+{page}
+\"\"\"
+
+Reply with ONLY this JSON, no prose:
+{{"rating": "EXCELLENT|GOOD|FAIR|POOR", "needs_improvement": true|false, "reason": "one short sentence", "focus": "what to fix in the next refinement, or null"}}
+"""
+
+RATING_ORDER = {"POOR": 0, "FAIR": 1, "GOOD": 2, "EXCELLENT": 3}
+
+
+def build_eval_prompt(cluster, page_md):
+    """Build the evaluator user-prompt for one cluster + candidate page."""
+    cits = sorted(cluster["citations"], key=lambda c: (c["year"], c["chapter"]))
+    notes = []
+    expected = []
+    seen = set()
+    for c in cits:
+        quotes = " | ".join(f'"{q}"' for q in c["quotes"][:3]) if c["quotes"] else ""
+        notes.append(f"- **{c['year']} — {c['chapter']}**: {c['summary']}  {quotes}".strip())
+        if c["rel"] not in seen:
+            seen.add(c["rel"])
+            expected.append(f"  - [{c['year']} — {c['chapter']}]({c['rel']})")
+    return EVAL_USER_TMPL.format(
+        title=cluster["title"],
+        expected_sources="\n".join(expected),
+        notes="\n".join(notes),
+        page=page_md,
+    )
+
+
+def parse_rating(eval_text):
+    """Extract {rating, reason} from the evaluator's JSON reply. Falls back to
+    a textual scan if JSON is malformed. Returns (rating_str|None, reason|None)."""
+    parsed = parse_json_obj(eval_text)
+    if parsed and isinstance(parsed.get("rating"), str):
+        r = parsed["rating"].strip().upper()
+        if r in RATING_ORDER:
+            return r, parsed.get("reason")
+    # textual fallback: look for the first valid rating word
+    for word in re.findall(r"[A-Z]{4,}", (eval_text or "").upper()):
+        if word in RATING_ORDER:
+            return word, None
+    return None, None
+
+
+def run_pass3_agent_loop(out_dir, promoted, generator_fn, evaluator_fn,
+                         max_refinements=5, min_rating="GOOD", batch_label=""):
+    """Agent loop: per cluster, synthesize -> evaluate -> refine until the
+    page reaches `min_rating` OR `max_refinements` iterations elapse. Writes
+    the best page and logs {slug, title, iterations, final_rating, reason} to
+    synthesis_meta.jsonl. Returns (n_pages, n_converged, mean_iters)."""
+    out = Path(out_dir)
+    concepts_dir = out / "concepts"
+    all_titles = [cl["title"] for cl in promoted.values()]
+    n = len(promoted)
+    meta_path = out / "synthesis_meta.jsonl"
+    min_level = RATING_ORDER.get(min_rating.upper(), RATING_ORDER["GOOD"])
+    best_written = 0
+    converged = 0
+    iter_sum = 0
+    with open(meta_path, "w", encoding="utf-8") as fmeta:
+        for i, (slug, cluster) in enumerate(sorted(promoted.items()), 1):
+            title = cluster["title"]
+            siblings = [t for t in all_titles if t != title][:12]
+            synth_prompt = build_synth_prompt(cluster, siblings)
+            best_md, best_rating, best_reason = None, None, None
+            iters = 0
+            critique = None
+            while iters < max_refinements:
+                iters += 1
+                user = synth_prompt if critique is None else (
+                    synth_prompt + "\n\n--- PRIOR EVALUATOR FEEDBACK (address this) ---\n" + critique)
+                try:
+                    md = generator_fn(SYNTH_SYSTEM, user)
+                except Exception as e:
+                    print(f"  [loop {i}/{n}] {title}: gen FAILED iter {iters} ({e})",
+                          flush=True)
+                    critique = f"Generation failed: {e}"; break
+                if f"# {title}" not in md or "## Sources" not in md:
+                    print(f"  [loop {i}/{n}] {title}: malformed iter {iters}",
+                          flush=True)
+                    critique = "Output missing required sections (# title, ## Sources)."; continue
+                try:
+                    eval_text = evaluator_fn(EVAL_SYSTEM, build_eval_prompt(cluster, md))
+                except Exception as e:
+                    print(f"  [loop {i}/{n}] {title}: eval FAILED iter {iters} ({e})",
+                          flush=True)
+                    # keep the page; can't rate it further
+                    best_md = md; best_rating = best_rating or "FAIR"; break
+                rating, reason = parse_rating(eval_text)
+                critique = eval_text.strip()[:400] if not reason else reason
+                level = RATING_ORDER.get(rating, 0)
+                # track the best version seen
+                if best_md is None or level > RATING_ORDER.get(best_rating or "", -1):
+                    best_md, best_rating, best_reason = md, (rating or "FAIR"), reason
+                print(f"  [loop {i}/{n}] {title}: iter {iters}/{max_refinements} "
+                      f"-> {rating}", flush=True)
+                if rating and RATING_ORDER[rating] >= min_level:
+                    break  # quality gate met
+            # write best version + metadata
+            if best_md is not None:
+                (concepts_dir / f"{slug}.md").write_text(best_md.strip() + "\n",
+                                                         encoding="utf-8")
+                best_written += 1
+            iter_sum += iters
+            final_level = RATING_ORDER.get(best_rating or "", 0)
+            if final_level >= min_level:
+                converged += 1
+            rec = {"slug": slug, "title": title, "iterations": iters,
+                   "final_rating": best_rating, "reason": best_reason,
+                   "converged": final_level >= min_level}
+            fmeta.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            fmeta.flush()
+    mean_iters = iter_sum / n if n else 0
+    print(f"[pass3-loop] {best_written}/{n} pages written; "
+          f"{converged}/{n} reached {min_rating}; mean iters {mean_iters:.2f} "
+          f"({batch_label})", flush=True)
+    return best_written, converged, mean_iters
+
+
+# ----------------------------------------------------------------------------
 # CLI
 # ----------------------------------------------------------------------------
 
@@ -718,6 +870,17 @@ def main():
     ap.add_argument("--synthesize", action="store_true",
                     help="After pass-2, run pass-3: rewrite each concept page "
                          "as a synthesized narrative via the model.")
+    ap.add_argument("--agent-loop", action="store_true",
+                    help="Use the evaluator-optimizer agent loop for pass-3 "
+                         "(synthesize -> evaluate -> refine) instead of a "
+                         "single forward pass. Local models run a manual loop "
+                         "around generate(); API models use fast-agent natively.")
+    ap.add_argument("--max-refinements", type=int, default=5,
+                    help="Max refine iterations per concept page (agent loop).")
+    ap.add_argument("--min-rating", choices=["EXCELLENT", "GOOD", "FAIR"],
+                    default="GOOD",
+                    help="Quality gate: stop refining a page once the "
+                         "evaluator rates it at or above this level.")
     args = ap.parse_args()
 
     chapters = list_chapters(args.chapters)
@@ -764,12 +927,26 @@ def main():
                 tok, model = load_model(args.model_id,
                                         quantize=not args.no_quantize)
 
-                def call_fn(system, user):
+                def gen_fn(system, user):
                     text, _, _ = generate(tok, model, user, system,
                                           max_new_tokens=1500)
                     return text
-                run_pass3_synthesize(args.output_dir, promoted, call_fn,
-                                     batch_label=args.model_id)
+                # the local evaluator reuses the same model (same GPU); for a
+                # fair API comparison the API builder may use a second model.
+                def eval_fn(system, user):
+                    text, _, _ = generate(tok, model, user, system,
+                                          max_new_tokens=300)
+                    return text
+                if args.agent_loop:
+                    print(f"[pass3-loop] max_refinements={args.max_refinements} "
+                          f"min_rating={args.min_rating}", flush=True)
+                    run_pass3_agent_loop(
+                        args.output_dir, promoted, gen_fn, eval_fn,
+                        max_refinements=args.max_refinements,
+                        min_rating=args.min_rating, batch_label=args.model_id)
+                else:
+                    run_pass3_synthesize(args.output_dir, promoted, gen_fn,
+                                         batch_label=args.model_id)
 
 
 if __name__ == "__main__":
