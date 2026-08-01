@@ -45,22 +45,22 @@ investing** → **the voices**.
 
 | Concept | Focus | Sources |
 |---------|-------|---------|
-| [**Gold as money**](concepts/gold_as_money.md) | The theoretical case: the stock-to-flow argument, the regression theorem, the 1971 Nixon shock, and the remonetization thesis. The philosophical foundation. | 8 |
-| [**Supply, demand & peak gold**](concepts/supply_demand.md) | Why gold isn't a normal commodity — peak gold, the stock-to-flow inversion of supply, the "great fallacy of high gold demand," and CB/ETF dominance in the 2020s. | 10 |
-| [**The "Status Quo" framework**](concepts/status_quo_framework.md) | The recurring annual diagnostic — a multi-pillar triangulation across currencies, equities, bonds, debt, inflation, demand. The structured "situation report." | 12 |
-| [**Gold valuation & price targets**](concepts/gold_valuation.md) | How to value a no-cash-flow asset — ratio analysis, the Shadow Gold Price (monetary-base backing), the $2,300 target's history, and the 1934 revaluation precedent. | 8 |
+| [**Gold as money**](concepts/gold_as_money.md) | The theoretical case: the stock-to-flow argument, the regression theorem, the 1971 Nixon shock, and the remonetization thesis. The philosophical foundation. | 13 |
+| [**Supply, demand & peak gold**](concepts/supply_demand.md) | Why gold isn't a normal commodity — peak gold, the stock-to-flow inversion of supply, the "great fallacy of high gold demand," and CB/ETF dominance in the 2020s. | 11 |
+| [**The "Status Quo" framework**](concepts/status_quo_framework.md) | The recurring annual diagnostic — a multi-pillar triangulation across currencies, equities, bonds, debt, inflation, demand. The structured "situation report." | 14 |
+| [**Gold valuation & price targets**](concepts/gold_valuation.md) | How to value a no-cash-flow asset — ratio analysis, the Shadow Gold Price (monetary-base backing), the $2,300 target's history, and the 1934 revaluation precedent. | 11 |
 | [**Jastram's Golden Constant & the Austrian School**](concepts/golden_constant_austrian_school.md) | Gold's five centuries of purchasing-power stability (Jastram); "inflationary deflation"; money creation, the Cantillon effect, and deflation as cure not disease (Austrian framework). | 5 |
 
 ### The macro drivers
 
 | Concept | Focus | Sources |
 |---------|-------|---------|
-| [**Monetary policy & inflation**](concepts/monetary_policy_inflation.md) | The inflation-vs-deflation debate, the Austrian School framing, real interest rates as the true gold driver, and the "monetary tectonics" model. The analytical backbone. | 10 |
-| [**Sovereign debt & financial repression**](concepts/sovereign_debt.md) | Structural over-indebtedness, why it's mathematically irreversible, and why governments resort to financial repression — making gold the primary beneficiary. | 10 |
+| [**Monetary policy & inflation**](concepts/monetary_policy_inflation.md) | The inflation-vs-deflation debate, the Austrian School framing, real interest rates as the true gold driver, and the "monetary tectonics" model. The analytical backbone. | 24 |
+| [**Sovereign debt & financial repression**](concepts/sovereign_debt.md) | Structural over-indebtedness, why it's mathematically irreversible, and why governments resort to financial repression — making gold the primary beneficiary. | 14 |
 | [**Hyperinflation & the crack-up boom**](concepts/hyperinflation.md) | Hyperinflation as a distinct regime (the Cagan/Hanke 50%-monthly threshold), the Misesian crack-up boom, the Weimar/Zimbabwe/Venezuela cases — treated as a tail risk, not a forecast. | 4 |
 | [**War on cash & CBDCs**](concepts/war_on_cash_cbdc.md) | Cash as the last exit from fiat; why abolishing it is the prerequisite for deep negative rates; the "Σ 0 ∞ € ¥" money metamorphosis; gold and Bitcoin as escape valves. | 6 |
-| [**De-dollarization**](concepts/de_dollarization.md) | The structural erosion of USD reserve status and gold's re-emergence as the neutral reserve asset of a multipolar order. The 2014→2026 arc, to the 2026 inversion where the US itself ends the standard. | 10 |
-| [**Empire & the monetary order**](concepts/empire_monetary_order.md) | The long-arc narrative (Bretton Woods → 1971 → multipolar reset), the Rome analogy, the "acceleration" thesis, and wealth in an "unsustainable system." | 4 |
+| [**De-dollarization**](concepts/de_dollarization.md) | The structural erosion of USD reserve status and gold's re-emergence as the neutral reserve asset of a multipolar order. The 2014→2026 arc, to the 2026 inversion where the US itself ends the standard. | 13 |
+| [**Empire & the monetary order**](concepts/empire_monetary_order.md) | The long-arc narrative (Bretton Woods → 1971 → multipolar reset), the Rome analogy, the "acceleration" thesis, and wealth in an "unsustainable system." | 7 |
 | [**Exter's Pyramid, Plaza 2.0 & the Heartland**](concepts/exter_pyramid_heartland.md) | The deflationary counter-narrative: the inverted debt pyramid, the Exter-vs-Mises tension, Plaza Accord 2.0, and Mackinder's Heartland applied monetarily. | 5 |
 | [**Petrodollar & the oil-gold nexus**](concepts/petrodollar_oil_gold.md) | The gold/oil ratio as purchasing-power gauge (~7x to 42x); petrodollar recycling; India-paying-Iran-in-gold; the signs of erosion. | 4 |
 | [**Demographics, generations & the commodity supercycle**](concepts/demographics_generations.md) | Why demographics turned inflationary; Strauss-Howe Fourth Turning + Turchin; the Millennial handoff; the capex/commodity bull. | 3 |
@@ -70,26 +70,26 @@ investing** → **the voices**.
 
 | Concept | Focus | Sources |
 |---------|-------|---------|
-| [**Central bank gold**](concepts/central_bank_gold.md) | The flip from net selling to record net buying, the West-to-East physical flow, the repatriation wave, and the "six vectors of remonetization." | 8 |
-| [**China & gold**](concepts/china_gold.md) | China's systematic accumulation (open via the SGE, covert via the PBoC), the cultural "love affair," and the system-rivalry dimension. | 8 |
-| [**India & Eastern gold demand**](concepts/india_eastern_demand.md) | India's ~35,000 t household hoard, the "golden love trade," the West-to-East flow, and the rise of Eastern hubs (SGE, Dubai, IIBX) challenging LBMA. | 8 |
-| [**Gold mining stocks**](concepts/gold_mining_stocks.md) | The "problem child" redemption arc: chronic underperformance, creative destruction, royalty/streaming's superiority, and the 2026 vindication. | 10 |
-| [**Portfolio diversification**](concepts/portfolio_diversification.md) | Gold's low/negative correlation, drawdown protection, the "anti-fragile" framing, optimal-allocation studies (2%→25%), and the 2026 "renaissance." | 9 |
-| [**Silver**](concepts/silver.md) | Silver as high-beta-to-gold; the gold/silver ratio as a monetary barometer; solar/AI demand; the structural-deficit thesis. | 8 |
+| [**Central bank gold**](concepts/central_bank_gold.md) | The flip from net selling to record net buying, the West-to-East physical flow, the repatriation wave, and the "six vectors of remonetization." | 9 |
+| [**China & gold**](concepts/china_gold.md) | China's systematic accumulation (open via the SGE, covert via the PBoC), the cultural "love affair," and the system-rivalry dimension. | 9 |
+| [**India & Eastern gold demand**](concepts/india_eastern_demand.md) | India's ~35,000 t household hoard, the "golden love trade," the West-to-East flow, and the rise of Eastern hubs (SGE, Dubai, IIBX) challenging LBMA. | 9 |
+| [**Gold mining stocks**](concepts/gold_mining_stocks.md) | The "problem child" redemption arc: chronic underperformance, creative destruction, royalty/streaming's superiority, and the 2026 vindication. | 13 |
+| [**Portfolio diversification**](concepts/portfolio_diversification.md) | Gold's low/negative correlation, drawdown protection, the "anti-fragile" framing, optimal-allocation studies (2%→25%), and the 2026 "renaissance." | 11 |
+| [**Silver**](concepts/silver.md) | Silver as high-beta-to-gold; the gold/silver ratio as a monetary barometer; solar/AI demand; the structural-deficit thesis. | 9 |
 | [**ESG & responsible mining**](concepts/esg_responsible_mining.md) | ESG as a capital-allocation gatekeeper, the tension with rising gold demand, and the counter-intuitive "gold as ESG-positive" thesis. | 10 |
-| [**Technical analysis & price targets**](concepts/technical_analysis.md) | The 1970s-bull-market comparison, "Quo vadis, aurum?" price targets, the Coppock curve, and the Active Aurum Signal. | 11 |
-| [**Incrementum's proprietary models**](concepts/proprietary_models.md) | The four house models in one place: the Inflation Signal, the SEGPM (S&P+1.5oz vs M2), the Active Aurum Signal, and the Midas Touch Gold Model. | 11 |
-| [**Manipulation & intervention**](concepts/manipulation_intervention.md) | The manipulation-vs-intervention distinction, paper-vs-physical divergence, the LBMA fractional-reserve structure, and the 2016 Deutsche Bank settlements. | 7 |
-| [**Gold storage & custody**](concepts/gold_storage_custody.md) | The jurisdiction fact-checking series, allocated vs unallocated, confiscation history (1933 et al.), and the modern threat model (surveillance, capital controls). | 5 |
+| [**Technical analysis & price targets**](concepts/technical_analysis.md) | The 1970s-bull-market comparison, "Quo vadis, aurum?" price targets, the Coppock curve, and the Active Aurum Signal. | 16 |
+| [**Incrementum's proprietary models**](concepts/proprietary_models.md) | The four house models in one place: the Inflation Signal, the SEGPM (S&P+1.5oz vs M2), the Active Aurum Signal, and the Midas Touch Gold Model. | 23 |
+| [**Manipulation & intervention**](concepts/manipulation_intervention.md) | The manipulation-vs-intervention distinction, paper-vs-physical divergence, the LBMA fractional-reserve structure, and the 2016 Deutsche Bank settlements. | 8 |
+| [**Gold storage & custody**](concepts/gold_storage_custody.md) | The jurisdiction fact-checking series, allocated vs unallocated, confiscation history (1933 et al.), and the modern threat model (surveillance, capital controls). | 6 |
 | [**Tokenization & digital gold**](concepts/tokenization_digital_gold.md) | Gold tokenization — from 2019 skepticism ("not your vault, not your gold") to the 2026 "sixth vector of remonetization." The counterparty-risk tension. | 4 |
 | [**Bitcoin vs. gold**](concepts/bitcoin_vs_gold.md) | The "digital gold" debate and Hayekian competing-currencies framing — rivalry vs. complement; the case for holding both as hedges against fiat debasement. | 9 |
-| [**Gold's image problem & psychology**](concepts/image_psychology.md) | Why gold is underallocated: aurophobia, normalcy bias, cognitive dissonance, career risk, the "barbarous relic" inheritance, and the Overton window. | 4 |
+| [**Gold's image problem & psychology**](concepts/image_psychology.md) | Why gold is underallocated: aurophobia, normalcy bias, cognitive dissonance, career risk, the "barbarous relic" inheritance, and the Overton window. | 6 |
 
 ### The voices
 
 | Concept | Focus | Sources |
 |---------|-------|---------|
-| [**Voices: the interviews**](concepts/voices_interviews.md) | FOFOA (Freegold), Macleod (sound money), Gromen (exorbitant burden), Pozsar (Bretton Woods III), Napier (financial repression), Tindale (materiality) — and the ideas they contributed. | 7 |
+| [**Voices: the interviews**](concepts/voices_interviews.md) | FOFOA (Freegold), Macleod (sound money), Gromen (exorbitant burden), Pozsar (Bretton Woods III), Napier (financial repression), Tindale (materiality) — and the ideas they contributed. | 8 |
 
 ### Candidate concepts (not yet compiled)
 

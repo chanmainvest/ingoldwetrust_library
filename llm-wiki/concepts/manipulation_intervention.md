@@ -31,10 +31,20 @@ camp and mainstream dismissiveness, via a staged argument:
 
 ## How the argument evolved
 
-- **2009** — Statistical circumstantial case + COT. The intraday anomaly pattern
-  (gold rises in Asian hours, falls after the London fixes). COT: 3 US banks net-
-  short 12.3 mn oz (>15% of global production). Quotes from Greenspan, Volcker,
-  Summers ("Gibson's Paradox") framing central-bank management as policy.
+- **2008–2009 — The circumstantial case + the primary-source quotes.** The 2008
+  *Investment Demand* chapter carries the earliest appearance (in this corpus) of
+  Dimitri Speck's dating of suppression to **5 August 1993** — the Fed, the
+  argument runs, "has intervened frequently on the American gold market" since
+  that date. The 2009 *Is the Gold Price Subject to Manipulation?* chapter
+  assembles the primary-source quotations that anchor the whole thesis:
+  Greenspan (1998) on central banks standing "ready to lease gold in increasing
+  quantities should the price rise," Volcker (1973) admitting post-mortem that
+  "joint intervention in gold sales… was not undertaken. That was a mistake," and
+  Summers's "Gibson's Paradox" linking low lease rates to a suppressed price. The
+  intraday anomaly pattern (gold rises in Asian hours, falls after the London
+  fixes) is documented across ~1,000 trading days. The companion COT chapter
+  quantifies the short concentration: two US banks held 57.8% of open interest
+  net short (12.3 mn oz, >15% of a year's global production).
 - **2010** — The "manipulation vs. intervention" frame is born + paper/physical
   divergence. The Andrew Maguire whistleblower episode; BIS gold derivatives
   $423 bn; only 5 US banks held 97% of derivatives. (Authorship: Erste Group.)
@@ -114,6 +124,7 @@ camp and mainstream dismissiveness, via a staged argument:
 
 ## Sources
 
+- [2008 — Investment Demand](../../markdown/2008/12_investment_demand.md)
 - [2009 — Is the Gold Price Subject to Manipulation?](../../markdown/2009/24_is_the_gold_price_subject_to_manipulation.md)
 - [2009 — COT Indicates Massive Short Concentration](../../markdown/2009/31_commitment_of_traders_cot_indicates_massive_short_concentration.md)
 - [2010 — Manipulation vs. Intervention](../../markdown/2010/13_manipulation_vs_intervention.md)

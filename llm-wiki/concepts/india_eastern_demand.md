@@ -33,6 +33,12 @@ Western monetary and price-discovery hegemony. Four interlocking pillars:
 
 ## How the argument evolved
 
+- **2008 — The jewellery-demand deep dive.** The first dedicated cultural-demand
+  chapter: India as the world's largest consumer, with the encapsulating line
+  "to Indians, gold means jewellery, investment, and life insurance at the same
+  time." Introduces *stridhan* (a woman's marital gold, legally her sole
+  property) as the institutional core of demand inelasticity — the social fabric
+  that makes the wedding/festival cycle a structural price floor.
 - **2012 — "The Asian love affair with gold."** Establishes the demographic/
   affluence thesis: emerging markets = >70% of physical demand, "Chindia" >50%.
   Gold is "cheap" in Asia because incomes rose faster than the gold price in real
@@ -126,6 +132,7 @@ Western monetary and price-discovery hegemony. Four interlocking pillars:
 
 ## Sources
 
+- [2008 — Jewellery Demand](../../markdown/2008/09_jewellery_demand.md)
 - [2012 — The Asian Love Affair with Gold](../../markdown/2012/10_the_asian_love_affair_with_gold.md)
 - [2015 — The Golden Love Trade](../../markdown/2015/09_the_golden_love_trade.md)
 - [2020 — From West to East: Gold's Flow into the Strong Hands of Asia](../../markdown/2020/11_from_west_to_east_golds_flow_into_the_strong_hands_of_asia.md)

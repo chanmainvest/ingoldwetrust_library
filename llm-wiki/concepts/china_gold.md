@@ -41,7 +41,9 @@ underreporting — accumulating far more than its disclosed tonnage.
 - **2014** — Sharpens the reserve-currency/gold-backing argument. PBoC's Zhang
   Jianhua: "The only choice to hedge risks is to hold hard currency — gold."
   Estimate: China secretly holds 4,000–6,000 t. Nuance: China is **not** pursuing
-  a gold standard, only hedging USD reserves.
+  a gold standard, only hedging USD reserves. The 2011 precursor (*China on Its
+  Way to the Leading Global Currency*) had already floated the explicit target:
+  "China should step up its gold reserves to as much as 8,000 tonnes."
 - **2019** — The magisterial / civilizational treatment. Deep historical
   digression: paper money under Kublai Khan (gold-backed), the silver standard
   (~500 years), the Opium Wars and "unequal treaties." The SGE detailed as a
@@ -133,6 +135,7 @@ underreporting — accumulating far more than its disclosed tonnage.
 - [2008 — The Chinese Gold Rush](../../markdown/2008/05_exkursus_the_chinese_gold_rush.md)
 - [2009 — Golden China](../../markdown/2009/14_golden_china.md)
 - [2010 — Chinese Gold Awakening After a Long Slumber](../../markdown/2010/10_chinese_gold_awakening_after_a_long_slumber.md)
+- [2011 — China on Its Way to the Leading Global Currency](../../markdown/2011/15_china_on_its_way_to_the_leading_global_currency.md)
 - [2012 — The Asian Love Affair with Gold](../../markdown/2012/10_the_asian_love_affair_with_gold.md)
 - [2014 — China and the Importance of Gold](../../markdown/2014/24_china_and_the_importance_of_gold.md)
 - [2019 — Gold and the Dragon: China Stabilizes Its Ascent with Gold](../../markdown/2019/03_gold_and_the_dragon_china_stabilizes_its_ascent_with_gold.md)

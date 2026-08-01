@@ -42,13 +42,32 @@ milligrams.
 
 **(d) Gold as ultimate insurance / reference asset.** Gold is "uncertainty
 insurance" (2021) — a call option on the problem-solving capacity of all other
-market actors, perfected over 5,000 years.
+market actors, perfected over 5,000 years. The 2013 *Essential Features of Gold*
+chapter codifies the no-counterparty-risk property that makes this insurance
+unique: gold is "the only liquid investment asset that neither involves a liability
+nor a creditor relationship" — every other "liquid" claim is someone else's
+obligation. Yet at ~$1.1 trn it amounted to only **0.5% of global financial
+assets**, a striking under-allocation given that property.
 
 ## How the argument evolved
 
+- **2009** — *A New Gold Standard* floats the earliest monetary-base-backing
+  valuation in the corpus: if the Fed's balance sheet were covered by US gold,
+  one ounce would be valued at ~USD 6,500 (and ~USD 10,000 at full M2 backing).
+  The remonetization intuition precedes the formal stock-to-flow vocabulary.
 - **2010** — Mostly definitional and historical. "Gold is money" via Aristotle/
   Rothbard; the gold standard era (1815–1914) as the "Golden Era" of stability
   and freedom; the gold standard as "poison for governments."
+- **2011 — The remonetization evidence mounts, bottom-up.** The *Gold and Silver
+  as Official Means of Payment vs. Gresham's Law* chapter documents the first
+  concrete legal reclassifications — Utah recognizing gold/silver coin as legal
+  tender, parallel moves in Mexico and Malaysia — and works through the
+  Gresham/Thiersch distinction (bad money drives good money into hoards *only at
+  a fixed rate*; at floating rates the stronger currency circulates). The
+  *Regression Theorem Explains Why Gold Equals Money* chapter supplies the
+  Misesian theoretical scaffolding, with stock-to-flow flagged as the reason the
+  regression anchor holds: the high ratio "seems to play an important role" in
+  keeping gold's purchasing power stable.
 - **2012** — Theoretical deepening: the regression theorem, Menger's
   marketability, Mises's circularity resolution.
 - **2013** — **Stock-to-flow elevated to "the most important reason for gold's
@@ -56,6 +75,12 @@ market actors, perfected over 5,000 years.
   thesis is born, anchored to OMFIF's Jan 2013 report and gold in SDRs; collateral
   acceptance (LCH Clearnet, CME); US state laws (Utah); repatriation; gold-backed
   bonds. And 1971 nailed down as the crisis's origin.
+- **2014 — Stock-to-flow restated as the monetary-above-all criterion.** The
+  *Gold's Monetary Importance* chapter re-anchors the case: "If a good is to
+  remain money… [there can be] no sudden unstoppable increase in its supply" —
+  gold's low annual stock inflation (~1.5–2%) is precisely the property fiat
+  lacks, making it the only candidate that survives the monetary test across
+  centuries.
 - **2021** — Philosophical reframing: money as "economic water," meta-energy,
   uncertainty insurance. First serious engagement with Bitcoin as a potential
   digital disruptor. Predicts a *non*-gold-standard outcome: "more likely an
@@ -147,8 +172,13 @@ market actors, perfected over 5,000 years.
 
 ## Sources
 
+- [2009 — A New Gold Standard](../../markdown/2009/23_a_new_gold_standard.md)
 - [2010 — Gold Is Money, Nothing Else](../../markdown/2010/11_gold_is_money_nothing_else.md)
+- [2011 — Gold and Silver as Official Means of Payment vs. Gresham's Law](../../markdown/2011/07_gold_and_silver_as_official_means_of_payment_vs_greshams_law.md)
+- [2011 — Regression Theorem Explains Why Gold Equals Money](../../markdown/2011/08_regression_theorem_explains_why_gold_equals_money.md)
 - [2012 — Gold Is Money, Nothing Else](../../markdown/2012/05_gold_is_money_nothing_else.md)
+- [2014 — Gold's Monetary Importance](../../markdown/2014/20_golds_monetary_importance.md)
+- [2013 — Essential Features of Gold](../../markdown/2013/05_essential_features_of_gold.md)
 - [2013 — Stock-to-Flow Ratio as the Most Important Reason for Gold's Monetary Importance](../../markdown/2013/07_stock_to_flow_ratio_as_the_most_important_reason_for_golds_monetary_importance.md)
 - [2013 — The Ongoing Re-monetization of Gold](../../markdown/2013/08_the_ongoing_re_monetization_of_gold_in_the_international_financial_and_monetary_.md)
 - [2013 — Origin of the Current Crisis: August 15, 1971](../../markdown/2013/14_origin_of_the_current_crisis_august_15_1971.md)

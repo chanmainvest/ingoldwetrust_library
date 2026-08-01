@@ -30,6 +30,11 @@ investment. Three pillars carry the bull case across the corpus:
 
 ## How the argument evolved
 
+- **2008 — The GSR as an equity-market indicator.** The earliest dedicated
+  ratio chapter frames the GSR as a macro signal: "anything above 58 is
+  considered a leading indicator of weak equity markets," reading the ratio as a
+  barometer of monetary stress well before the later inflation/reflation
+  interpretation crystallizes.
 - **2010** — Ratio-analysis valuation call: GSR at 65x vs a median of 55x and a
   long-term median (since 1687) of 15.7x means "silver is clearly undervalued."
 - **2016** — First tie to inflation: silver "definitely at a historically
@@ -119,6 +124,7 @@ investment. Three pillars carry the bull case across the corpus:
 
 ## Sources
 
+- [2008 — Gold/Silver Ratio](../../markdown/2008/21_gold_silver_ratio.md)
 - [2010 — Gold/Silver Currently 65x](../../markdown/2010/26_gold_silver_currently_65x.md)
 - [2016 — When Inflation Strikes: Silver](../../markdown/2016/40_when_inflation_strikes_silver.md)
 - [2020 — Silver's Silver Lining](../../markdown/2020/20_silvers_silver_lining.md)

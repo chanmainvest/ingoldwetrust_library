@@ -37,9 +37,20 @@ deepen over time:
 - **2010 — "Gold is the optimal portfolio insurance."** Adds the event-hedge
   evidence (the 20% weakest S&P days). Notes gold "decoupling from commodities"
   and behaving "like a currency again."
+- **2011 — The CVaR / event-hedge formalization.** The *Gold as Portfolio
+  Insurance* chapter quantifies the tail hedge via Conditional Value-at-Risk:
+  "gold is an efficient hedge against systematic market risk," reducing portfolio
+  CVaR precisely in the left tail where diversification matters most. The
+  framing shifts from correlation to convexity.
 - **2014 — Quantification of "extraordinary" characteristics.** Five advantages:
   diversification (0.1 correlation), tail-risk hedge, high liquidity (> Bunds/
   Gilts), inflation/deflation hedge, USD hedge (−0.5).
+- **2015 — The rising-rate nuance.** The *Gold in the Context of Portfolio
+  Diversification* chapter anticipates the "what if rates rise?" objection with
+  the counterintuitive finding that "three of the largest gold rallies of the
+  post-1971 era occurred in rising nominal rate environments" — because what
+  drives gold is the *real* rate and the systemic event, not the nominal
+  tightening cycle.
 - **2016 — Permanent Portfolio + Anti-fragility.** Harry Browne's 25/25/25/25
   framework (9.1%/yr nominal, worst year −8.3%) and the Taleb anti-fragility
   taxonomy applied to gold across 7 aspects.
@@ -123,7 +134,9 @@ deepen over time:
 
 - [2008 — Gold as Diversification: Low Correlation to Other Asset Classes](../../markdown/2008/18_gold_as_diversification_low_correlation_to_other_asset_classes.md)
 - [2010 — Gold Is the Optimal Portfolio Insurance](../../markdown/2010/08_gold_is_the_optimal_portfolio_insurance.md)
+- [2011 — Gold as Portfolio Insurance](../../markdown/2011/09_gold_as_portfolio_insurance.md)
 - [2014 — The Extraordinary Portfolio Characteristics of Gold](../../markdown/2014/17_the_extraordinary_portfolio_characteristics_of_gold.md)
+- [2015 — Gold in the Context of Portfolio Diversification](../../markdown/2015/07_gold_in_the_context_of_portfolio_diversification.md)
 - [2016 — Gold in the Context of Portfolio Diversification](../../markdown/2016/34_gold_in_the_context_of_portfolio_diversification.md)
 - [2016 — Anti-fragile Investing with Gold](../../markdown/2016/35_anti_fragile_investing_with_gold.md)
 - [2017 — The Portfolio Characteristics of Gold](../../markdown/2017/10_the_portfolio_characteristics_of_gold.md)

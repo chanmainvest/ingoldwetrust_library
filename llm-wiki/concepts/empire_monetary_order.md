@@ -12,6 +12,20 @@ See also: [de_dollarization](de_dollarization.md),
 [exter_pyramid_heartland](exter_pyramid_heartland.md),
 [sovereign_debt](sovereign_debt.md), [gold_as_money](gold_as_money.md).
 
+## How the argument evolved
+
+- **2011 — The Rome prequel.** The *History Repeats* chapter supplies the first
+  Rome-to-present mapping in the corpus: the denarius falling to 0.02% silver by
+  the 3rd-century crisis, the lesson that "Rome was thriving in times of low
+  taxes," and the monetary-decline template that the 2022 chapter later expands
+  into the full US-Rome parallel.
+- **2015 — Where things stand.** The *Where Things Stand* chapter frames the
+  whole post-1971 malaise through Peter Millar's 5-phase monetary-cycle lens,
+  naming "the paradigm change from an at least partially gold-backed monetary
+  system to a pure debt-based monetary system" as "the key reason for today's
+  systemic crisis" — the explicit thesis statement for the entire
+  [empire_monetary_order](empire_monetary_order.md) thread.
+
 ## The core thesis
 
 Monetary history is a recurring cycle: **sound money enables civilizational rise;
@@ -123,7 +137,10 @@ de-dollarization) is already being built.
 
 ## Sources
 
+- [2011 — History Repeats](../../markdown/2011/12_history_repeats.md)
+- [2015 — Where Things Stand](../../markdown/2015/02_where_things_stand.md)
 - [2015 — Past, Present and Future of the Monetary Order](../../markdown/2015/08_past_present_and_future_of_the_monetary_order.md)
+- [2016 — The Dollar Is Our Currency, but It's Your Problem](../../markdown/2016/17_the_dollar_is_our_currency_but_its_your_problem.md)
 - [2017 — Sustainable Wealth Accumulation in an Unsustainable Monetary System](../../markdown/2017/13_sustainable_wealth_accumulation_in_an_unsustainable_monetary_system.md)
 - [2019 — Acceleration and the Monetary Order](../../markdown/2019/08_acceleration_and_the_monetary_order.md)
 - [2022 — When Rome Lost Its Reserve Currency](../../markdown/2022/13_when_rome_lost_its_reserve_currency.md)

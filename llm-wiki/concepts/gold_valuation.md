@@ -59,6 +59,15 @@ gold/S&P 500 (0.55x in 2015 vs. avg 1.22x). The 2014 report notes gold vs. the
 deepened: gold/oil (1 oz buys 30 barrels vs. avg 14), gold/copper (a "confidence
 indicator"), and gold/silver reframed as a "deflation/reflation ratio."
 
+The relative-scarcity lens (2013) frames the same idea on the supply side: from
+2000-2012 the gold stock grew only **2.1%/yr** while M2 grew **6.6%/yr** — i.e.
+fiat dilution ran ~3x faster than gold, so the gold/M2 ratio fell ~60%. The 2012
+*Biggest Misconception* chapter had already primed this argument with the
+reservation-demand / stock-to-flow framing: "gold is precious because the annual
+production is so low relative to the stock" — annual flow is the wrong denominator
+for a monetary good; the high stock-to-flow ratio is "the most important
+characteristic of gold."
+
 ### (c) Gold-coverage of debt & money supply
 Only **2.4% of US government debt is covered by US gold reserves** (2012, vs. a
 long-term average of 4.9%); reaching the 1980 high would require gold at
@@ -125,7 +134,10 @@ would need to rise by roughly an order of magnitude to regain a comparable share
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2012 — The Biggest Misconception with Regard to Gold](../../markdown/2012/04_the_biggest_misconception_with_regard_to_gold.md)
 - [2012 — On the Search for a Fair Value for Gold](../../markdown/2012/14_on_the_search_for_a_fair_value_for_gold.md)
+- [2013 — The Relative Scarcity of Gold versus Fiat Currencies](../../markdown/2013/06_the_relative_scarcity_of_gold_versus_fiat_currencies.md)
 - [2013 — Approaches to Gold Price Valuation](../../markdown/2013/19_approaches_to_gold_price_valuation.md)
 - [2014 — Revaluation of Gold](../../markdown/2014/28_revaluation_of_gold.md)
 - [2014 — Relative Valuation Based on Ratio Analysis](../../markdown/2014/30_relative_valuation_based_on_ratio_analysis.md)

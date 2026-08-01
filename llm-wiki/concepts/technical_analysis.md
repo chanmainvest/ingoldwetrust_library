@@ -32,10 +32,18 @@ fundamental/macro work. The recurring toolkit:
 
 ## How the analysis evolved
 
+- **2008 — The foundational toolkit.** The *Technical Analysis of the Gold
+  Sector* chapter introduces the seasonality table (driven by the Indian wedding
+  season and the Diwali festival) and the ratio-analysis vocabulary (Dow/gold,
+  gold/oil, gold/silver); the standalone *Ratio Analysis* chapter frames the
+  Dow/gold ratio as the master valuation gauge. *Long-Term Analysis* adds the
+  Fibonacci projections (USD 1,219 / 1,426 / 1,816 / 2,000) that prefigure the
+  $2,300 anchor.
 - **2009-2010 (Erste Group)** — The "current vs. last great bull market"
   comparison: the 1970s rally was a speculative blow-off (+2,000% in 10 years);
   the 2000s rally is a "lasting paradigm shift" — stepwise, "we have not seen the
-  blow-off top yet."
+  blow-off top yet." The 2010 technical chapter adds the Fibonacci/Elliott-Wave
+  projection to USD 1,600 and the Diwali-driven seasonality.
 - **2013** — Pivot to contrarian/sentiment after the 2011 peak crash. CoT in depth
   (commercials reduced net shorts 84%); Hulbert allocation at -44% (all-time low).
   Explicitly invokes the "1974-1976 mid-cycle correction" analog.
@@ -114,8 +122,13 @@ notably honest about timing/short-term misses:
 
 ## Sources
 
+- [2008 — Technical Analysis of the Gold Sector](../../markdown/2008/28_technical_analysis_of_the_gold_sector.md)
+- [2008 — Ratio Analysis](../../markdown/2008/19_ratio_analysis.md)
+- [2008 — Long-Term Analysis](../../markdown/2008/32_long_term_analysis.md)
 - [2009 — The Current vs. the Last Great Bull Market](../../markdown/2009/30_the_current_vs_the_last_great_bull_market.md)
+- [2010 — Technical Analysis](../../markdown/2010/22_technical_analysis.md)
 - [2010 — Comparison: The Current Chart vs. the Last Bull Market](../../markdown/2010/24_comparison_the_current_chart_vs_the_last_bull_market.md)
+- [2012 — Technical Analysis of the Gold Price](../../markdown/2012/18_technical_analysis_of_the_gold_price.md)
 - [2013 — Technical Analysis, Sentiment and COT Report Signal Bottoming Process](../../markdown/2013/04_technical_analysis_sentiment_and_cot_report_signal_bottoming_process.md)
 - [2016 — Technical Analysis](../../markdown/2016/46_technical_analysis.md)
 - [2019 — Technical Analysis](../../markdown/2019/18_technical_analysis.md)

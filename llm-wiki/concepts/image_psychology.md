@@ -132,6 +132,8 @@ changed and heuristics have not yet caught up.
 
 ## Sources
 
+- [2010 — Why Gold Is Definitely Not a Bubble](../../markdown/2010/07_why_gold_is_definitely_not_a_bubble.md)
+- [2011 — Why Gold Is Still No Bubble](../../markdown/2011/11_why_gold_is_still_no_bubble.md)
 - [2012 — Why Is Gold Such a Highly Emotional Topic?](../../markdown/2012/16_why_is_gold_such_a_highly_emotional_topic_cognitive_dissonance_and_normalcy_bias.md)
 - [2013 — Excursion: Reasons for 'Aurophobia'](../../markdown/2013/09_excursion_reasons_for_aurophobia.md)
 - [2024 — The Image Problem of Gold in the West](../../markdown/2024/15_the_image_problem_of_gold_in_the_west.md)

@@ -28,6 +28,12 @@ structural floor under the gold price.
   regime: Western central banks capping *sales*. China sits at just 1.6% gold
   coverage. The thesis that emerging markets need to "catch up" to a 10% coverage
   ratio (~12,799 t required) is seeded.
+- **2010 — The CBGA3 signing and the de-hedging squeeze.** The third Central
+  Bank Gold Agreement (Sept 2009) reset the annual sale ceiling to 400 t, and
+  "for the first time since 1988, central banks were net buyers of gold again"
+  — the inflection point. Simultaneously, producer de-hedging (Barrick's
+  $5.6 bn closure of its hedge book) removed a structural overhang that had
+  capped the price for a decade.
 - **2011** — The declared inflection: central banks became net buyers in 2010
   "for the first time in two decades," acquiring 90 t; Q1 2011 alone hit 129 t.
   Mexico bought 93.3 t; Russia planned 100 t/year. CBGA sales had effectively
@@ -120,6 +126,7 @@ structural floor under the gold price.
 ## Sources
 
 - [2009 — Central Bank Gold Agreements](../../markdown/2009/15_central_bank_gold_agreements.md)
+- [2010 — De-Hedging](../../markdown/2010/17_de_hedging.md)
 - [2011 — Central Banks on the Buyers' Side for the First Time in Two Decades](../../markdown/2011/19_central_banks_on_the_buyers_side_for_the_first_time_in_two_decades.md)
 - [2012 — Renaissance of Central Bank Buying](../../markdown/2012/12_renaissance_of_central_bank_buying.md)
 - [2020 — From West to East: Gold's Flow into the Strong Hands of Asia](../../markdown/2020/11_from_west_to_east_golds_flow_into_the_strong_hands_of_asia.md)

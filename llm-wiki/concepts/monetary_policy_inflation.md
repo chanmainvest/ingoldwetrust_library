@@ -37,11 +37,18 @@ inflation — a bullish backdrop for gold.
 
 - **2010** — The open question. Post-GFC, "inflation or deflation?" is "still
   unanswered." Gold pitched as winning in both. Floats "deliberate inflation as
-  the only exit strategy" from over-indebtedness.
+  the only exit strategy" from over-indebtedness. The companion *Criticism
+  Against the Conceptual Definition of Inflation* chapter attacks the
+  methodology that masks monetary inflation: hedonic adjustments that lower
+  measured CPI, and the Cantillon effect by which "newly created money is
+  distributed neither equally nor simultaneously."
 - **2011** — **The real-rates thesis crystallizes.** Pivot from inflation-vs-
   deflation to real interest rates as the true gold driver: "Inflation has never
   been the primary driver of the gold sector on its own." Financial repression
-  (negative real rates as a saver→debtor transfer) is globally in vogue.
+  (negative real rates as a saver→debtor transfer) is globally in vogue. The
+  *Inflation ≠ Rising Prices* chapter restates the Austrian definition —
+  "inflation is the root cause of the devaluation of money, whereas price
+  increases are just the result" — a year before the 2012 semantic polemic.
 - **2013** — Austrian reframing; monetary tectonics introduced. The belief that
   "the gold bull market is over must be accompanied by an expectation of rising
   real interest rates" — and such a rise is impossible without crashing the
@@ -146,10 +153,24 @@ Yes, and this is the single most important nuance:
 
 ## Sources
 
+- [2007 — Special Report Gold](../../markdown/2007/full_report.md)
+- [2009 — Is Gold Pricing in the Coming Inflation?](../../markdown/2009/20_is_gold_pricing_in_the_coming_inflation.md)
 - [2010 — Inflation vs. Deflation](../../markdown/2010/03_inflation_vs_deflation.md)
+- [2010 — Criticism Against the Conceptual Definition of Inflation](../../markdown/2010/04_criticism_against_the_conceptual_definition_of_inflation.md)
 - [2011 — Negative Real Interest Rates Provide Gold with a Perfect Environment](../../markdown/2011/03_negative_real_interest_rates_continue_to_provide_gold_with_a_perfect_environment.md)
+- [2011 — Inflation ≠ Rising Prices](../../markdown/2011/16_inflation_rising_prices.md)
 - [2013 — Monetary Tectonics: Inflation versus Deflation](../../markdown/2013/13_excursion_monetary_tectonics_inflation_versus_deflation.md)
 - [2014 — Monetary Tectonics: The Interaction between Inflation and Deflation](../../markdown/2014/08_monetary_tectonics_the_interaction_between_inflation_and_deflation.md)
+- [2014 — The Consequences of Global Zero Interest Rate Policy](../../markdown/2014/12_the_consequences_of_global_zero_interest_rate_policy.md)
+- [2014 — Conclusion: Inflation vs. Deflation](../../markdown/2014/11_conclusion_inflation_vs_deflation.md)
+- [2014 — Is Europe at Risk of a Japanese Scenario?](../../markdown/2014/16_is_europe_at_risk_of_a_japanese_scenario.md)
+- [2015 — Gold and Inflation](../../markdown/2015/03_gold_and_inflation.md)
+- [2015 — From Risk-Free Returns to Return-Free Risk](../../markdown/2015/04_from_risk_free_returns_to_return_free_risk.md)
+- [2016 — From Reflation to Stagflation](../../markdown/2016/13_from_reflation_to_stagflation.md)
+- [2016 — Helicopter Money: The Reflation Policy's Ace in the Hole](../../markdown/2016/22_helicopter_money_the_reflation_policys_ace_in_the_hole.md)
+- [2016 — From Risk-Free Interest to Interest-Free Risk](../../markdown/2016/24_from_risk_free_interest_to_interest_free_risk.md)
+- [2016 — Negative Interest Rates in the Name of Monetary Stability](../../markdown/2016/25_negative_interest_rates_in_the_name_of_monetary_stability.md)
+- [2016 — The Fatal Long-Term Consequences of Negative Interest Rate Policy](../../markdown/2016/28_the_fatal_long_term_consequences_of_negative_interest_rate_policy.md)
 - [2016 — Negative Interest Rates and Gold](../../markdown/2016/27_negative_interest_rates_and_gold.md)
 - [2022 — Status Quo of the Inflation Trend](../../markdown/2022/05_status_quo_of_the_inflation_trend.md)
 - [2022 — Stagflation 2.0](../../markdown/2022/08_stagflation_20.md)

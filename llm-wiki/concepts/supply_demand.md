@@ -119,6 +119,7 @@ But the thesis survives in three softer forms:
 - [2008 — Secondary Supply](../../markdown/2008/06_secondary_supply.md)
 - [2008 — Demand](../../markdown/2008/08_demand.md)
 - [2009 — Demand](../../markdown/2009/11_demand.md)
+- [2009 — Historic Gold Production in South Africa: A Prime Example of Peak Gold](../../markdown/2009/09_historic_gold_production_in_south_africa_a_prime_example_of_peak_gold.md)
 - [2014 — The Great Fallacy of High Gold Demand](../../markdown/2014/21_the_great_fallacy_of_high_gold_demand.md)
 - [2016 — Comparison of Market Capitalization Levels](../../markdown/2016/39_comparison_of_market_capitalization_levels.md)
 - [2022 — How to Understand Gold's Supply and Demand Fundamentals](../../markdown/2022/17_how_to_understand_golds_supply_and_demand_fundamentals.md)

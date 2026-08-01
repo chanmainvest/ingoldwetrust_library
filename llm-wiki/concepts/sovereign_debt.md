@@ -33,6 +33,18 @@ then the problems must be systemic" (2011).
   (14x GDP). BIS declares policy "unsustainable." The exits are growth
   (impossible), austerity (politically impossible), inflation, depreciation, or
   financial repression — and gold wins in "practically all of these scenarios."
+  The companion *Diminishing Marginal Returns* chapter formalizes debt
+  saturation: "the increase in aggregate output falls short of the growth in
+  debt" — each incremental dollar of borrowing buys less GDP than the last.
+- **2012–2013 — The debt-saturation arithmetic codified.** The 2012 *Excessive
+  Structural Debt* chapter adds the CBO's own long-run scenarios and the "bang
+  point" framing — the level at which debt service compounding becomes
+  unstoppable — and traces the "systemic problem" to "excessive spending," not
+  inadequate revenue. The 2013 *Declining Marginal Utility of Additional Debt*
+  chapter supplies the headline number: in the 1960s each $1 of debt still
+  generated $4.61 of GDP; by 2013 that had collapsed to **$0.08** — the
+  empirical backbone of the over-indebtedness thesis and the direct precursor of
+  the 2024 "$1 of growth bought with $2.50 of new debt" framing.
 - **2013** — "Structural over-indebtedness" codified. Demographics identified as
   the biggest long-term challenge; the fiscal-gap concept (explicit + implicit
   debt) is introduced.
@@ -45,7 +57,11 @@ then the problems must be systemic" (2011).
 - **2016** — **Financial repression codified.** The two pillars named: (1)
   artificially low/negative rates, (2) regulatory preference for government bonds
   (Basel III, Solvency II zero-capital treatment). The "creeping expropriation"
-  framing.
+  framing. The same year's *Debt Haircut Ahead?* chapter lays out the endgame of
+  the repression path: when inflation is insufficient, governments reach for the
+  "preferred method" of outright haircut / bail-in — Cyprus (2013) as the
+  template, the G20's new bail-in rules as the standing machinery — making the
+  holder of sovereign paper the residual risk-taker in a crisis.
 - **2020** — Covid as accelerant. The Fed balance sheet grew +$1.5 trn in three
   weeks ("$1 mn/second"). The IMF's proposals for deep negative rates: "the zero
   lower bound is not a law of nature; it is a policy choice."
@@ -133,10 +149,14 @@ then the problems must be systemic" (2011).
 ## Sources
 
 - [2011 — Guilt Without Atonement: Excessive Structural Debt](../../markdown/2011/02_guilt_without_atonement_excessive_structural_debt_suggests_further_appreciation_.md)
+- [2011 — The Law of Diminishing Marginal Returns Indicates that the Level of Debt has become Systemically Relevant](../../markdown/2011/04_the_law_of_diminishing_marginal_returns_indicates_that_the_level_of_debt_has.md)
+- [2012 — Excessive Structural Debt Suggests Further Increase of the Gold Price](../../markdown/2012/07_excessive_structural_debt_suggests_further_increase_of_the_gold_price.md)
 - [2013 — Structural Over-indebtedness Argues for Continued Upward Revaluation of Gold](../../markdown/2013/16_structural_over_indebtedness_argues_for_continued_upward_revaluation_of_gold.md)
+- [2013 — Clearly Declining Marginal Utility of Additional Debt](../../markdown/2013/17_clearly_declining_marginal_utility_of_additional_debt.md)
 - [2014 — The Consequences of Global Zero Interest Rate Policy](../../markdown/2014/12_the_consequences_of_global_zero_interest_rate_policy.md)
 - [2015 — Debt and Punishment](../../markdown/2015/05_debt_and_punishment.md)
 - [2016 — Financial Repression: When the Grasping Hand of the State Runs Rampant](../../markdown/2016/29_financial_repression_when_the_grasping_hand_of_the_state_runs_rampant.md)
+- [2016 — Debt Haircut Ahead?](../../markdown/2016/31_debt_haircut_ahead.md)
 - [2020 — Financial Repression: Economic Reasons Come to the Fore](../../markdown/2020/17_financial_repression_economic_reasons_come_to_the_fore.md)
 - [2022 — Status Quo of Debt Dynamics](../../markdown/2022/04_status_quo_of_debt_dynamics.md)
 - [2024 — Status Quo of Debt Dynamics](../../markdown/2024/04_status_quo_of_debt_dynamics.md)

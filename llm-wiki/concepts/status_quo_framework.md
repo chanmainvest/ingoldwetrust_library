@@ -18,7 +18,12 @@ See also: [monetary_policy_inflation](monetary_policy_inflation.md),
 The "Status Quo of Gold" is the **traditional assessment of the gold market** that
 opens every report (Incrementum AG, authors Ronald Stöferle & Mark Valek), before
 any thematic chapters begin. It deliberately rejects pure supply/demand analysis
-as the primary lens:
+as the primary lens. The methodological seed was planted already in the 2009
+*Paradigm Shift Similar to 1974?* chapter, which framed each reflation cycle as
+the setup for "another asset bubble" and introduced the 1974-bull-analog template
+that the later Status Quo chapters operationalize into their multi-pillar
+triangulation; the 2014 *The Status Quo* chapter then names the diagnostic
+explicitly, diagnosing a market "under the influence of free-flowing liquidity."
 
 > "In contrast to the majority of gold analysts, we do not consider the exclusive
 > analysis of supply/demand statistics to be very helpful for assessing gold price
@@ -127,6 +132,8 @@ factual foundation. Its conclusion typically previews the year's headline thesis
 
 ## Sources
 
+- [2009 — Paradigm Shift Similar to 1974?](../../markdown/2009/26_paradigm_shift_similar_to_1974.md)
+- [2014 — The Status Quo](../../markdown/2014/03_the_status_quo.md)
 - [2019 — The Status Quo of Gold](../../markdown/2019/02_the_status_quo_of_gold.md)
 - [2020 — The Status Quo of Gold](../../markdown/2020/02_the_status_quo_of_gold.md)
 - [2020 — Status Quo of Gold in the Currency Context](../../markdown/2020/03_status_quo_of_gold_in_the_currency_context.md)

@@ -30,7 +30,14 @@ failures overwhelming the structural leverage.
 
 - **2008** — Setup and optimism. Introduces the HUI (Amex Gold Bugs / unhedged
   miners), XAU, and the leverage idea: unhedged miners "participate above
-  average in the increase (and the fall) of gold prices."
+  average in the increase (and the fall) of gold prices." The companion *Exkursus
+  De-Hedging* documents the unwind then underway — close to 2,000 t bought back
+  between 2001 and 2006 — which removed the forward-sale overhang that had
+  suppressed the sector through the prior bear market.
+- **2012 — The political-risk lens.** The *Gold Mining Shares* chapter frames
+  "solid mining shares in politically stable regions" as "a high-leverage bet on
+  the gold price," introducing resource nationalism as a stock-selection variable
+  that becomes central to the royalty/streaming thesis later.
 - **2013** — The disaster becomes clear. Mining stocks are "a complete disaster,"
   punished for capital-intensive projects, risky takeovers, and rising costs.
   The BGMI/gold ratio hits its lowest in "more than 70 years." First endorsement
@@ -129,6 +136,9 @@ failures overwhelming the structural leverage.
 ## Sources
 
 - [2008 — Gold Mining Shares](../../markdown/2008/23_gold_mining_shares.md)
+- [2008 — Exkursus: De-Hedging](../../markdown/2008/10_exkursus_de_hedging.md)
+- [2012 — Gold Mining Shares](../../markdown/2012/17_gold_mining_shares.md)
+- [2014 — Gold Mining Stocks](../../markdown/2014/31_gold_mining_stocks.md)
 - [2013 — Gold Stocks Close to a Trend Change](../../markdown/2013/20_gold_stocks_close_to_a_trend_change.md)
 - [2015 — Gold Stocks](../../markdown/2015/11_gold_stocks.md)
 - [2016 — Aspects Specific to Investment in Gold Mining Stocks](../../markdown/2016/43_aspects_specific_to_investment_in_gold_mining_stocks.md)

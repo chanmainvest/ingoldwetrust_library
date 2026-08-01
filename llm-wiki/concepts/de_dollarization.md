@@ -31,6 +31,13 @@ better alternative.
 
 ## How the argument evolved
 
+- **2011 — The pre-framework appearance.** Two years before the systematic
+  treatment, the *Adieu, Exorbitant Privilege* chapter announces that "more than
+  six decades of global dominance by the greenback seem to be coming to an end,"
+  and the companion chapter reframes US Treasuries from "the risk-free fixed-
+  income paper" into "the risky no-income paper" on the S&P outlook downgrade.
+  Both already cite gold as the beneficiary of reserve-currency doubt. The theme
+  is present but not yet operationalized.
 - **2014** — A side theme. Russia sells Treasuries; Gazprom Neft switches to
   euros; Putin calls the dollar "parasitic." Framed as gradual, multi-decade.
 - **2017** — First dedicated chapter; the systematic framework. Introduces the
@@ -139,6 +146,9 @@ better alternative.
 
 ## Sources
 
+- [2009 — Gold Will Continue to Benefit from Dollar Diversification](../../markdown/2009/22_gold_will_continue_to_benefit_from_dollar_diversification.md)
+- [2011 — Adieu, Exorbitant Privilege](../../markdown/2011/13_adieu_exorbitant_privilege.md)
+- [2011 — US Treasuries: From the Risk-Free Fixed-Income Paper to the Risky No-Income Paper](../../markdown/2011/14_us_treasuries_from_the_risk_free_fixed_income_paper_to_the_risky_no_income_paper.md)
 - [2014 — Good Bye Exorbitant Privilege](../../markdown/2014/23_good_bye_exorbitant_privilege.md)
 - [2017 — The De-dollarization: Good Bye Dollar, Hello Gold](../../markdown/2017/05_the_de_dollarization_good_bye_dollar_hello_gold.md)
 - [2018 — De-dollarization: From the Dollar to Gold via the Yuan and the Euro](../../markdown/2018/07_de_dollarization_from_the_dollar_to_gold_via_the_yuan_and_the_euro.md)
