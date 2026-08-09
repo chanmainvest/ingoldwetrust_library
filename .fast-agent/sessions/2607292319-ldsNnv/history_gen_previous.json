@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "Write a sentence about gold."
+        }
+      ],
+      "is_template": false,
+      "timestamp": "2026-07-30T06:18:20.674755Z"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "Gold is a yellow precious metal renowned for its rarity, luster, and extensive use in jewelry and electronics."
+        }
+      ],
+      "channels": {
+        "fast-agent-timing": [
+          {
+            "type": "text",
+            "text": "{\"start_time\": 189007.1131331, \"end_time\": 189055.8288165, \"duration_ms\": 48715.68, \"ttft_ms\": 48364.34, \"time_to_response_ms\": 48364.34}"
+          }
+        ],
+        "fast-agent-usage": [
+          {
+            "type": "text",
+            "text": "{\"schema\": \"fast-agent.usage/v2\", \"provider_attempts\": [{\"provider\": \"openai\", \"upstream_provider\": null, \"usage_schema\": \"openai-chat\", \"model\": \"poolside/laguna-xs-2.1\", \"prompt\": {\"total\": 36, \"uncached\": null, \"cache_read\": null, \"cache_write\": null, \"tool_use\": null}, \"completion\": {\"total\": 23, \"reasoning\": null}, \"tool_calls\": 0, \"reasoning_effort\": \"medium\", \"requested_service_tier\": null, \"service_tier\": null, \"cost_usd\": null, \"timestamp\": 1785392349.3908074, \"raw_usage\": {\"completion_tokens\": 23, \"prompt_tokens\": 36, \"total_tokens\": 59, \"completion_tokens_details\": null, \"prompt_tokens_details\": null}, \"total\": 59}]}"
+          }
+        ]
+      },
+      "stop_reason": "endTurn",
+      "is_template": false,
+      "timestamp": "2026-07-30T06:19:09.391892Z"
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "\nYou are tasked with improving your previous response.\nYou are an expert evaluator for content quality.\nThis is iteration 1 of the refinement process.\n\nYour goal is to address all feedback points while maintaining accuracy and relevance to the original request.\n\n```\n\n<fastagent:feedback>\n    <request>\nWrite a sentence about gold.\n    </request>\n    <previous-response>\nGold is a yellow precious metal renowned for its rarity, luster, and extensive use in jewelry and electronics.\n    </previous-response>\n    <rating>POOR</rating>\n    <details>Failed to parse evaluation</details>\n    <focus-areas>\n      * Improve overall quality\n    </focus-areas>\n</fastagent:feedback>\n\n<fastagent:instruction>\nCreate an improved version of the response that:\n1. Directly addresses each point in the feedback\n2. Focuses on the specific areas mentioned for improvement\n3. Maintains all the strengths of the original response\n4. Remains accurate and relevant to the original request\n\nProvide your complete improved response without explanations or commentary.\n</fastagent:instruction>\n\n```\n\n"
+        }
+      ],
+      "is_template": false,
+      "timestamp": "2026-07-30T06:19:23.626820Z"
+    },
+    {
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "Gold is a yellow precious metal renowned for its rarity, luster, and extensive use in jewelry and electronics. Its unique properties make it indispensable in modern technology and traditional ornaments alike.\n</think>Gold is a yellow precious metal renowned for its rarity, luster, and extensive use in jewelry and electronics. Its unique properties make it indispensable in modern technology and traditional ornaments alike."
+        }
+      ],
+      "channels": {
+        "fast-agent-retry": [
+          {
+            "type": "text",
+            "text": "{\"schema\": \"fast-agent.retry/v1\", \"provider_attempts\": 2, \"retries\": [{\"attempt\": 1, \"max_attempts\": 3, \"wait_seconds\": 10.0, \"error_type\": \"APIError\", \"error_message\": \"ResourceExhausted: Worker local total request limit reached (42/32)\", \"reason\": \"provider_error\", \"boundary\": {\"kind\": \"user_message\", \"message_index\": 2, \"tool_call_ids\": []}, \"stream_events_received\": 0}]}"
+          }
+        ],
+        "fast-agent-timing": [
+          {
+            "type": "text",
+            "text": "{\"start_time\": 189070.0642922, \"end_time\": 189081.1562372, \"duration_ms\": 11091.94, \"ttft_ms\": 10553.02, \"time_to_response_ms\": 10553.02}"
+          }
+        ],
+        "fast-agent-usage": [
+          {
+            "type": "text",
+            "text": "{\"schema\": \"fast-agent.usage/v2\", \"provider_attempts\": [{\"provider\": \"openai\", \"upstream_provider\": null, \"usage_schema\": \"openai-chat\", \"model\": \"poolside/laguna-xs-2.1\", \"prompt\": {\"total\": 314, \"uncached\": null, \"cache_read\": 32, \"cache_write\": null, \"tool_use\": null}, \"completion\": {\"total\": 77, \"reasoning\": null}, \"tool_calls\": 0, \"reasoning_effort\": \"medium\", \"requested_service_tier\": null, \"service_tier\": null, \"cost_usd\": null, \"timestamp\": 1785392374.71896, \"raw_usage\": {\"completion_tokens\": 77, \"prompt_tokens\": 314, \"total_tokens\": 391, \"completion_tokens_details\": null, \"prompt_tokens_details\": {\"audio_tokens\": null, \"cache_write_tokens\": null, \"cached_tokens\": 32}}, \"total\": 391}]}"
+          }
+        ]
+      },
+      "stop_reason": "endTurn",
+      "is_template": false,
+      "timestamp": "2026-07-30T06:19:34.719324Z"
+    }
+  ]
+}

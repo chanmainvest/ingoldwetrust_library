@@ -1,0 +1,112 @@
+{
+  "schema_version": 3,
+  "session_id": "2607292319-ldsNnv",
+  "created_at": "2026-07-29T23:19:09.414135",
+  "last_activity": "2026-07-29T23:19:36.435812",
+  "metadata": {
+    "title": null,
+    "label": null,
+    "first_user_preview": "Write a sentence about gold.",
+    "pinned": false,
+    "extras": {}
+  },
+  "continuation": {
+    "active_agent": "gen",
+    "cwd": "B:\\chanmainvest\\ingoldwetrust_library",
+    "git": null,
+    "lineage": {
+      "forked_from": null,
+      "acp_session_id": null
+    },
+    "agents": {
+      "gen": {
+        "history_file": "history_gen.json",
+        "resolved_prompt": "You write one short sentence about gold.",
+        "model": "poolside/laguna-xs-2.1",
+        "model_spec": "openai.poolside/laguna-xs-2.1",
+        "provider": "openai",
+        "request_settings": {
+          "max_tokens": null,
+          "temperature": null,
+          "top_p": null,
+          "top_k": null,
+          "min_p": null,
+          "presence_penalty": null,
+          "frequency_penalty": null,
+          "repetition_penalty": null,
+          "use_history": true,
+          "parallel_tool_calls": true,
+          "max_iterations": 9999,
+          "tool_result_mode": "postprocess",
+          "streaming_timeout": 120.0,
+          "service_tier": null
+        },
+        "card_provenance": [],
+        "attachment_refs": [],
+        "model_overlay_refs": []
+      },
+      "ev": {
+        "history_file": null,
+        "resolved_prompt": "Rate the output. Reply with ONLY one word: EXCELLENT, GOOD, FAIR, or POOR.",
+        "model": "poolside/laguna-xs-2.1",
+        "model_spec": "openai.poolside/laguna-xs-2.1",
+        "provider": "openai",
+        "request_settings": {
+          "max_tokens": null,
+          "temperature": null,
+          "top_p": null,
+          "top_k": null,
+          "min_p": null,
+          "presence_penalty": null,
+          "frequency_penalty": null,
+          "repetition_penalty": null,
+          "use_history": true,
+          "parallel_tool_calls": true,
+          "max_iterations": 9999,
+          "tool_result_mode": "postprocess",
+          "streaming_timeout": 120.0,
+          "service_tier": null
+        },
+        "card_provenance": [],
+        "attachment_refs": [],
+        "model_overlay_refs": []
+      },
+      "loop": {
+        "history_file": null,
+        "resolved_prompt": "\n        You implement an iterative refinement process where content is generated,\n        evaluated for quality, and then refined based on specific feedback until\n        it reaches an acceptable quality standard.\n        ",
+        "model": null,
+        "model_spec": null,
+        "provider": null,
+        "request_settings": {
+          "max_tokens": null,
+          "temperature": null,
+          "top_p": null,
+          "top_k": null,
+          "min_p": null,
+          "presence_penalty": null,
+          "frequency_penalty": null,
+          "repetition_penalty": null,
+          "use_history": true,
+          "parallel_tool_calls": true,
+          "max_iterations": 9999,
+          "tool_result_mode": "postprocess",
+          "streaming_timeout": 120.0,
+          "service_tier": null
+        },
+        "card_provenance": [],
+        "attachment_refs": [],
+        "model_overlay_refs": []
+      }
+    }
+  },
+  "analysis": {
+    "usage_summary": {
+      "prompt_tokens": 1051,
+      "completion_tokens": 132,
+      "total_tokens": 1183
+    },
+    "timing_summary": null,
+    "provider_diagnostics": [],
+    "transport_diagnostics": []
+  }
+}

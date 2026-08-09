@@ -1,0 +1,9 @@
+default_model: openai.poolside/laguna-xs-2.1
+
+openai:
+  api_key: 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
+  base_url: https://integrate.api.nvidia.com/v1
+
+anthropic:
+  api_key: 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
+  base_url: https://integrate.api.nvidia.com/v1
